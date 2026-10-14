@@ -1,0 +1,16 @@
+:root{--bg:#f6f7f9;--fg:#1b1f24;--mut:#5d6672;--acc:#c8102e;--card:#fff;--bd:#e3e6ea}
+*{box-sizing:border-box}body{margin:0;font:15px/1.5 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;background:var(--bg);color:var(--fg)}
+.wrap{max-width:1150px;margin:0 auto;padding:0 20px}header{background:#111827;color:#fff;padding:22px 0 0}header h1{margin:0;font-size:28px}header p{color:#c9ced6;margin:4px 0 14px}
+nav{display:flex;gap:4px;flex-wrap:wrap}nav a{color:#d1d5db;text-decoration:none;padding:10px 14px;border-radius:8px 8px 0 0}nav a.on{background:var(--bg);color:var(--fg);font-weight:600}
+.tag{font-size:11px;background:var(--acc);color:#fff;padding:2px 7px;border-radius:99px;vertical-align:middle;letter-spacing:.05em}
+.tab{display:none;padding:24px 0}.tab.on{display:block}
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:14px}.card,.panel{background:var(--card);border:1px solid var(--bd);border-radius:12px;padding:18px}
+.card .n{font-size:32px;font-weight:700}.card .l{color:var(--mut);font-size:13px}.grid2{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin-top:14px}@media(max-width:800px){.grid2{grid-template-columns:1fr}}
+h2{font-size:17px;margin:0 0 10px}.latest{list-style:none;padding:0;margin:0}.latest li{padding:8px 0;border-bottom:1px solid var(--bd)}.latest small{color:var(--mut)}
+.bar{display:flex;align-items:center;gap:8px;margin:6px 0;font-size:13px}.bar span:first-child{width:170px}.bar i{display:block;height:12px;background:var(--acc);border-radius:4px}
+.filters{display:flex;gap:10px;margin-bottom:12px;flex-wrap:wrap}input,select,textarea{font:inherit;padding:8px 10px;border:1px solid var(--bd);border-radius:8px;background:#fff}#q,#bq{flex:1;min-width:220px}
+table{width:100%;border-collapse:collapse;background:#fff;border:1px solid var(--bd);border-radius:12px;overflow:hidden}th,td{text-align:left;padding:10px 12px;border-bottom:1px solid var(--bd);vertical-align:top}th{background:#f0f2f5;font-size:13px;cursor:pointer;user-select:none}th[data-k]:after{content:" ⇅";color:#aab}
+td.sum{color:var(--mut);font-size:13px}.st{font-size:12px;padding:2px 8px;border-radius:99px;font-weight:600}.st.varslet{background:#fff4d6;color:#8a5a00}.st.vedtatt{background:#fde2e4;color:#9b1c24}.st.gjennomført{background:#e5e7eb}.st.permittering{background:#dbeafe;color:#1e40af}.st.konkurs{background:#fde2e4;color:#9b1c24}.st.avvikling,.st.tvangsavvikling{background:#eee}
+a{color:#0b5cad}.src a{display:inline-block;margin-right:6px;font-size:12px}.note{color:var(--mut);font-size:13px}
+form label{display:block;margin-bottom:10px}form input,form textarea{display:block;width:100%;margin-top:4px}button{background:var(--acc);color:#fff;border:0;padding:10px 18px;border-radius:8px;font:inherit;cursor:pointer}
+footer{color:var(--mut);font-size:12px;padding:20px}

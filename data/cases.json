@@ -1,0 +1,180 @@
+{
+ "oppdatert": "2026-10-14T21:09",
+ "saker": [
+  {
+   "id": "rema1000-2026-10",
+   "selskap": "Rema 1000 Norge AS",
+   "sok": "REMA 1000 NORGE AS",
+   "antall": 130,
+   "enhet": "stillinger",
+   "omfang": "Norge",
+   "status": "vedtatt",
+   "dato": "2026-10-14",
+   "sektor": "Varehandel / dagligvare",
+   "oppsummering": "Rema 1000 Norge reduserer med 130 medarbeidere i støttefunksjoner ved servicekontoret i Oslo og regionskontorene (av ca. 530). Butikker og distribusjon omfattes ikke. Frivillige sluttpakker tilbys; ny organisasjon innen 1. januar 2027.",
+   "kilder": [
+    "https://e24.no/naeringsliv/i/Ogm8qA/rema-1000-kutter-130-ansatte",
+    "https://handelswatch.no/nyheter/dagligvarer/article19736230.ece",
+    "https://www.kode24.no/artikkel/rema-1000-kutter-130-folk-utelukker-ikke-at-utviklere-rammes/275376",
+    "https://www.nettavisen.no/nyheter/rema-kutter-130-stillinger/s/30-95-24053",
+    "https://www.dn.no/handel/rema-1000-nedbemanner/2-1-2058490"
+   ],
+   "orgnr": "982254604",
+   "brreg_navn": "REMA 1000 NORGE AS",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Rema%201000%20Norge%20AS"
+  },
+  {
+   "id": "telia-2026-10",
+   "selskap": "Telia Norge AS",
+   "sok": "TELIA NORGE AS",
+   "antall": 150,
+   "enhet": "stillinger",
+   "omfang": "Norge (del av ca. 900 i konsernet)",
+   "status": "varslet",
+   "dato": "2026-10-12",
+   "sektor": "Telekom",
+   "oppsummering": "Telia nedbemanner rundt 150 stillinger i Norge, inkludert innleide konsulenter, som del av et konsernkutt. Skal være gjennomført innen 31. desember 2026.",
+   "kilder": [
+    "https://e24.no/naeringsliv/i/9kopl5/telia-nedbemanner-kutter-150-stillinger-i-norge",
+    "https://www.nrk.no/nyheter/telia-nedbemanner--1.18052164"
+   ],
+   "orgnr": "981929055",
+   "brreg_navn": "TELIA NORGE AS",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Telia%20Norge%20AS"
+  },
+  {
+   "id": "dnb-2026-10",
+   "selskap": "DNB Bank ASA",
+   "sok": "DNB BANK ASA",
+   "antall": 400,
+   "enhet": "årsverk",
+   "omfang": "Norge og Riga (Latvia)",
+   "status": "varslet",
+   "dato": "2026-10-06",
+   "sektor": "Bank / finans",
+   "oppsummering": "DNB varsler nedbemanning av om lag 400 årsverk i Technology & Services (ca. 2 200–2 400 ansatte), og viser til KI-agenter innen koding, kundekontroll og KYC. Skal fullføres i 4. kvartal 2026; virkemiddelpakker tilbys. Ifølge tillitsvalgt gjelder det ansatte i Norge og Riga.",
+   "kilder": [
+    "https://www.kode24.no/artikkel/dnb-nedbemanner-400-innen-teknologi-viser-til-ki-koding/274407",
+    "https://www.ba.no/dnb-varsler-omstilling-og-kutter-400-arsverk/s/80-8-59041",
+    "https://e24.no/boers-og-finans/i/b8zly3/dnb-varsler-nedbemanning-kutter-400-aarsverk",
+    "https://www.nrk.no/nyheter/dnb-kutter-400-arsverk-1.18046519",
+    "https://www.kode24.no/artikkel/en-av-seks-ma-ga-i-dnb-avdeling-blir-sikkert-mye-fortvilelse/274425"
+   ],
+   "orgnr": "984851006",
+   "brreg_navn": "DNB BANK ASA",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=DNB%20Bank%20ASA"
+  },
+  {
+   "id": "akerbp-2026-10",
+   "selskap": "Aker BP ASA",
+   "sok": "AKER BP ASA",
+   "antall": null,
+   "enhet": "ikke tallfestet",
+   "omfang": "Norge",
+   "status": "varslet",
+   "dato": "2026-10-02",
+   "sektor": "Olje og gass",
+   "oppsummering": "Aker BP varsler reorganisering og en «betydelig reduksjon» i bemanningen. Selskapet har ikke tallfestet kuttet; Finansavisen omtaler at det kan bli opptil 1 000, i hovedsak innleide.",
+   "kilder": [
+    "https://e24.no/boers-og-finans/i/gd7a0B/aker-bp-sjefen-varsler-nedbemanning-blir-en-betydelig-reduksjon-sier-han-til-dn",
+    "https://www.finansavisen.no/energi/2026/10/02/8384911/aker-bp-kan-kutte-opptil-1.000-ansatte"
+   ],
+   "orgnr": "989795848",
+   "brreg_navn": "AKER BP ASA",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Aker%20BP%20ASA"
+  },
+  {
+   "id": "prysmian-2026-09",
+   "selskap": "Prysmian Group Norge AS",
+   "sok": "PRYSMIAN GROUP NORGE AS",
+   "antall": 16,
+   "enhet": "ansatte",
+   "omfang": "Drammen",
+   "status": "permittering",
+   "dato": "2026-09-25",
+   "sektor": "Industri",
+   "oppsigelse": "",
+   "oppsummering": "16 operatører ved kabelfabrikken i Drammen har fått permitteringsvarsel, gjeldende fra 12. oktober, grunnet lavere aktivitet i olje- og gassmarkedet.",
+   "kilder": [
+    "https://www.nrk.no/buskerud/permitterer-16-ansatte-i-drammen-1.18036297"
+   ],
+   "orgnr": "814780422",
+   "brreg_navn": "PRYSMIAN GROUP NORGE AS",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Prysmian%20Group%20Norge%20AS"
+  },
+  {
+   "id": "madshus-2026-09",
+   "selskap": "Madshus AS",
+   "sok": "MADSHUS AS",
+   "antall": 32,
+   "enhet": "ansatte",
+   "omfang": "Biri",
+   "status": "vedtatt",
+   "dato": "2026-09-21",
+   "sektor": "Industri",
+   "oppsummering": "Madshus legger ned skiproduksjonen på Biri og flytter den til Tsjekkia. 32 ansatte mister jobben; administrative funksjoner blir værende.",
+   "kilder": [
+    "https://www.aftenposten.no/okonomi/i/JOdnpR/etter-120-aar-legger-madshus-ned-skiproduksjonen-i-norge"
+   ],
+   "orgnr": "914136296",
+   "brreg_navn": "MADSHUS AS",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Madshus%20AS"
+  },
+  {
+   "id": "ikea-furuset-2026-09",
+   "selskap": "IKEA (Furuset, lager Kalbakken)",
+   "sok": null,
+   "antall": 40,
+   "enhet": "årsverk",
+   "omfang": "Oslo (60–70 personer pga. deltid)",
+   "status": "vedtatt",
+   "dato": "2026-09-09",
+   "sektor": "Varehandel",
+   "oppsummering": "Ikea Furuset stenger lageret på Kalbakken. 40 årsverk kuttes; ifølge HK-Nytt rammes 60–70 ansatte fordi mange jobber deltid.",
+   "kilder": [
+    "https://www.bygg.no/ikea/nedbemanning-pa-ikea-furuset-over-60-ansatte-rammes-melder-hk-nytt/2953248"
+   ],
+   "orgnr": null,
+   "orgnr_merknad": "Uavklart hvilken enhet (IKEA Furuset) – ikke satt automatisk",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=IKEA"
+  },
+  {
+   "id": "raufoss-tech-2026-08",
+   "selskap": "Raufoss Technology AS",
+   "sok": "RAUFOSS TECHNOLOGY AS",
+   "antall": 59,
+   "enhet": "ansatte",
+   "omfang": "Raufoss",
+   "status": "vedtatt",
+   "dato": "2026-08-25",
+   "sektor": "Industri (bildeler)",
+   "oppsummering": "Etter brannen i mars sies 59 av 128 ansatte opp. Fabrikken bygges inntil videre ikke opp igjen.",
+   "kilder": [
+    "https://www.nrk.no/innlandet/nesten-halvparten-av-de-ansatte-sies-opp-hos-raufoss-technology-etter-storbrannen-1.18001444",
+    "https://www.oa.no/59-ansatte-mister-jobben/s/80-35-8902"
+   ],
+   "orgnr": "971234288",
+   "brreg_navn": "RAUFOSS TECHNOLOGY AS",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Raufoss%20Technology%20AS"
+  },
+  {
+   "id": "bauhaus-2026-08",
+   "selskap": "Bauhaus Norge",
+   "sok": "BAUHAUS",
+   "antall": 294,
+   "enhet": "ansatte (registrert i Brreg)",
+   "omfang": "Norge – hele virksomheten",
+   "status": "vedtatt",
+   "dato": "2026-08-20",
+   "sektor": "Varehandel / byggevare",
+   "oppsummering": "Bauhaus avvikler all virksomhet i Norge (varehus i Lier, Stavanger og Vestby). Alle ansatte berøres; ifølge ansatte skal driften være avviklet senest 31. desember. 294 er registrert antall ansatte, ikke bekreftet antall oppsagte.",
+   "kilder": [
+    "https://www.vg.no/nyheter/i/vrVa6j/bauhaus-legger-ned-i-norge-250-ansatte-mister-jobben",
+    "https://www.nrk.no/buskerud/bauhaus-legger-ned-alle-butikker-i-norge-1.17996248"
+   ],
+   "orgnr": "989800442",
+   "brreg_navn": "BAUHAUS AS",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Bauhaus%20Norge"
+  }
+ ]
+}

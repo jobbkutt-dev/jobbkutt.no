@@ -1,0 +1,34 @@
+<!doctype html><html lang="nb"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Kuttlista – nedbemanninger i Norge (UTKAST)</title><link rel="stylesheet" href="style.css"></head><body>
+<header><div class="wrap"><h1>Kuttlista <span class="tag">UTKAST</span></h1><p>Oversikt over varslede nedbemanninger, permitteringer og konkurser i Norge – basert kun på offentlige kilder.</p>
+<nav><a href="#oversikt" data-tab="oversikt">Oversikt</a><a href="#saker" data-tab="saker">Saker</a><a href="#konkurser" data-tab="konkurser">Konkurser</a><a href="#ansetter" data-tab="ansetter">Hvem ansetter?</a><a href="#tips" data-tab="tips">Tips oss</a><a href="#om" data-tab="om">Om / ansvar</a></nav></div></header>
+<main class="wrap">
+<section id="oversikt" class="tab">
+ <div class="cards" id="cards"></div>
+ <div class="grid2"><div class="panel"><h2>Siste saker</h2><ul id="latest" class="latest"></ul></div>
+ <div class="panel"><h2>Berørte per sektor</h2><div id="sectors"></div></div></div>
+ <p class="note">⚠️ Varslet nedbemanning er ikke det samme som faktiske oppsigelser. Tall er slik de er oppgitt i kildene (stillinger, årsverk eller ansatte) og kan ikke uten videre summeres.</p>
+</section>
+<section id="saker" class="tab">
+ <div class="filters"><input id="q" placeholder="Søk selskap, sektor …"><select id="fstatus"><option value="">Alle statuser</option><option>varslet</option><option>vedtatt</option><option>gjennomført</option><option>permittering</option></select><select id="fsektor"><option value="">Alle sektorer</option></select></div>
+ <table id="tbl"><thead><tr><th data-k="dato">Dato</th><th data-k="selskap">Selskap</th><th data-k="antall">Antall</th><th data-k="status">Status</th><th data-k="sektor">Sektor</th><th>Kilder</th></tr></thead><tbody></tbody></table>
+</section>
+<section id="konkurser" class="tab">
+ <p id="brreginfo" class="note"></p>
+ <div class="filters"><input id="bq" placeholder="Søk navn, bransje, kommune …"><select id="btype"><option value="">Alle typer</option><option>konkurs</option><option>avvikling</option><option>tvangsavvikling</option></select></div>
+ <table id="btbl"><thead><tr><th data-k="dato">Dato</th><th data-k="navn">Virksomhet</th><th data-k="antallAnsatte">Ansatte*</th><th data-k="type">Type</th><th data-k="bransje">Bransje</th><th data-k="kommune">Kommune</th></tr></thead><tbody></tbody></table>
+ <p class="note">*Antall ansatte er siste registrerte tall i Aa-registeret/Enhetsregisteret, ikke nødvendigvis antall som mister jobben.</p>
+</section>
+<section id="ansetter" class="tab"><div class="panel"><h2>Hvem ansetter? <span class="tag">plassholder</span></h2>
+ <p>NAVs stillingsfeed (pam-stilling-feed) krever et API-token. Inntil det er på plass lenker vi hvert selskap i lista til et søk på arbeidsplassen.nav.no.</p><ul id="navlinks"></ul></div></section>
+<section id="tips" class="tab"><div class="panel"><h2>Tips oss</h2><p>Kjenner du til en nedbemanning vi mangler? Vi publiserer kun saker med en offentlig kilde (nyhetssak, børsmelding, pressemelding).</p>
+ <form id="tipsform"><label>Selskap*<input required name="selskap"></label><label>Lenke til kilde* <input required type="url" name="url" placeholder="https://…"></label><label>Antall berørte (hvis oppgitt)<input name="antall" type="number" min="0"></label><label>Kommentar<textarea name="kommentar"></textarea></label><button>Send tips</button><p id="tipsmsg" class="note"></p></form></div></section>
+<section id="om" class="tab"><div class="panel"><h2>Om Kuttlista og ansvarsfraskrivelse</h2>
+<ul><li>Siden bygger <b>kun på offentlige kilder</b>: nyhetsartikler, børsmeldinger, pressemeldinger og Brønnøysundregistrene. Hver sak lenker til kilden.</li>
+<li><b>Varsel ≠ oppsigelse.</b> «Varslet» betyr at selskapet har meldt om en planlagt reduksjon. Antallet som faktisk mister jobben kan bli lavere (sluttpakker, naturlig avgang, omplassering) eller annerledes.</li>
+<li>Tall gjengis slik kilden oppgir dem (stillinger/årsverk/ansatte) og kan inkludere ansatte utenfor Norge der det er markert.</li>
+<li>Permittering er midlertidig og er ikke oppsigelse.</li>
+<li>Konkurs-/avviklingsdata hentes automatisk fra Enhetsregisteret; antall ansatte er siste registrerte tall.</li>
+<li><b>Feil eller rettelser?</b> Kontakt: <a href="mailto:kontakt@jobbkutt.no">kontakt@jobbkutt.no</a>. Vi retter raskt og markerer endringer.</li></ul>
+<p class="note">Dette er et lokalt utkast. Ikke publisert.</p></div></section>
+</main><footer class="wrap" id="foot"></footer><script src="app.js"></script></body></html>
