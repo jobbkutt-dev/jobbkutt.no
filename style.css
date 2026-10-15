@@ -14,3 +14,4 @@ td.sum{color:var(--mut);font-size:13px}.st{font-size:12px;padding:2px 8px;border
 a{color:#0b5cad}.src a{display:inline-block;margin-right:6px;font-size:12px}.note{color:var(--mut);font-size:13px}
 form label{display:block;margin-bottom:10px}form input,form textarea{display:block;width:100%;margin-top:4px}button{background:var(--acc);color:#fff;border:0;padding:10px 18px;border-radius:8px;font:inherit;cursor:pointer}
 footer{color:var(--mut);font-size:12px;padding:20px}
+.kind{font-size:11px;text-transform:uppercase;letter-spacing:.03em;padding:1px 6px;border-radius:4px;font-weight:700;background:#e5e7eb;color:#374151}.kind.nb{background:#dbeafe;color:#1e40af}.kind.konkurs{background:#fde2e4;color:#9b1c24}
