@@ -1,5 +1,5 @@
 {
- "oppdatert": "2026-10-14T21:09",
+ "oppdatert": "2026-10-15T09:11",
  "saker": [
   {
    "id": "rema1000-2026-10",
@@ -24,6 +24,26 @@
    "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Rema%201000%20Norge%20AS"
   },
   {
+   "id": "isbilen-2026-10",
+   "selskap": "Den Norske Isbilen AS",
+   "sok": "DEN NORSKE ISBILEN AS",
+   "antall": 66,
+   "enhet": "ansatte",
+   "omfang": "Norge – hele virksomheten",
+   "status": "vedtatt",
+   "dato": "2026-10-13",
+   "sektor": "Varehandel / dagligvare (isdistribusjon)",
+   "oppsummering": "Den Norske Isbilen avvikler hele driften etter flere år med store underskudd (over 100 mill. kr i driftstap i 2023–2024). Avviklingen skal være gjennomført innen utgangen av 2026. Ifølge selskapets pressemelding (via BT/NTB) berøres 66 ansatte. Isbjørn Is-produksjonen på Askøy videreføres.",
+   "kilder": [
+    "https://www.vg.no/nyheter/i/PgOq8z/isbilen-avvikler-driften",
+    "https://www.ba.no/den-norske-ibilen-avvikler-driften/s/80-8-67736",
+    "https://www.finansavisen.no/handel/2026/10/13/8387402/den-norske-isbilen-legger-ned-etter-milliontap"
+   ],
+   "orgnr": "976118227",
+   "brreg_navn": "DEN NORSKE ISBILEN AS",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Den%20Norske%20Isbilen%20AS"
+  },
+  {
    "id": "telia-2026-10",
    "selskap": "Telia Norge AS",
    "sok": "TELIA NORGE AS",
@@ -41,6 +61,25 @@
    "orgnr": "981929055",
    "brreg_navn": "TELIA NORGE AS",
    "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Telia%20Norge%20AS"
+  },
+  {
+   "id": "mm-follacell-2026-10",
+   "selskap": "MM FollaCell AS",
+   "sok": "MM FOLLACELL AS",
+   "antall": null,
+   "enhet": "ikke tallfestet",
+   "omfang": "Follafoss (Steinkjer)",
+   "status": "permittering",
+   "dato": "2026-10-06",
+   "sektor": "Industri (treforedling)",
+   "oppsummering": "MM FollaCell permitterer halvparten av de ansatte 50 prosent i en rullerende ordning fra 26. oktober, grunnet svak global etterspørsel, fallende priser og økte energikostnader. Eksakt antall er ikke oppgitt; bedriften har rundt 80 ansatte inkludert lærlinger. Håper på full drift igjen neste sommer.",
+   "kilder": [
+    "https://www.nrk.no/trondelag/mm-follacell-permitterer-ansatte-1.18046487",
+    "https://www.t-a.no/ma-permittere-haper-pa-full-drift-neste-sommer/s/80-116-24197"
+   ],
+   "orgnr": "950198168",
+   "brreg_navn": "MM FOLLACELL AS",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=MM%20FollaCell%20AS"
   },
   {
    "id": "dnb-2026-10",

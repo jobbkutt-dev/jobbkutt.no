@@ -1,7 +1,51 @@
 {
- "oppdatert": "2026-10-14T21:08",
- "filter": "antallAnsatte >= 10, dato >= 2026-04-17",
+ "oppdatert": "2026-10-15T09:09",
+ "filter": "antallAnsatte >= 10, dato >= 2026-04-18",
  "enheter": [
+  {
+   "orgnr": "934093046",
+   "navn": "EM DISTRIBUSJON BERGEN AS",
+   "type": "konkurs",
+   "dato": "2026-10-14",
+   "antallAnsatte": 29,
+   "bransje": "Godstransport på vei",
+   "naeringskode": "49.410",
+   "kommune": "BERGEN",
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/934093046"
+  },
+  {
+   "orgnr": "933500187",
+   "navn": "EM TRANSPORT AS",
+   "type": "konkurs",
+   "dato": "2026-10-14",
+   "antallAnsatte": 33,
+   "bransje": "Godstransport på vei",
+   "naeringskode": "49.410",
+   "kommune": "BERGEN",
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/933500187"
+  },
+  {
+   "orgnr": "919820152",
+   "navn": "HEEN BYGG AS",
+   "type": "konkurs",
+   "dato": "2026-10-14",
+   "antallAnsatte": 14,
+   "bransje": "Oppføring av bygninger",
+   "naeringskode": "41.000",
+   "kommune": "TØNSBERG",
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/919820152"
+  },
+  {
+   "orgnr": "994734962",
+   "navn": "BARBER&SONS AS",
+   "type": "tvangsavvikling",
+   "dato": "2026-10-14",
+   "antallAnsatte": 11,
+   "bransje": "Frisering og barbering",
+   "naeringskode": "96.210",
+   "kommune": "TRONDHEIM",
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/994734962"
+  },
   {
    "orgnr": "816958172",
    "navn": "PEER GYNT HOTEL OG SPISERI AS",
