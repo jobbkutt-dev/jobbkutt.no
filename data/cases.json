@@ -18,7 +18,8 @@
       "sektor": "Offentlig forvaltning / helse",
       "selskap": "Folkehelseinstituttet (FHI)",
       "sok": "FOLKEHELSEINSTITUTTET",
-      "status": "varslet"
+      "status": "varslet",
+      "kommentar": null
     },
     {
       "id": "rema1000-2026-10",
@@ -40,7 +41,8 @@
       ],
       "orgnr": "982254604",
       "brreg_navn": "REMA 1000 NORGE AS",
-      "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Rema%201000%20Norge%20AS"
+      "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Rema%201000%20Norge%20AS",
+      "kommentar": null
     },
     {
       "id": "isbilen-2026-10",
@@ -60,7 +62,8 @@
       ],
       "orgnr": "976118227",
       "brreg_navn": "DEN NORSKE ISBILEN AS",
-      "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Den%20Norske%20Isbilen%20AS"
+      "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Den%20Norske%20Isbilen%20AS",
+      "kommentar": null
     },
     {
       "id": "telia-2026-10",
@@ -79,7 +82,8 @@
       ],
       "orgnr": "981929055",
       "brreg_navn": "TELIA NORGE AS",
-      "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Telia%20Norge%20AS"
+      "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Telia%20Norge%20AS",
+      "kommentar": null
     },
     {
       "id": "mm-follacell-2026-10",
@@ -99,7 +103,8 @@
       ],
       "orgnr": "950198168",
       "brreg_navn": "MM FOLLACELL AS",
-      "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=MM%20FollaCell%20AS"
+      "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=MM%20FollaCell%20AS",
+      "kommentar": "Antall er beregnet: halvparten av ca. 80 ansatte permitteres 50 %."
     },
     {
       "id": "dnb-2026-10",
@@ -121,7 +126,8 @@
       ],
       "orgnr": "984851006",
       "brreg_navn": "DNB BANK ASA",
-      "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=DNB%20Bank%20ASA"
+      "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=DNB%20Bank%20ASA",
+      "kommentar": null
     },
     {
       "id": "akerbp-2026-10",
@@ -141,7 +147,8 @@
       ],
       "orgnr": "989795848",
       "brreg_navn": "AKER BP ASA",
-      "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Aker%20BP%20ASA"
+      "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Aker%20BP%20ASA",
+      "kommentar": "«Opptil 1 000» – endelig tall er ikke bekreftet av selskapet."
     },
     {
       "id": "prysmian-2026-09",
@@ -160,7 +167,8 @@
       ],
       "orgnr": "814780422",
       "brreg_navn": "PRYSMIAN GROUP NORGE AS",
-      "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Prysmian%20Group%20Norge%20AS"
+      "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Prysmian%20Group%20Norge%20AS",
+      "kommentar": null
     },
     {
       "id": "madshus-2026-09",
@@ -178,7 +186,8 @@
       ],
       "orgnr": "914136296",
       "brreg_navn": "MADSHUS AS",
-      "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Madshus%20AS"
+      "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Madshus%20AS",
+      "kommentar": null
     },
     {
       "id": "folkehjelp-2026-09",
@@ -196,7 +205,8 @@
       ],
       "orgnr": "871033552",
       "brreg_navn": "NORSK FOLKEHJELP",
-      "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Norsk%20Folkehjelp"
+      "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Norsk%20Folkehjelp",
+      "kommentar": null
     },
     {
       "id": "ulefos-2026-09",
@@ -214,7 +224,8 @@
       ],
       "orgnr": null,
       "brreg_navn": null,
-      "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Ulefos"
+      "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Ulefos",
+      "kommentar": null
     },
     {
       "id": "ikea-furuset-2026-09",
@@ -232,7 +243,8 @@
       ],
       "orgnr": null,
       "orgnr_merknad": "Uavklart hvilken enhet (IKEA Furuset) – ikke satt automatisk",
-      "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=IKEA"
+      "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=IKEA",
+      "kommentar": null
     },
     {
       "id": "pwc-2026-09",
@@ -250,7 +262,8 @@
       ],
       "orgnr": "987009713",
       "brreg_navn": "PRICEWATERHOUSECOOPERS AS",
-      "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=PwC"
+      "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=PwC",
+      "kommentar": null
     },
     {
       "id": "benteler-2026-09",
@@ -268,7 +281,8 @@
       ],
       "orgnr": "994344552",
       "brreg_navn": "BENTELER AUTOMOTIVE RAUFOSS AS",
-      "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Benteler"
+      "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Benteler",
+      "kommentar": null
     },
     {
       "id": "pharmaq-2026-09",
@@ -286,7 +300,8 @@
       ],
       "orgnr": "886953402",
       "brreg_navn": "PHARMAQ AS",
-      "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Pharmaq"
+      "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Pharmaq",
+      "kommentar": null
     },
     {
       "id": "posten-2026-09",
@@ -304,7 +319,8 @@
       ],
       "orgnr": "984661185",
       "brreg_navn": "POSTEN BRING AS",
-      "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Posten%20Bring"
+      "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Posten%20Bring",
+      "kommentar": null
     },
     {
       "id": "raufoss-tech-2026-08",
@@ -323,7 +339,8 @@
       ],
       "orgnr": "971234288",
       "brreg_navn": "RAUFOSS TECHNOLOGY AS",
-      "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Raufoss%20Technology%20AS"
+      "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Raufoss%20Technology%20AS",
+      "kommentar": null
     },
     {
       "id": "bauhaus-2026-08",
@@ -342,7 +359,8 @@
       ],
       "orgnr": "989800442",
       "brreg_navn": "BAUHAUS AS",
-      "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Bauhaus%20Norge"
+      "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Bauhaus%20Norge",
+      "kommentar": null
     },
     {
       "id": "rohneselmer-2026-07",
@@ -360,7 +378,8 @@
       ],
       "orgnr": "933823970",
       "brreg_navn": "RØHNESELMER AS",
-      "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=R%C3%B8hneSelmer"
+      "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=R%C3%B8hneSelmer",
+      "kommentar": null
     },
     {
       "id": "statkraft-2026-07",
@@ -378,7 +397,8 @@
       ],
       "orgnr": "987059699",
       "brreg_navn": "STATKRAFT AS",
-      "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Statkraft"
+      "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Statkraft",
+      "kommentar": "Tallet gjelder hele konsernet, ikke bare Norge."
     },
     {
       "id": "saugbrugs-2026-07",
@@ -396,7 +416,8 @@
       ],
       "orgnr": "996732703",
       "brreg_navn": "NORSKE SKOG SAUGBRUGS AS",
-      "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Norske%20Skog"
+      "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Norske%20Skog",
+      "kommentar": null
     },
     {
       "id": "lyko-2026-07",
@@ -414,7 +435,8 @@
       ],
       "orgnr": "995398214",
       "brreg_navn": "LYKO AS",
-      "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Lyko"
+      "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Lyko",
+      "kommentar": null
     },
     {
       "id": "nmbu-2026-06",
@@ -433,7 +455,8 @@
       ],
       "orgnr": "969159570",
       "brreg_navn": "NORGES MILJØ- OG BIOVITENSKAPELIGE UNIVERSITET (NMBU)",
-      "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=NMBU"
+      "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=NMBU",
+      "kommentar": null
     },
     {
       "id": "sparebanken-norge-2026-06",
@@ -451,7 +474,8 @@
       ],
       "orgnr": "832554332",
       "brreg_navn": "SPAREBANKEN NORGE",
-      "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Sparebanken%20Norge"
+      "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Sparebanken%20Norge",
+      "kommentar": "Kilden oppgir et spenn; vi bruker øvre tall."
     },
     {
       "id": "consto-2026-06",
@@ -470,7 +494,8 @@
       ],
       "orgnr": "995754606",
       "brreg_navn": "CONSTO AS",
-      "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Consto"
+      "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Consto",
+      "kommentar": "Kilden oppgir kun «et betydelig antall»."
     },
     {
       "id": "moelven-limtre-2026-05",
@@ -488,7 +513,8 @@
       ],
       "orgnr": "913711300",
       "brreg_navn": "MOELVEN LIMTRE AS",
-      "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Moelven"
+      "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Moelven",
+      "kommentar": null
     },
     {
       "id": "visma-2026-05",
@@ -506,7 +532,8 @@
       ],
       "orgnr": "982410339",
       "brreg_navn": "VISMA ENTERPRISE AS",
-      "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Visma"
+      "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Visma",
+      "kommentar": "Antall er beregnet: ca. 25 % av ca. 400 ansatte."
     },
     {
       "id": "morrow-2026-05",
@@ -524,7 +551,8 @@
       ],
       "orgnr": "913102436",
       "brreg_navn": "MORROW BATTERIES ASA",
-      "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Morrow"
+      "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Morrow",
+      "kommentar": "Konkurs; alle ansatte mistet jobben."
     },
     {
       "id": "norse-2026-05",
@@ -542,7 +570,8 @@
       ],
       "orgnr": "926493647",
       "brreg_navn": "NORSE ATLANTIC AIRWAYS AS",
-      "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Norse%20Atlantic"
+      "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Norse%20Atlantic",
+      "kommentar": null
     },
     {
       "id": "remarkable-2026-04",
@@ -560,7 +589,8 @@
       ],
       "orgnr": "917352836",
       "brreg_navn": "REMARKABLE AS",
-      "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=reMarkable"
+      "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=reMarkable",
+      "kommentar": "Kilden oppgir et spenn; vi bruker øvre tall."
     },
     {
       "id": "rosenberg-2026-04",
@@ -578,7 +608,8 @@
       ],
       "orgnr": "984329075",
       "brreg_navn": "ROSENBERG WORLEY AS",
-      "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Rosenberg%20Worley"
+      "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Rosenberg%20Worley",
+      "kommentar": null
     },
     {
       "id": "tinde-2026-04",
@@ -596,7 +627,8 @@
       ],
       "orgnr": "985135282",
       "brreg_navn": "TINDE HYTTER AS",
-      "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Tinde%20Hytter"
+      "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Tinde%20Hytter",
+      "kommentar": null
     },
     {
       "id": "bkk-2026-04",
@@ -614,7 +646,8 @@
       ],
       "orgnr": "976944801",
       "brreg_navn": "BKK AS",
-      "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=BKK"
+      "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=BKK",
+      "kommentar": "Kilden oppgir et spenn; vi bruker øvre tall."
     },
     {
       "id": "vend-2026-03",
@@ -632,7 +665,8 @@
       ],
       "orgnr": "981159772",
       "brreg_navn": "VEND MARKETPLACES AS",
-      "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Vend"
+      "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Vend",
+      "kommentar": null
     },
     {
       "id": "elkem-2026-03",
@@ -650,7 +684,8 @@
       ],
       "orgnr": "911382008",
       "brreg_navn": "ELKEM ASA",
-      "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Elkem"
+      "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Elkem",
+      "kommentar": "Tallet gjelder hele konsernet, ikke bare Norge."
     },
     {
       "id": "google-2026-03",
@@ -669,7 +704,8 @@
       ],
       "orgnr": "988588261",
       "brreg_navn": "GOOGLE NORWAY AS",
-      "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Google"
+      "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Google",
+      "kommentar": "Tall fra Kampanje («et titalls ansatte»); Google vil ikke oppgi tall."
     },
     {
       "id": "lindum-2026-03",
@@ -687,7 +723,8 @@
       ],
       "orgnr": "979618840",
       "brreg_navn": "LINDUM AS",
-      "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Lindum%20AS"
+      "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Lindum%20AS",
+      "kommentar": null
     },
     {
       "id": "nymo-2026-02",
@@ -705,7 +742,8 @@
       ],
       "orgnr": "914853052",
       "brreg_navn": "AS NYMO",
-      "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Nymo"
+      "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Nymo",
+      "kommentar": "Kilden oppgir et spenn; vi bruker øvre tall."
     },
     {
       "id": "tomra-2026-02",
@@ -723,7 +761,8 @@
       ],
       "orgnr": "927124238",
       "brreg_navn": "TOMRA SYSTEMS ASA",
-      "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Tomra"
+      "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Tomra",
+      "kommentar": "Tallet gjelder hele konsernet, ikke bare Norge."
     },
     {
       "id": "ikea-hk-2026-02",
@@ -742,7 +781,8 @@
       ],
       "orgnr": "914787521",
       "brreg_navn": "IKEA AS",
-      "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=IKEA"
+      "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=IKEA",
+      "kommentar": "Kilden oppgir et spenn; vi bruker øvre tall."
     },
     {
       "id": "nrk-2026-01",
@@ -760,7 +800,8 @@
       ],
       "orgnr": "976390512",
       "brreg_navn": "NORSK RIKSKRINGKASTING AS",
-      "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=NRK"
+      "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=NRK",
+      "kommentar": "Gjennom naturlig avgang."
     },
     {
       "id": "aker-solutions-2026-01",
@@ -778,7 +819,8 @@
       ],
       "orgnr": "913748174",
       "brreg_navn": "AKER SOLUTIONS ASA",
-      "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Aker%20Solutions%20ASA"
+      "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Aker%20Solutions%20ASA",
+      "kommentar": null
     }
   ]
 }
