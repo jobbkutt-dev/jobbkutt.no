@@ -18,7 +18,6 @@ Promise.all([fetch('data/cases.json',{cache:'no-cache'}).then(r=>r.json()),fetch
  const bgo=sortable($('#btbl'),()=>E.filter(e=>(!$('#btype').value||e.type===$('#btype').value)&&JSON.stringify(e).toLowerCase().includes($('#bq').value.toLowerCase())),
   rs=>$('#btbl tbody').innerHTML=rs.map(e=>`<tr><td>${e.dato||'–'}</td><td><a href="${e.kilde}" target="_blank">${e.navn}</a><br><small>${e.orgnr}</small></td><td>${fmt(e.antallAnsatte)}</td><td><span class="st ${e.type}">${e.type}</span></td><td>${e.bransje||''}</td><td>${e.kommune||''}</td></tr>`).join(''));
  ['#bq','#btype'].forEach(s=>$(s).oninput=bgo);bgo();
- $('#navlinks').innerHTML=S.map(c=>`<li>${c.selskap}: <a href="${c.nav_stillinger}" target="_blank">ledige stillinger på arbeidsplassen.nav.no</a></li>`).join('');
  $('#foot').textContent=`Sist oppdatert ${C.oppdatert.replace('T',' ')} · *Tall i kildene er stillinger, årsverk eller ansatte og er summert som indikasjon. Aker BP er ikke tallfestet og telles ikke.`;
 });
 $('#tipsform').onsubmit=e=>{e.preventDefault();const f=new FormData(e.target),body=`Selskap: ${f.get('selskap')}\nKilde: ${f.get('url')}\nAntall berørte: ${f.get('antall')||'–'}\nKommentar: ${f.get('kommentar')||''}`;location.href=`mailto:kontakt@jobbkutt.no?subject=${encodeURIComponent('Tips: '+f.get('selskap'))}&body=${encodeURIComponent(body)}`;$('#tipsmsg').textContent='Takk! E-postprogrammet ditt åpnes med tipset ferdig utfylt – trykk send der. Du kan også skrive direkte til kontakt@jobbkutt.no.'};
