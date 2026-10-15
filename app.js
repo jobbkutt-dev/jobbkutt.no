@@ -21,11 +21,9 @@ Promise.all([fetch('data/cases.json',{cache:'no-cache'}).then(r=>r.json()),fetch
  const bgo=sortable($('#btbl'),()=>E.filter(e=>(!$('#btype').value||e.type===$('#btype').value)&&ym(e,'#byear','#bmonth')&&JSON.stringify(e).toLowerCase().includes($('#bq').value.toLowerCase())),
   rs=>$('#btbl tbody').innerHTML=rs.map(e=>`<tr><td>${e.dato?dd(e.dato):'–'}</td><td><a href="${e.kilde}" target="_blank">${e.navn}</a><br><small>${e.orgnr}</small></td><td>${fmt(e.antallAnsatte)}</td><td><span class="st ${e.type}">${e.type}</span></td><td>${e.bransje||''}</td><td>${e.kommune||''}</td></tr>`).join(''));
  ['#bq','#btype','#byear','#bmonth'].forEach(s=>$(s).oninput=bgo);bgo();
- $('#foot').textContent=`Sist oppdatert ${C.oppdatert.replace('T',' ')} · *Tall i kildene er stillinger, årsverk eller ansatte og er summert som indikasjon. Aker BP er ikke tallfestet og telles ikke.`;
+ $('#foot').textContent=`Sist oppdatert ${C.oppdatert.replace('T',' ')} · *Tall i kildene er stillinger, årsverk eller ansatte og er summert som indikasjon. Aker BP er tatt med med øvre anslag fra mediene («opptil 1 000»).`;
 });
 $('#tipsform').onsubmit=e=>{e.preventDefault();const f=new FormData(e.target),body=`Selskap: ${f.get('selskap')}\nKilde: ${f.get('url')}\nAntall berørte: ${f.get('antall')||'–'}\nKommentar: ${f.get('kommentar')||''}`;location.href=`mailto:kontakt@jobbkutt.no?subject=${encodeURIComponent('Tips: '+f.get('selskap'))}&body=${encodeURIComponent(body)}`;$('#tipsmsg').textContent='Takk! E-postprogrammet ditt åpnes med tipset ferdig utfylt – trykk send der. Du kan også skrive direkte til kontakt@jobbkutt.no.'};
 
 function fmtSjekket(t){const m=/^(\d{4})-(\d{2})-(\d{2})T(\d{2}):(\d{2})/.exec(t||'');return m?`Sist sjekket ${m[3]}.${m[2]}.${m[1]} kl. ${m[4]}:${m[5]}`:''}
 fetch('data/status.json',{cache:'no-cache'}).then(r=>r.ok?r.json():null).then(S=>{const t=S&&fmtSjekket(S.sist_sjekket);if(!t)return;const f=document.getElementById('foot');if(!f)return;let e=document.getElementById('sjekket');if(!e){e=document.createElement('div');e.id='sjekket';e.className='note';f.parentNode.insertBefore(e,f)}e.textContent=t}).catch(()=>{});
-
-
