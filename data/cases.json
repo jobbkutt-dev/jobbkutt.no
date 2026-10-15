@@ -1,5 +1,5 @@
 {
- "oppdatert": "2026-10-15T15:08",
+ "oppdatert": "2026-10-15T18:30",
  "saker": [
   {
    "antall": 100,
@@ -179,6 +179,42 @@
    "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Madshus%20AS"
   },
   {
+   "id": "folkehjelp-2026-09",
+   "selskap": "Norsk Folkehjelp",
+   "sok": "NORSK FOLKEHJELP",
+   "antall": 35,
+   "enhet": "stillinger",
+   "omfang": "Hovedkontoret i Oslo (34,7 stillinger); ca. 1700 globalt",
+   "status": "vedtatt",
+   "dato": "2026-09-16",
+   "sektor": "Frivillig sektor / bistand",
+   "oppsummering": "Etter å ha takket nei til 400 mill. kr i bistand fra USA må Norsk Folkehjelp kutte rundt 1700 stillinger globalt, hvorav 34,7 stillinger ved hovedkontoret.",
+   "kilder": [
+    "https://www.abcnyheter.no/nyheter/norsk-folkehjelp-kutter-35-stillinger-pa-hovedkontoret/1669972"
+   ],
+   "orgnr": "871033552",
+   "brreg_navn": "NORSK FOLKEHJELP",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Norsk%20Folkehjelp"
+  },
+  {
+   "id": "ulefos-2026-09",
+   "selskap": "Ulefos Jærnverk",
+   "sok": null,
+   "antall": 114,
+   "enhet": "ansatte",
+   "omfang": "Ulefoss, Nome (avvikles innen tre år; 30 nye jobber på Stange)",
+   "status": "vedtatt",
+   "dato": "2026-09-15",
+   "sektor": "Industri (støperi)",
+   "oppsummering": "Styret vedtok å legge ned Ulefos Jærnverk etter 369 år. Støperiproduksjonen avvikles innen tre år og flyttes gradvis til Stange jernstøperi, som får behov for 30 nye ansatte. 114 ansatte rammes.",
+   "kilder": [
+    "https://www.bygg.no/naeringsliv-telemark/norges-eldste-bedrift-i-ulefoss-legges-ned/2955380"
+   ],
+   "orgnr": null,
+   "brreg_navn": null,
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Ulefos"
+  },
+  {
    "id": "ikea-furuset-2026-09",
    "selskap": "IKEA (Furuset, lager Kalbakken)",
    "sok": null,
@@ -195,6 +231,78 @@
    "orgnr": null,
    "orgnr_merknad": "Uavklart hvilken enhet (IKEA Furuset) – ikke satt automatisk",
    "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=IKEA"
+  },
+  {
+   "id": "pwc-2026-09",
+   "selskap": "PwC Norge",
+   "sok": "PRICEWATERHOUSECOOPERS AS",
+   "antall": 40,
+   "enhet": "stillinger",
+   "omfang": "Norge (rådgivning)",
+   "status": "varslet",
+   "dato": "2026-09-08",
+   "sektor": "Rådgivning / revisjon",
+   "oppsummering": "PwC selger deler av rådgivningsvirksomheten, primært utenfor Oslo, til lokale partnere, og om lag 40 stillinger berøres som følge av automatisering, ny teknologi og sentralisering.",
+   "kilder": [
+    "https://www.nettavisen.no/okonomi/pwc-kutter-50-stillinger/s/80-95-61370"
+   ],
+   "orgnr": "987009713",
+   "brreg_navn": "PRICEWATERHOUSECOOPERS AS",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=PwC"
+  },
+  {
+   "id": "benteler-2026-09",
+   "selskap": "Benteler Automotive Raufoss AS",
+   "sok": "BENTELER AUTOMOTIVE RAUFOSS AS",
+   "antall": 15,
+   "enhet": "ansatte",
+   "omfang": "Raufoss (inntil 15 oppsigelser + inntil 15 permitteringer)",
+   "status": "varslet",
+   "dato": "2026-09-03",
+   "sektor": "Industri (bildeler)",
+   "oppsummering": "Benteler på Raufoss varsler mulige nedbemanninger og permitteringer: inntil 15 ansatte kan miste jobben, og like mange risikerer permittering.",
+   "kilder": [
+    "https://www.oa.no/benteler-pa-raufoss-varsler-permitteringer/s/80-35-14190"
+   ],
+   "orgnr": "994344552",
+   "brreg_navn": "BENTELER AUTOMOTIVE RAUFOSS AS",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Benteler"
+  },
+  {
+   "id": "pharmaq-2026-09",
+   "selskap": "Pharmaq AS",
+   "sok": "PHARMAQ AS",
+   "antall": 10,
+   "enhet": "stillinger",
+   "omfang": "Norge (bl.a. Skogmo i Overhalla)",
+   "status": "varslet",
+   "dato": "2026-09-03",
+   "sektor": "Legemidler / akvakultur",
+   "oppsummering": "Pharmaq nedbemanner om lag ti stillinger i Norge, også ved avdelingen på Skogmo i Overhalla, på grunn av endret markedssituasjon i Norge og Chile.",
+   "kilder": [
+    "https://www.nrk.no/trondelag/nedbemanningsprosess-i-pharmaq-vil-berore-avdeling-i-overhalla-1.18012571"
+   ],
+   "orgnr": "886953402",
+   "brreg_navn": "PHARMAQ AS",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Pharmaq"
+  },
+  {
+   "id": "posten-2026-09",
+   "selskap": "Posten Bring AS",
+   "sok": "POSTEN BRING AS",
+   "antall": 300,
+   "enhet": "stillinger",
+   "omfang": "Stab- og støttefunksjoner (over 300, fram mot 2027)",
+   "status": "varslet",
+   "dato": "2026-09-02",
+   "sektor": "Transport / logistikk",
+   "oppsummering": "Over 300 mister jobben i stab- og støttefunksjoner i Posten Bring fram mot 2027, kunngjort på allmøte. Bakgrunnen er krav om 25 % kostnadskutt; postdistribusjonen skjermes.",
+   "kilder": [
+    "https://www.kode24.no/artikkel/over-300-mister-jobben-i-posten-bring/271431"
+   ],
+   "orgnr": "984661185",
+   "brreg_navn": "POSTEN BRING AS",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Posten%20Bring"
   },
   {
    "id": "raufoss-tech-2026-08",
@@ -233,6 +341,440 @@
    "orgnr": "989800442",
    "brreg_navn": "BAUHAUS AS",
    "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Bauhaus%20Norge"
+  },
+  {
+   "id": "rohneselmer-2026-07",
+   "selskap": "RøhneSelmer AS (Bilfabrikken, Lier)",
+   "sok": "RØHNESELMER AS",
+   "antall": 72,
+   "enhet": "ansatte",
+   "omfang": "Lier (72 av 81 sagt opp)",
+   "status": "gjennomført",
+   "dato": "2026-07-28",
+   "sektor": "Varehandel / bil",
+   "oppsummering": "RøhneSelmer stenger Bilfabrikken på Vitbank i Lier i slutten av august, tre år etter åpningen. 72 av 81 ansatte er sagt opp, men flere har fått ny jobb.",
+   "kilder": [
+    "https://www.dt.no/rohneselmer-lier-stenger-72-ansatte-mister-jobben/s/5-57-2896484"
+   ],
+   "orgnr": "933823970",
+   "brreg_navn": "RØHNESELMER AS",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=R%C3%B8hneSelmer"
+  },
+  {
+   "id": "statkraft-2026-07",
+   "selskap": "Statkraft AS",
+   "sok": "STATKRAFT AS",
+   "antall": 1000,
+   "enhet": "årsverk",
+   "omfang": "Konsern (globalt, ved utgangen av 2026)",
+   "status": "vedtatt",
+   "dato": "2026-07-21",
+   "sektor": "Energi",
+   "oppsummering": "Statkraft bekrefter at konsernet ved utgangen av 2026 vil ha nedbemannet til sammen 1000 årsverk, ett år etter at nedbemanningen først ble varslet. Tallet gjelder hele konsernet.",
+   "kilder": [
+    "https://www.europower.no/okonomi/statkraft-bekrefter-nedbemanner-til-sammen-1000-arsverk/2-1-2018978"
+   ],
+   "orgnr": "987059699",
+   "brreg_navn": "STATKRAFT AS",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Statkraft"
+  },
+  {
+   "id": "saugbrugs-2026-07",
+   "selskap": "Norske Skog Saugbrugs AS",
+   "sok": "NORSKE SKOG SAUGBRUGS AS",
+   "antall": 100,
+   "enhet": "ansatte",
+   "omfang": "Halden (opptil 100, avgjørelse utsatt)",
+   "status": "varslet",
+   "dato": "2026-07-18",
+   "sektor": "Industri (treforedling)",
+   "oppsummering": "Konsernsjef Geir Drangsland har antydet at opp mot 100 ansatte kan bli overflødige ved Saugbrugs; både datasenter og ombygd papirmaskin vil kreve færre folk. Avgjørelsen er utsatt.",
+   "kilder": [
+    "https://www.ha-halden.no/avgjorelsen-er-utsatt-opptil-100-ansatte-kan-bli-berort/s/5-20-1929379"
+   ],
+   "orgnr": "996732703",
+   "brreg_navn": "NORSKE SKOG SAUGBRUGS AS",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Norske%20Skog"
+  },
+  {
+   "id": "lyko-2026-07",
+   "selskap": "Lyko AS",
+   "sok": "LYKO AS",
+   "antall": 15,
+   "enhet": "ansatte",
+   "omfang": "Norge",
+   "status": "gjennomført",
+   "dato": "2026-07-17",
+   "sektor": "Varehandel",
+   "oppsummering": "Ifølge kilder til HandelsWatch har 15 Lyko-ansatte mistet jobben i Norge som del av kutt før selskapets rekordkvartal.",
+   "kilder": [
+    "https://handelswatch.no/nyheter/mote_velvaere/article19482087.ece"
+   ],
+   "orgnr": "995398214",
+   "brreg_navn": "LYKO AS",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Lyko"
+  },
+  {
+   "id": "nmbu-2026-06",
+   "selskap": "NMBU",
+   "sok": "NORGES MILJØ- OG BIOVITENSKAPELIGE UNIVERSITET (NMBU)",
+   "antall": 40,
+   "enhet": "årsverk",
+   "omfang": "Administrasjonen, Ås (innen 2032)",
+   "status": "vedtatt",
+   "dato": "2026-06-24",
+   "sektor": "Offentlig forvaltning / utdanning",
+   "oppsummering": "Administrasjonen ved NMBU skal reduseres med 10 prosent (ca. 40 årsverk) innen 2032. Styret vedtok 10. juni at reduksjonen skal skje bl.a. gjennom naturlig avgang, stillingskontroll og frivillige sluttpakker.",
+   "kilder": [
+    "https://www.khrono.no/apner-for-sluttpakker-ved-nmbu/1068876",
+    "https://www.aasavis.no/40-arsverk-skal-kuttes-vil-tilby-sluttpakker/s/5-2-1074052"
+   ],
+   "orgnr": "969159570",
+   "brreg_navn": "NORGES MILJØ- OG BIOVITENSKAPELIGE UNIVERSITET (NMBU)",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=NMBU"
+  },
+  {
+   "id": "sparebanken-norge-2026-06",
+   "selskap": "Sparebanken Norge",
+   "sok": "SPAREBANKEN NORGE",
+   "antall": 120,
+   "enhet": "årsverk",
+   "omfang": "Enkelte divisjoner (100–120 årsverk); oppbemanning i kundedivisjonene",
+   "status": "varslet",
+   "dato": "2026-06-11",
+   "sektor": "Bank / finans",
+   "oppsummering": "Sparebanken Norge planlegger å redusere bemanningen i enkelte divisjoner med 100–120 årsverk, men skal samtidig gjennomføre en betydelig oppbemanning i kundedivisjonene, slik at antall årsverk over tid trolig blir på dagens nivå.",
+   "kilder": [
+    "https://www.nrk.no/nyheter/sparebanken-norge-varsler-kutt-i-bemanningen-1.17916633"
+   ],
+   "orgnr": "832554332",
+   "brreg_navn": "SPAREBANKEN NORGE",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Sparebanken%20Norge"
+  },
+  {
+   "id": "consto-2026-06",
+   "selskap": "Consto AS (region nord)",
+   "sok": "CONSTO AS",
+   "antall": null,
+   "enhet": "ikke tallfestet",
+   "omfang": "Nord-Norge",
+   "status": "varslet",
+   "dato": "2026-06-02",
+   "sektor": "Bygg og anlegg",
+   "oppsummering": "Consto varsler oppsigelser av «et betydelig antall» i byggvirksomheten i region nord på grunn av nedgang i aktivitet i alle sektorer.",
+   "kilder": [
+    "https://www.bygg.no/consto-nord-norge-okonomi/varsler-oppsigelser-i-byggvirksomheten-et-betydelig-antall/2927116"
+   ],
+   "orgnr": "995754606",
+   "brreg_navn": "CONSTO AS",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Consto"
+  },
+  {
+   "id": "moelven-limtre-2026-05",
+   "selskap": "Moelven Limtre AS",
+   "sok": "MOELVEN LIMTRE AS",
+   "antall": 20,
+   "enhet": "stillinger",
+   "omfang": "Moelv",
+   "status": "vedtatt",
+   "dato": "2026-05-13",
+   "sektor": "Industri (tre)",
+   "oppsummering": "En omstillingsprosess gir behov for cirka 20 færre operatører ved fabrikken i Moelv. Moelven vil hjelpe flest mulig over i ny jobb, blant annet hos Moelven Byggmodul.",
+   "kilder": [
+    "https://www.nrk.no/innlandet/nedbemanner-ved-moelven-limtre-1.17883232"
+   ],
+   "orgnr": "913711300",
+   "brreg_navn": "MOELVEN LIMTRE AS",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Moelven"
+  },
+  {
+   "id": "visma-2026-05",
+   "selskap": "Visma Enterprise AS",
+   "sok": "VISMA ENTERPRISE AS",
+   "antall": 100,
+   "enhet": "stillinger",
+   "omfang": "Visma Enterprise (opptil 25 % av 400); også Visma Flyt berørt",
+   "status": "varslet",
+   "dato": "2026-05-11",
+   "sektor": "Teknologi / programvare",
+   "oppsummering": "Ifølge Finansavisen (via Shifter) er det omfattende nedbemanning i flere Visma-selskaper; opptil 25 prosent av stillingene i Visma Enterprise, dvs. 100 av 400, skal kuttes. Visma Flyt rammes også.",
+   "kilder": [
+    "https://www.shifter.no/nyheter/visma-trimmer-selskapet-for-mulig-bors-nedbemanner/463521"
+   ],
+   "orgnr": "982410339",
+   "brreg_navn": "VISMA ENTERPRISE AS",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Visma"
+  },
+  {
+   "id": "morrow-2026-05",
+   "selskap": "Morrow Batteries ASA (konkursbo)",
+   "sok": "MORROW BATTERIES ASA",
+   "antall": 210,
+   "enhet": "ansatte",
+   "omfang": "Arendal",
+   "status": "gjennomført",
+   "dato": "2026-05-11",
+   "sektor": "Industri (batteri)",
+   "oppsummering": "Boet etter konkursen i Morrow Batteries har sagt opp alle 210 ansatte. 80 av dem tilbys midlertidig jobb i boet, ifølge Fædrelandsvennen.",
+   "kilder": [
+    "https://www.nrk.no/sorlandet/alle-210-oppsagt-etter-morrow-konkursen-1.17880001"
+   ],
+   "orgnr": "913102436",
+   "brreg_navn": "MORROW BATTERIES ASA",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Morrow"
+  },
+  {
+   "id": "norse-2026-05",
+   "selskap": "Norse Atlantic Airways",
+   "sok": "NORSE ATLANTIC AIRWAYS AS",
+   "antall": 75,
+   "enhet": "stillinger",
+   "omfang": "Arendal (kontoret legges ned, HK flyttes til Oslo)",
+   "status": "vedtatt",
+   "dato": "2026-05-07",
+   "sektor": "Luftfart",
+   "oppsummering": "Norse Atlantic kutter 75 stillinger og legger ned kontoret i Arendal, ifølge børsmelding. Kuttprogrammet «Project Falcon» fremskyndes på grunn av økte drivstoffkostnader. Hovedkontoret flyttes til Oslo.",
+   "kilder": [
+    "https://www.nrk.no/sorlandet/kutter-75-stillinger-og-legger-ned-i-arendal-1.17875352"
+   ],
+   "orgnr": "926493647",
+   "brreg_navn": "NORSE ATLANTIC AIRWAYS AS",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Norse%20Atlantic"
+  },
+  {
+   "id": "remarkable-2026-04",
+   "selskap": "reMarkable AS",
+   "sok": "REMARKABLE AS",
+   "antall": 200,
+   "enhet": "ansatte",
+   "omfang": "Norge (180–200 av 485 ansatte)",
+   "status": "vedtatt",
+   "dato": "2026-04-30",
+   "sektor": "Teknologi",
+   "oppsummering": "Nettbrettselskapet reMarkable reduserer arbeidsstyrken med 180–200 av 485 ansatte (37–41 %); kjent uken før. Prosessen skal være fullført før sommeren, og rundt 300 ansatte blir igjen.",
+   "kilder": [
+    "https://www.shifter.no/nyheter/kuttene-i-remarkable-blir-klar-for-sommeren-det-er-flere-som-alt-er-pa-vei-ut/462423"
+   ],
+   "orgnr": "917352836",
+   "brreg_navn": "REMARKABLE AS",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=reMarkable"
+  },
+  {
+   "id": "rosenberg-2026-04",
+   "selskap": "Rosenberg Verft (Rosenberg Worley AS)",
+   "sok": "ROSENBERG WORLEY AS",
+   "antall": 150,
+   "enhet": "ansatte",
+   "omfang": "Stavanger",
+   "status": "varslet",
+   "dato": "2026-04-30",
+   "sektor": "Olje og gass / verft",
+   "oppsummering": "Rundt 150 ansatte står i fare for å miste jobben på Rosenberg Verft i Stavanger på grunn av svikt i antall oppdrag, ifølge Aftenbladet.",
+   "kilder": [
+    "https://www.nrk.no/rogaland/rosenberg-verft-varsler-nedbemanning_-150-mister-jobben-1.17867214"
+   ],
+   "orgnr": "984329075",
+   "brreg_navn": "ROSENBERG WORLEY AS",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Rosenberg%20Worley"
+  },
+  {
+   "id": "tinde-2026-04",
+   "selskap": "Tinde Hytter AS",
+   "sok": "TINDE HYTTER AS",
+   "antall": 20,
+   "enhet": "stillinger",
+   "omfang": "Vinstra",
+   "status": "vedtatt",
+   "dato": "2026-04-09",
+   "sektor": "Bygg / hytteprodusent",
+   "oppsummering": "Hytteprodusenten Tinde Hytter reduserer staben med 20 stillinger, ifølge GD.",
+   "kilder": [
+    "https://www.gd.no/tinde-kutter-staben-med-20-ansatte-det-er-utrolig-toft-na/s/5-18-2492697"
+   ],
+   "orgnr": "985135282",
+   "brreg_navn": "TINDE HYTTER AS",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Tinde%20Hytter"
+  },
+  {
+   "id": "bkk-2026-04",
+   "selskap": "BKK AS",
+   "sok": "BKK AS",
+   "antall": 90,
+   "enhet": "stillinger",
+   "omfang": "Vestland (80–90 av ca. 570 ansatte)",
+   "status": "varslet",
+   "dato": "2026-04-08",
+   "sektor": "Energi / kraftnett",
+   "oppsummering": "Nettselskapet BKK skal spare 170 mill. kr og nedbemanner 80–90 stillinger, hovedsakelig innen IT, kundehåndtering og verksteddrift. Energimontører i felt berøres ikke. Selskapet håper å løse det med sluttpakker og gavepensjon.",
+   "kilder": [
+    "https://www.ba.no/bkk-nedbemanner-opptil-90-mister-jobben/s/5-8-3365938"
+   ],
+   "orgnr": "976944801",
+   "brreg_navn": "BKK AS",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=BKK"
+  },
+  {
+   "id": "vend-2026-03",
+   "selskap": "Vend Marketplaces",
+   "sok": "VEND MARKETPLACES AS",
+   "antall": 40,
+   "enhet": "stillinger",
+   "omfang": "Sentral produkt-, teknologi- og UX-funksjon (av 400)",
+   "status": "vedtatt",
+   "dato": "2026-03-11",
+   "sektor": "Teknologi / media",
+   "oppsummering": "Vend (tidl. Schibsted Marketplaces) reorganiserer sin sentrale produkt-, teknologi- og UX-funksjon (PTX Core). 40 av 400 stillinger i avdelingen faller bort.",
+   "kilder": [
+    "https://www.kode24.no/artikkel/stor-nedbemanning/258442"
+   ],
+   "orgnr": "981159772",
+   "brreg_navn": "VEND MARKETPLACES AS",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Vend"
+  },
+  {
+   "id": "elkem-2026-03",
+   "selskap": "Elkem ASA",
+   "sok": "ELKEM ASA",
+   "antall": 300,
+   "enhet": "ansatte",
+   "omfang": "Globalt (ca. 10 % av arbeidsstyrken)",
+   "status": "varslet",
+   "dato": "2026-03-11",
+   "sektor": "Industri (metall/materialer)",
+   "oppsummering": "Elkem vil redusere bemanningen globalt med rundt 300 ansatte, ca. 10 prosent av arbeidsstyrken etter salget av silikondivisjonen, som del av et spareprogram med 600 mill. kr i årlige lønns- og driftskostnadskutt.",
+   "kilder": [
+    "https://www.finansavisen.no/industri/2026/03/11/8335461/elkem-kutter-300-ansatte-skal-spare-600-mill.-arlig"
+   ],
+   "orgnr": "911382008",
+   "brreg_navn": "ELKEM ASA",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Elkem"
+  },
+  {
+   "id": "google-2026-03",
+   "selskap": "Google Norway AS",
+   "sok": "GOOGLE NORWAY AS",
+   "antall": null,
+   "enhet": "ikke tallfestet",
+   "omfang": "Oslo (særlig salgskontoret i Google Ads)",
+   "status": "vedtatt",
+   "dato": "2026-03-10",
+   "sektor": "Teknologi / reklame",
+   "oppsummering": "Google nedbemanner i Norge, ifølge Kampanje «et titalls ansatte». Kuttene rammer særlig salgskontoret i Google Ads, der rundt halvparten av avdelingen på under 20 personer mister jobben. Google vil ikke oppgi tall.",
+   "kilder": [
+    "https://www.kampanje.com/premium/google-nedbemanner-i-norge/987407"
+   ],
+   "orgnr": "988588261",
+   "brreg_navn": "GOOGLE NORWAY AS",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Google"
+  },
+  {
+   "id": "lindum-2026-03",
+   "selskap": "Lindum AS",
+   "sok": "LINDUM AS",
+   "antall": 15,
+   "enhet": "stillinger",
+   "omfang": "Drammen (foreløpig anslag)",
+   "status": "varslet",
+   "dato": "2026-03-06",
+   "sektor": "Avfall / miljø",
+   "oppsummering": "Avfallsselskapet Lindum i Drammen setter i gang nedbemanning der rundt 15 ansatte må gå, som del av en omstilling for å kutte kostnadene med minst 30 mill. kr innen 2027. Sluttavtaler tilbys.",
+   "kilder": [
+    "https://www.plastforum.no/article/view/1215420/avfallsstasjonen_kutter_15_stillinger_i_stor_nedbemanning"
+   ],
+   "orgnr": "979618840",
+   "brreg_navn": "LINDUM AS",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Lindum%20AS"
+  },
+  {
+   "id": "nymo-2026-02",
+   "selskap": "Nymo AS",
+   "sok": "AS NYMO",
+   "antall": 30,
+   "enhet": "stillinger",
+   "omfang": "Arendal og Grimstad (20–30 stillinger)",
+   "status": "varslet",
+   "dato": "2026-02-25",
+   "sektor": "Olje og gass / leverandørindustri",
+   "oppsummering": "Offshoreselskapet Nymo i Arendal og Grimstad varsler en reduksjon på rundt 20–30 stillinger, gjennom sluttpakker og frivillig avgang, oppsigelser og mulige permitteringer, for å tilpasse bemanningen til aktivitetsnivået.",
+   "kilder": [
+    "https://www.nrk.no/sorlandet/nymo-varsler-nedbemanning-1.17784266"
+   ],
+   "orgnr": "914853052",
+   "brreg_navn": "AS NYMO",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Nymo"
+  },
+  {
+   "id": "tomra-2026-02",
+   "selskap": "Tomra Systems ASA (Tomra Recycling)",
+   "sok": "TOMRA SYSTEMS ASA",
+   "antall": 175,
+   "enhet": "årsverk",
+   "omfang": "Konsern (Tomra Recycling, ikke spesifisert for Norge)",
+   "status": "varslet",
+   "dato": "2026-02-11",
+   "sektor": "Industri / teknologi",
+   "oppsummering": "Tomra Recycling starter et kostnadskuttprogram med mål om årlige besparelser på 16 mill. euro (ca. 180 mill. kr). Tiltakene innebærer blant annet en nedbemanning på rundt 175 årsverk. Full effekt ventes i 2027.",
+   "kilder": [
+    "https://www.finansavisen.no/industri/2026/02/11/8327550/tomra-varsler-kostnadskutt-kutter-175-arsverk"
+   ],
+   "orgnr": "927124238",
+   "brreg_navn": "TOMRA SYSTEMS ASA",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Tomra"
+  },
+  {
+   "id": "ikea-hk-2026-02",
+   "selskap": "IKEA Norge (hovedkontoret)",
+   "sok": "IKEA AS",
+   "antall": 60,
+   "enhet": "årsverk",
+   "omfang": "Hovedkontoret i Asker (50–60 årsverk av ca. 220)",
+   "status": "vedtatt",
+   "dato": "2026-02-10",
+   "sektor": "Varehandel",
+   "oppsummering": "IKEA Norge omorganiserer hovedkontoret, blant annet med færre ledernivåer. Etter omorganiseringen vil det være mellom 50 og 60 færre årsverk ved hovedkontoret. Ny organisasjon skal være på plass 1. april.",
+   "kilder": [
+    "https://www.nrk.no/nyheter/ikea-kuttar-50_60-arsverk-i-noreg-1.17763103",
+    "https://www.kampanje.com/premium/toffe-ikea-kutt-kan-ramme-marked-og-pr/981264"
+   ],
+   "orgnr": "914787521",
+   "brreg_navn": "IKEA AS",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=IKEA"
+  },
+  {
+   "id": "nrk-2026-01",
+   "selskap": "NRK",
+   "sok": "NORSK RIKSKRINGKASTING AS",
+   "antall": 150,
+   "enhet": "årsverk",
+   "omfang": "Norge (over to år)",
+   "status": "vedtatt",
+   "dato": "2026-01-08",
+   "sektor": "Media",
+   "oppsummering": "NRK reduserer bemanningen med 150 årsverk over to år, opplyst i møte med Kulturdepartementet i desember. Ifølge økonomidirektør Andreas Norvik skal det skje gjennom naturlig avgang.",
+   "kilder": [
+    "https://www.nrk.no/nyheter/nrk-reduserer-bemanningen-med-150-arsverk-over-to-ar-1.17718967"
+   ],
+   "orgnr": "976390512",
+   "brreg_navn": "NORSK RIKSKRINGKASTING AS",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=NRK"
+  },
+  {
+   "id": "aker-solutions-2026-01",
+   "selskap": "Aker Solutions ASA",
+   "sok": "AKER SOLUTIONS ASA",
+   "antall": 500,
+   "enhet": "årsverk",
+   "omfang": "Norge og internasjonalt (ca. 300 ved verftet i Verdal)",
+   "status": "varslet",
+   "dato": "2026-01-07",
+   "sektor": "Olje og gass / leverandørindustri",
+   "oppsummering": "Aker Solutions venter lavere aktivitet i 2026 og varsler at reduksjonen kan berøre i overkant av 500 av selskapets 12 000 faste årsverk. Om lag 300 gjelder verftet i Verdal, med effekt fra tidlig vår 2026. Skjer gjennom naturlig avgang og oppsigelser.",
+   "kilder": [
+    "https://news.cision.com/no/aker-solutions-asa/r/aker-solutions-kutter-kostnader-og-tilpasser-antall-ansatte,c4289436"
+   ],
+   "orgnr": "913748174",
+   "brreg_navn": "AKER SOLUTIONS ASA",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Aker%20Solutions%20ASA"
   }
  ]
 }
