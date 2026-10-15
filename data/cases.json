@@ -1,6 +1,25 @@
 {
- "oppdatert": "2026-10-15T09:11",
+ "oppdatert": "2026-10-15T15:08",
  "saker": [
+  {
+   "antall": 100,
+   "brreg_navn": "FOLKEHELSEINSTITUTTET",
+   "dato": "2026-10-15",
+   "enhet": "årsverk",
+   "id": "fhi-2026-10",
+   "kilder": [
+    "https://www.vg.no/nyheter/i/vlbwnj/folkehelseinstituttet-varsler-nedbemanning-vi-maa-ta-grep-naa",
+    "https://www.nettavisen.no/nyheter/fhi-varsler-nedbemanning/s/80-95-163554"
+   ],
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Folkehelseinstituttet",
+   "omfang": "Norge (over 100 årsverk, foreløpig anslag)",
+   "oppsummering": "Folkehelseinstituttet (ca. 1 373 ansatte) informerte de ansatte på et allmøte om en krevende økonomisk situasjon: «over 100 årsverk i reduksjon, slik det ser ut nå», ifølge VG. Bakgrunnen er kutt i bevilgninger flere år på rad og budsjettforslaget for 2027. Hovedtillitsvalgt for Legeforeningen i FHI bekrefter kuttene.",
+   "orgnr": "983744516",
+   "sektor": "Offentlig forvaltning / helse",
+   "selskap": "Folkehelseinstituttet (FHI)",
+   "sok": "FOLKEHELSEINSTITUTTET",
+   "status": "varslet"
+  },
   {
    "id": "rema1000-2026-10",
    "selskap": "Rema 1000 Norge AS",
