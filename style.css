@@ -15,3 +15,9 @@ a{color:#0b5cad}.src a{display:inline-block;margin-right:6px;font-size:12px}.not
 form label{display:block;margin-bottom:10px}form input,form textarea{display:block;width:100%;margin-top:4px}button{background:var(--acc);color:#fff;border:0;padding:10px 18px;border-radius:8px;font:inherit;cursor:pointer}
 footer{color:var(--mut);font-size:12px;padding:20px}
 .kind{font-size:11px;text-transform:uppercase;letter-spacing:.03em;padding:1px 6px;border-radius:4px;font-weight:700;background:#e5e7eb;color:#374151}.kind.nb{background:#dbeafe;color:#1e40af}.kind.konkurs{background:#fde2e4;color:#9b1c24}
+.tab{scroll-margin-top:100vh}
+@media(max-width:700px){html,body{overflow-x:hidden}.wrap{padding:0 14px}header{padding-top:16px}header h1{font-size:24px}header p{font-size:14px}
+nav{flex-wrap:nowrap;overflow-x:auto;-webkit-overflow-scrolling:touch;scrollbar-width:none;margin:0 -14px;padding:0 14px}nav::-webkit-scrollbar{display:none}nav a{white-space:nowrap;padding:10px 12px;flex:0 0 auto}
+.cards{grid-template-columns:repeat(2,1fr);gap:10px}.card{padding:14px}.card .n{font-size:24px}.bar span:first-child{width:110px;flex:0 0 110px}
+#q,#bq{min-width:0;flex:1 1 100%}.filters select{flex:1 1 calc(50% - 5px);min-width:0}
+table{display:block;overflow-x:auto;-webkit-overflow-scrolling:touch;font-size:14px}th,td{padding:8px}td{min-width:90px}td:nth-child(2){min-width:220px}}
