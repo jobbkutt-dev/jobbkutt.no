@@ -1,6 +1,26 @@
 {
- "oppdatert": "2026-10-16T12:08",
+ "oppdatert": "2026-10-16T15:08",
  "saker": [
+  {
+   "id": "aasmund-pettersen-2026-10",
+   "selskap": "Åsmund Pettersen & Sønn AS",
+   "sok": "ÅSMUND PETTERSEN & SØNN AS",
+   "antall": 46,
+   "enhet": "ansatte",
+   "omfang": "Jevnaker (Hadeland/Ringerike): permitteringsvarsel til alle ansatte, kan tre i kraft fra 1. desember",
+   "status": "permittering",
+   "dato": "2026-10-16",
+   "sektor": "Bygg og anlegg (maskinentreprenør)",
+   "oppsummering": "Maskinentreprenøren på Jevnaker har gitt permitteringsvarsel til alle ansatte på grunn av det selskapet kaller den verste oppdragstørken på 25 år. Permitteringen kan tre i kraft fra 1. desember. Bedriften ber kommunene i regionen framskynde planlagte prosjekter innen vann, avløp og vei, og advarer om at oppsigelser kan bli neste steg dersom arbeidstilgangen ikke bedrer seg.",
+   "kilder": [
+    "https://www.oa.no/lokalt-entreprenorfirma-har-sendt-permitteringsvarsel-til-alle-ansatte/s/80-35-42872",
+    "https://www.ringblad.no/christian-matte-gi-den-vonde-beskjeden-ma-ta-de-tunge-avgjorelsene/s/80-45-10422"
+   ],
+   "orgnr": "916881029",
+   "brreg_navn": "ÅSMUND PETTERSEN & SØNN AS",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=%C3%85smund%20Pettersen%20%26%20S%C3%B8nn",
+   "kommentar": "Alle ansatte har fått permitteringsvarsel; ca. 46 ansatte ifølge regnskapstall.no (via Oppland Arbeiderblad). Varsel, ikke iverksatt."
+  },
   {
    "antall": 100,
    "brreg_navn": "FOLKEHELSEINSTITUTTET",
