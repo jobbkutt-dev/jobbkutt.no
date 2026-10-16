@@ -3,6 +3,19 @@
  "filter": "antallAnsatte >= 10, dato >= 2026-04-19",
  "enheter": [
   {
+   "orgnr": "911640260",
+   "navn": "M2 Tomteutvikling AS (med Drømmehus AS)",
+   "type": "konkurs",
+   "dato": "2026-10-15",
+   "antallAnsatte": 15,
+   "bransje": "Utvikling og salg av byggeprosjekter",
+   "naeringskode": "68.120",
+   "kommune": "STAVANGER",
+   "kilde": "https://e24.no/naeringsliv/i/2VJwmG/boligbygger-konkurs",
+   "manuell": true,
+   "merknad": "Manuell oppføring: 2 ansatte i M2 Tomteutvikling og 13 i datterselskapet Drømmehus AS (org.nr 819904502), ifølge E24. Konkursbo registrert i Brreg 16.10.2026."
+  },
+  {
    "orgnr": "934093046",
    "navn": "EM DISTRIBUSJON BERGEN AS",
    "type": "konkurs",
