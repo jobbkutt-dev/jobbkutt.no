@@ -1,5 +1,5 @@
 {
- "oppdatert": "2026-10-16T15:08",
+ "oppdatert": "2026-10-17T12:14",
  "saker": [
   {
    "id": "aasmund-pettersen-2026-10",
@@ -381,6 +381,28 @@
    "brreg_navn": "POSTEN BRING AS",
    "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Posten%20Bring",
    "kommentar": "Over 300 i stab- og støttefunksjoner, fram mot 2027."
+  },
+  {
+   "id": "obos-2026-08",
+   "selskap": "OBOS BBL",
+   "sok": "OBOS BBL",
+   "antall": 200,
+   "enhet": "ansatte",
+   "omfang": "Norge – konsernets stabs- og støttefunksjoner (ca. 10 % av staben)",
+   "status": "varslet",
+   "dato": "2026-08-25",
+   "sektor": "Bygg og anlegg",
+   "oppsummering": "Boligbyggelaget OBOS har informert de ansatte på et allmøte om at konsernet skal ned med rundt 200 ansatte innen utgangen av 2027, omtrent en tidel av arbeidsstyrken på ca. 2 300. Nedbemanningen er en del av et forbedringsprogram som skal kutte kostnader og øke inntjeningen med om lag 1 milliard kroner etter en tung periode i nyboligmarkedet. Ifølge FinansWatch rammes særlig stab- og støttefunksjoner, og kuttene skal skje gradvis.",
+   "kilder": [
+    "https://www.nrk.no/stor-oslo/obos-varsler-nedbemanning-1.18000488",
+    "https://finanswatch.no/nyheter/bank/article19575322.ece",
+    "https://www.finansavisen.no/bolig/2026/08/25/8375448/milliardgrep-i-obos-skal-kutte-200-ansatte",
+    "https://www.bygg.no/bolig-obos-okonomi/obos-nedbemanner-skal-ha-200-faerre-ansatte-innen-utgangen-av-2027/2948480"
+   ],
+   "orgnr": "937052766",
+   "brreg_navn": "OBOS BBL",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=OBOS",
+   "kommentar": "«Rundt 200» færre ansatte innen utgangen av 2027 (ca. 10 % av staben). Informert på allmøte 24. august 2026; varslet mål, gjennomføres løpende fram mot 2027."
   },
   {
    "id": "raufoss-tech-2026-08",
@@ -785,6 +807,27 @@
    "brreg_navn": "LINDUM AS",
    "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Lindum%20AS",
    "kommentar": "Drammen; foreløpig anslag."
+  },
+  {
+   "id": "nordlandssykehuset-2026-02",
+   "selskap": "Nordlandssykehuset HF",
+   "sok": "NORDLANDSSYKEHUSET HF",
+   "antall": 103,
+   "enhet": "månedsverk",
+   "omfang": "Nordland (Salten, Vesterålen og Lofoten)",
+   "status": "vedtatt",
+   "dato": "2026-02-25",
+   "sektor": "Offentlig forvaltning / helse",
+   "oppsummering": "Nordlandssykehuset må spare 173 millioner kroner i 2026 som sin del av Helse Nords innsparingskrav, og tiltaksplanen innebærer en bemanningsreduksjon tilsvarende 103 månedsverk innen utgangen av året. Kuttet skal i hovedsak tas gjennom mindre bruk av vikarer og innleie og strengere vurdering før ledige stillinger lyses ut. Tillitsvalgte frykter økt arbeidsbelastning og høyere sykefravær. Styret har vedtatt tiltaksplanen, men i mars lå gjennomføringen bak planen.",
+   "kilder": [
+    "https://www.nrk.no/nordland/skal-kutte-over-100-manedsverk-ved-nordlandssykehuset-1.17784306",
+    "https://www.vol.no/nyheter/n/4371vg/maa-kutte-173-millioner-i-2026",
+    "https://www.nordlandssykehuset.no/499331/siteassets/documents/styret-i-nordlandssykehuset/styremoter-2026/25.-mars/protokoll-styremote-nlsh-25.03.2026.pdf"
+   ],
+   "orgnr": "983974910",
+   "brreg_navn": "NORDLANDSSYKEHUSET HF",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Nordlandssykehuset",
+   "kommentar": "«Over 100 månedsverk»: 103 månedsverk i helårseffekt innen utgangen av 2026 (tiltaksplan 2026, styresak 007-2026, omtalt som vedtatt i styreprotokollen 25. mars 2026). Månedsverk er ikke det samme som ansatte; reduksjonen skal i stor grad skje via vikarbruk og ledige stillinger, ikke nødvendigvis oppsigelser. Status mars 2026: ikke i rute."
   },
   {
    "id": "nymo-2026-02",
