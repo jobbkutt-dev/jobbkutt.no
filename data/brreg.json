@@ -1,7 +1,18 @@
 {
- "oppdatert": "2026-10-16T15:07",
+ "oppdatert": "2026-10-17T12:06",
  "filter": "antallAnsatte >= 10, dato >= 2026-04-19",
  "enheter": [
+  {
+   "orgnr": "914738954",
+   "navn": "JAKOBS BRØD AS",
+   "type": "avvikling",
+   "dato": "2026-10-17",
+   "antallAnsatte": 10,
+   "bransje": "Produksjon av brød og ferske konditorvarer",
+   "naeringskode": "10.710",
+   "kommune": "STAVANGER",
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/914738954"
+  },
   {
    "orgnr": "911640260",
    "navn": "M2 Tomteutvikling AS (med Drømmehus AS)",
