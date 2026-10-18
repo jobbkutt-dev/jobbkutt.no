@@ -1,6 +1,6 @@
 {
- "oppdatert": "2026-10-17T12:06",
- "filter": "antallAnsatte >= 10, dato >= 2026-04-19",
+ "oppdatert": "2026-10-18T12:03",
+ "filter": "antallAnsatte >= 10, dato >= 2026-04-21",
  "enheter": [
   {
    "orgnr": "914738954",
@@ -14,17 +14,59 @@
    "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/914738954"
   },
   {
-   "orgnr": "911640260",
-   "navn": "M2 Tomteutvikling AS (med Drømmehus AS)",
+   "orgnr": "926358022",
+   "navn": "MAXSHIP INTER AS",
+   "type": "tvangsavvikling",
+   "dato": "2026-10-17",
+   "antallAnsatte": 135,
+   "bransje": "Reparasjon og vedlikehold av sivile skip og båter",
+   "naeringskode": "33.150",
+   "kommune": "HARAM",
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/926358022"
+  },
+  {
+   "orgnr": "920410995",
+   "navn": "LILLESTRØM LOGISTIKK AS",
    "type": "konkurs",
    "dato": "2026-10-16",
-   "antallAnsatte": 15,
-   "bransje": "Utvikling og salg av byggeprosjekter",
-   "naeringskode": "68.120",
+   "antallAnsatte": 48,
+   "bransje": "Andre post- og budtjenester",
+   "naeringskode": "53.200",
+   "kommune": "AURSKOG-HØLAND",
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/920410995"
+  },
+  {
+   "orgnr": "918751718",
+   "navn": "OM MAT AS",
+   "type": "konkurs",
+   "dato": "2026-10-16",
+   "antallAnsatte": 13,
+   "bransje": "Drift av restauranter",
+   "naeringskode": "56.110",
+   "kommune": "OSLO",
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/918751718"
+  },
+  {
+   "orgnr": "927338890",
+   "navn": "WAEZ TEKSTIL AS",
+   "type": "konkurs",
+   "dato": "2026-10-16",
+   "antallAnsatte": 30,
+   "bransje": "Vaskeri- og renserivirksomhet",
+   "naeringskode": "96.100",
+   "kommune": "TYNSET",
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/927338890"
+  },
+  {
+   "orgnr": "819904502",
+   "navn": "DRØMMEHUS AS",
+   "type": "konkurs",
+   "dato": "2026-10-15",
+   "antallAnsatte": 13,
+   "bransje": "Oppføring av bygninger",
+   "naeringskode": "41.000",
    "kommune": "STAVANGER",
-   "kilde": "https://e24.no/naeringsliv/i/2VJwmG/boligbygger-konkurs",
-   "manuell": true,
-   "merknad": "Manuell oppføring: 2 ansatte i M2 Tomteutvikling og 13 i datterselskapet Drømmehus AS (org.nr 819904502), ifølge E24. Konkursbo registrert i Brreg 16.10.2026."
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/819904502"
   },
   {
    "orgnr": "934093046",
