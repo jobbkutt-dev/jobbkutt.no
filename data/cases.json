@@ -1,6 +1,28 @@
 {
- "oppdatert": "2026-10-20T14:59",
+ "oppdatert": "2026-10-20T15:20",
  "saker": [
+  {
+   "id": "vy-tog-konduktorer-2026-10",
+   "selskap": "Vy Tog AS",
+   "sok": "VY TOG AS",
+   "antall": 44,
+   "enhet": "ansatte",
+   "omfang": "Konduktører stasjonert på Hamar (13), Lillehammer (13) og Kongsvinger (18)",
+   "status": "permittering",
+   "dato": "2026-10-09",
+   "sektor": "Samferdsel",
+   "oppsummering": "Vy har permittert til sammen 44 konduktører som følge av lokomotivførerstreiken, som startet 18. september og ble trappet opp 29. september. Ifølge Norsk Jernbaneforbund gjelder det 13 konduktører på Hamar, 13 på Lillehammer og alle 18 på Kongsvinger. Streiken ble avsluttet etter tvungen mekling 17. oktober, og togtrafikken normaliseres gradvis.",
+   "kilder": [
+    "https://www.frifagbevegelse.no/njf-magasinet/flere-konduktorer-permitteres/2720977",
+    "https://njk.no/jernbanenyheter/flere-konduktorer-permitteres",
+    "https://www.nrk.no/buskerud/tvungen-mekling-i-togstreiken-i-dag-1.18056467",
+    "https://www.vy.no/vygruppen/presse-og-nyheter/2026/3472966"
+   ],
+   "orgnr": "917374988",
+   "brreg_navn": "VY TOG AS",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Vy%20Tog%20AS",
+   "kommentar": "Permittert pga. togstreiken (lokførerstreiken). Kilde: Norsk Jernbaneforbund (NJF-Magasinet, 9.–10. oktober); NRK bekrefter at Vy har permittert konduktører. Streiken ble avsluttet 17. oktober – permitteringene ventes avviklet, men dette er ikke bekreftet."
+  },
   {
    "id": "roa-fotball-elite-2026-10",
    "selskap": "Røa Fotball Elite",
