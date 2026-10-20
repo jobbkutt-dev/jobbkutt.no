@@ -1,6 +1,25 @@
 {
- "oppdatert": "2026-10-20T08:59",
+ "oppdatert": "2026-10-20T11:53",
  "saker": [
+  {
+   "id": "roa-fotball-elite-2026-10",
+   "selskap": "Røa Fotball Elite",
+   "sok": "RØA FOTBALL ELITE",
+   "antall": null,
+   "enhet": "ansatte",
+   "omfang": "Oslo (Toppserien-klubb): permitteringsvarsel til fulltidsansatte og spillere på proffkontrakt, ut året",
+   "status": "permittering",
+   "dato": "2026-10-20",
+   "sektor": "Idrett",
+   "oppsummering": "Toppserie-klubben Røa Fotball Elite, som har vært i økonomisk krise i flere måneder, har ifølge TV 2 gitt permitteringsvarsel til fulltidsansatte og spillere på proffkontrakt. Permitteringen skal etter det TV 2 erfarer tre i kraft før sesongens siste seriekamp og vare ut året. Et ekstraordinært årsmøte 22. oktober skal blant annet behandle forslag om å flytte A-laget til Røa Allianseidrettslag.",
+   "kilder": [
+    "https://www.tv2.no/sport/tv-2-erfarer-roa-spillerne-permitteres/19340837/"
+   ],
+   "orgnr": "996118347",
+   "brreg_navn": "RØA FOTBALL ELITE",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=R%C3%B8a%20Fotball%20Elite",
+   "kommentar": "Antall ikke oppgitt. Gjelder fulltidsansatte og spillere på proffkontrakt; Brreg oppgir 24 ansatte i Røa Fotball Elite. Varsel ifølge TV 2s opplysninger."
+  },
   {
    "id": "norwegian-cph-2026-10",
    "selskap": "Norwegian Air Shuttle ASA (basen i København)",
