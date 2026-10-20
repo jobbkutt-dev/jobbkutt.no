@@ -1,6 +1,27 @@
 {
- "oppdatert": "2026-10-17T12:14",
+ "oppdatert": "2026-10-20T08:59",
  "saker": [
+  {
+   "id": "norwegian-cph-2026-10",
+   "selskap": "Norwegian Air Shuttle ASA (basen i København)",
+   "sok": "NORWEGIAN AIR SHUTTLE ASA",
+   "antall": 125,
+   "enhet": "ansatte",
+   "omfang": "Basen på Københavns lufthavn (Danmark): 55 piloter og 70 kabinansatte",
+   "status": "varslet",
+   "dato": "2026-10-19",
+   "sektor": "Luftfart",
+   "oppsummering": "Norwegian har innledet forhandlinger med de ansattes representanter om masseoppsigelser ved basen i København. Inntil 55 piloter og 70 kabinansatte kan miste jobben fordi selskapet reduserer antall fly med base i København i sommersesongen fra 16 til 14, og lar noen sommerruter fly med fly basert i Spania. Selskapet sier det ikke er snakk om økonomisk krise, men om store sesongsvingninger, og håper å begrense eller unngå oppsigelser gjennom alternative løsninger.",
+   "kilder": [
+    "https://www.nrk.no/nyheter/bransjenettsted_-norwegian-ansatte-i-kobenhavn-risikerer-a-miste-jobben-1.18059297",
+    "https://luftfart.dk/masseafskedigelser-i-norwegian/",
+    "https://check-in.dk/norwegian-i-dialog-om-massefyringer-i-koebenhavn/"
+   ],
+   "orgnr": "965920358",
+   "brreg_navn": "NORWEGIAN AIR SHUTTLE ASA",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Norwegian%20Air%20Shuttle%20ASA",
+   "kommentar": "Opptil 125 (55 piloter og 70 kabinansatte), om lag en femtedel av piloter og kabinansatte i Danmark. Gjelder basen i København, ikke Norge. Varsel/forhandlinger – endelig antall ikke avklart."
+  },
   {
    "id": "aasmund-pettersen-2026-10",
    "selskap": "Åsmund Pettersen & Sønn AS",
@@ -893,18 +914,19 @@
    "sok": "NORSK RIKSKRINGKASTING AS",
    "antall": 150,
    "enhet": "årsverk",
-   "omfang": "Norge (over to år)",
+   "omfang": "Norge (150 årsverk over to år; 75 årsverk er målet for 2026)",
    "status": "vedtatt",
    "dato": "2026-01-08",
    "sektor": "Media",
-   "oppsummering": "NRK reduserer bemanningen med 150 årsverk over to år, opplyst i møte med Kulturdepartementet i desember. Ifølge økonomidirektør Andreas Norvik skal det skje gjennom naturlig avgang.",
+   "oppsummering": "NRK reduserer bemanningen med 150 årsverk over to år, opplyst i møte med Kulturdepartementet i desember. Ifølge økonomidirektør Andreas Norvik skal det skje gjennom naturlig avgang. I 2026 har NRK i tillegg gjennomført en runde med frivillige sluttpakker med mål om 75 færre årsverk i år: av 170 søkere hadde 68 fått innvilget sluttpakke per oktober (søknadsfrist 1. oktober). Kuttene er del av en plan om 300–400 færre årsverk innen 2030, med hovedtyngden innen utgangen av 2028.",
    "kilder": [
-    "https://www.nrk.no/nyheter/nrk-reduserer-bemanningen-med-150-arsverk-over-to-ar-1.17718967"
+    "https://www.nrk.no/nyheter/nrk-reduserer-bemanningen-med-150-arsverk-over-to-ar-1.17718967",
+    "https://www.m24.no/nedbemanning-nrk-sluttpakker/68-har-tatt-sluttpakke-i-nrk-se-listen/960760"
    ],
    "orgnr": "976390512",
    "brreg_navn": "NORSK RIKSKRINGKASTING AS",
    "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=NRK",
-   "kommentar": "Over to år, gjennom naturlig avgang."
+   "kommentar": "Over to år, gjennom naturlig avgang og frivillige sluttpakker. Sluttpakkerunden 2026 (mål 75 årsverk): 68 innvilget per oktober. Samlet plan på 300–400 årsverk innen 2030 er ikke regnet med i antallet."
   },
   {
    "id": "aker-solutions-2026-01",

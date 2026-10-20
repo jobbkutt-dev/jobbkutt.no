@@ -1,7 +1,40 @@
 {
- "oppdatert": "2026-10-19T11:55",
- "filter": "antallAnsatte >= 10, dato >= 2026-04-22",
+ "oppdatert": "2026-10-20T08:56",
+ "filter": "antallAnsatte >= 10, dato >= 2026-01-01",
  "enheter": [
+  {
+   "orgnr": "987862157",
+   "navn": "MEDIAPLANET AS",
+   "type": "avvikling",
+   "dato": "2026-10-20",
+   "antallAnsatte": 27,
+   "bransje": "Utgivelse av aviser",
+   "naeringskode": "58.120",
+   "kommune": "OSLO",
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/987862157"
+  },
+  {
+   "orgnr": "833910892",
+   "navn": "EKKO NOR AS",
+   "type": "konkurs",
+   "dato": "2026-10-19",
+   "antallAnsatte": 13,
+   "bransje": "Oppføring av bygninger",
+   "naeringskode": "41.000",
+   "kommune": "ENEBAKK",
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/833910892"
+  },
+  {
+   "orgnr": "930701807",
+   "navn": "FROGNER PUBDRIFT AS",
+   "type": "konkurs",
+   "dato": "2026-10-19",
+   "antallAnsatte": 11,
+   "bransje": "Drift av restauranter",
+   "naeringskode": "56.110",
+   "kommune": "OSLO",
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/930701807"
+  },
   {
    "orgnr": "914738954",
    "navn": "JAKOBS BRØD AS",
