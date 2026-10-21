@@ -1,5 +1,5 @@
 {
- "oppdatert": "2026-10-20T14:59",
+ "oppdatert": "2026-10-21T08:54",
  "filter": "antallAnsatte >= 10, dato >= 2026-01-01",
  "enheter": [
   {
@@ -12,6 +12,50 @@
    "naeringskode": "58.120",
    "kommune": "OSLO",
    "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/987862157"
+  },
+  {
+   "orgnr": "935350786",
+   "navn": "AQUATECH SYSTEMS AS",
+   "type": "konkurs",
+   "dato": "2026-10-20",
+   "antallAnsatte": 10,
+   "bransje": "Annen teknisk konsulentvirksomhet",
+   "naeringskode": "71.129",
+   "kommune": "HADSEL",
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/935350786"
+  },
+  {
+   "orgnr": "926948113",
+   "navn": "NAZDAR AS",
+   "type": "konkurs",
+   "dato": "2026-10-20",
+   "antallAnsatte": 15,
+   "bransje": "Catering for arrangementer",
+   "naeringskode": "56.210",
+   "kommune": "OSLO",
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/926948113"
+  },
+  {
+   "orgnr": "934110900",
+   "navn": "SKATA AS",
+   "type": "konkurs",
+   "dato": "2026-10-20",
+   "antallAnsatte": 13,
+   "bransje": "Drift av hoteller",
+   "naeringskode": "55.100",
+   "kommune": "VÅGAN",
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/934110900"
+  },
+  {
+   "orgnr": "899133102",
+   "navn": "SMIDA BYGG & MONTASJE AS",
+   "type": "konkurs",
+   "dato": "2026-10-20",
+   "antallAnsatte": 19,
+   "bransje": "Oppføring av bygninger",
+   "naeringskode": "41.000",
+   "kommune": "OSLO",
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/899133102"
   },
   {
    "orgnr": "833910892",
