@@ -1,18 +1,7 @@
 {
- "oppdatert": "2026-10-21T08:54",
+ "oppdatert": "2026-10-21T05:54",
  "filter": "antallAnsatte >= 10, dato >= 2026-01-01",
  "enheter": [
-  {
-   "orgnr": "987862157",
-   "navn": "MEDIAPLANET AS",
-   "type": "avvikling",
-   "dato": "2026-10-20",
-   "antallAnsatte": 27,
-   "bransje": "Utgivelse av aviser",
-   "naeringskode": "58.120",
-   "kommune": "OSLO",
-   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/987862157"
-  },
   {
    "orgnr": "935350786",
    "navn": "AQUATECH SYSTEMS AS",
@@ -56,6 +45,17 @@
    "naeringskode": "41.000",
    "kommune": "OSLO",
    "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/899133102"
+  },
+  {
+   "orgnr": "987862157",
+   "navn": "MEDIAPLANET AS",
+   "type": "avvikling",
+   "dato": "2026-10-20",
+   "antallAnsatte": 27,
+   "bransje": "Utgivelse av aviser",
+   "naeringskode": "58.120",
+   "kommune": "OSLO",
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/987862157"
   },
   {
    "orgnr": "833910892",
