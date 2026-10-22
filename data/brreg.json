@@ -1,7 +1,29 @@
 {
- "oppdatert": "2026-10-21T05:54",
- "filter": "antallAnsatte >= 10, dato >= 2026-01-01",
+ "oppdatert": "2026-10-21T23:54",
+ "filter": "antallAnsatte >= 10, dato >= 2026-04-24",
  "enheter": [
+  {
+   "orgnr": "835159612",
+   "navn": "BROKENFORK AS",
+   "type": "konkurs",
+   "dato": "2026-10-21",
+   "antallAnsatte": 14,
+   "bransje": "Drift av restauranter",
+   "naeringskode": "56.110",
+   "kommune": "ØYSTRE SLIDRE",
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/835159612"
+  },
+  {
+   "orgnr": "913945794",
+   "navn": "IBOBIL AS",
+   "type": "konkurs",
+   "dato": "2026-10-21",
+   "antallAnsatte": 31,
+   "bransje": "Detaljhandel med motorvogner",
+   "naeringskode": "47.810",
+   "kommune": "TROMSØ",
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/913945794"
+  },
   {
    "orgnr": "935350786",
    "navn": "AQUATECH SYSTEMS AS",
