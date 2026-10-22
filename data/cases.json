@@ -2,6 +2,28 @@
  "oppdatert": "2026-10-20T15:20",
  "saker": [
   {
+   "id": "danske-bank-2026-10",
+   "selskap": "Danske Bank A/S NUF (Danske Bank Norge)",
+   "sok": "DANSKE BANK A/S NUF",
+   "antall": 6,
+   "enhet": "stillinger",
+   "omfang": "Norge: 6 av 106 stillinger i konsernet; øvrige i Danmark (om lag halvparten), Finland, Litauen, Polen og Sverige",
+   "status": "vedtatt",
+   "dato": "2026-10-22",
+   "sektor": "Bank / finans",
+   "oppsummering": "Danske Bank legger ned 106 stillinger i konsernet som ledd i strategien Forward ’28, der banken vil forenkle organisasjonen og flytte ressurser til prioriterte områder. Om lag halvparten av stillingene er i Danmark, mens resten fordeles på Finland, Litauen, Norge, Polen og Sverige. Ifølge banken forsvinner seks stillinger i Norge. Kundevendte stillinger berøres ikke, og de berørte ansatte ble informert samme dag. Banken kuttet også 262 stillinger i mai, hvorav tre i Norge.",
+   "kilder": [
+    "https://e24.no/boers-og-finans/i/b8rEW3/danske-bank-kutter-106-stillinger",
+    "https://danskebank.com/news-and-insights/news-archive/press-releases/2026/pr22102026",
+    "https://www.abcnyheter.no/nyheter/danske-bank-kutter-over-100-stillinger-norsk-drift-ogsa-rammet/1707695",
+    "https://www.nettavisen.no/nyheter/danske-bank-kutter-106-stillinger/s/80-95-182547"
+   ],
+   "orgnr": "977074010",
+   "brreg_navn": "DANSKE BANK A/S NUF",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Danske%20Bank",
+   "kommentar": "106 stillinger totalt i konsernet, 6 av dem i Norge. Norgestallet er oppgitt av Danske Bank Norge til E24; pressemeldingen og NTB oppgir ikke fordeling per land."
+  },
+  {
    "id": "vy-tog-konduktorer-2026-10",
    "selskap": "Vy Tog AS",
    "sok": "VY TOG AS",
