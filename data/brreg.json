@@ -1,7 +1,18 @@
 {
- "oppdatert": "2026-10-22T05:55",
+ "oppdatert": "2026-10-22T23:58",
  "filter": "antallAnsatte >= 10, dato >= 2026-04-25",
  "enheter": [
+  {
+   "orgnr": "925018635",
+   "navn": "TEAMTØMRER AS",
+   "type": "konkurs",
+   "dato": "2026-10-22",
+   "antallAnsatte": 14,
+   "bransje": "Oppføring av bygninger",
+   "naeringskode": "41.000",
+   "kommune": "EIDSVOLL",
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/925018635"
+  },
   {
    "orgnr": "835159612",
    "navn": "BROKENFORK AS",
@@ -18,7 +29,7 @@
    "navn": "IBOBIL AS",
    "type": "konkurs",
    "dato": "2026-10-21",
-   "antallAnsatte": 31,
+   "antallAnsatte": 21,
    "bransje": "Detaljhandel med motorvogner",
    "naeringskode": "47.810",
    "kommune": "TROMSØ",
