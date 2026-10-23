@@ -1,7 +1,18 @@
 {
- "oppdatert": "2026-10-22T23:58",
- "filter": "antallAnsatte >= 10, dato >= 2026-04-25",
+ "oppdatert": "2026-10-23T02:58",
+ "filter": "antallAnsatte >= 10, dato >= 2026-04-26",
  "enheter": [
+  {
+   "orgnr": "999503845",
+   "navn": "ULSTEIN ENTREPRENØR AS",
+   "type": "avvikling",
+   "dato": "2026-10-23",
+   "antallAnsatte": 16,
+   "bransje": "Spesialisert byggevirksomhet i forbindelse med anleggsarbeid",
+   "naeringskode": "43.500",
+   "kommune": "ULSTEIN",
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/999503845"
+  },
   {
    "orgnr": "925018635",
    "navn": "TEAMTØMRER AS",
