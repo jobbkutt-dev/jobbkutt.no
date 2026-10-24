@@ -1,6 +1,6 @@
 {
- "oppdatert": "2026-10-23T02:58",
- "filter": "antallAnsatte >= 10, dato >= 2026-04-26",
+ "oppdatert": "2026-10-24T03:03",
+ "filter": "antallAnsatte >= 10, dato >= 2026-04-27",
  "enheter": [
   {
    "orgnr": "999503845",

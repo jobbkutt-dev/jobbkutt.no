@@ -1,5 +1,5 @@
 {
- "oppdatert": "2026-10-23T14:52",
+ "oppdatert": "2026-10-24T12:05",
  "saker": [
   {
    "id": "danske-bank-2026-10",
@@ -523,6 +523,26 @@
    "brreg_navn": "POSTEN BRING AS",
    "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Posten%20Bring",
    "kommentar": "Over 300 i stab- og støttefunksjoner, fram mot 2027."
+  },
+  {
+   "id": "helgelandssykehuset-2026-08",
+   "selskap": "Helgelandssykehuset HF",
+   "sok": "HELGELANDSSYKEHUSET HF",
+   "antall": 35,
+   "enhet": "årsverk",
+   "omfang": "Helgeland (Mo i Rana, Mosjøen og Sandnessjøen)",
+   "status": "vedtatt",
+   "dato": "2026-08-26",
+   "sektor": "Offentlig forvaltning / helse",
+   "oppsummering": "Helgelandssykehuset ligger an til et underskudd på rundt 40 millioner kroner i 2026 og skal kutte 35 årsverk for å gå i balanse innen desember. Det kom fram under styrebehandlingen av virksomhetsrapporten. Sykehuset vil også tilpasse antall senger til den faste bemanningen, noe som kan bety at to til tre senger i somatikken stenges inntil det er nok fast ansatte.",
+   "kilder": [
+    "https://www.nrk.no/nordland/helgelandssykehuset-skal-kutte-35-arsverk-1.18002722",
+    "https://www.helg.no/ma-kutte-i-bemanningen-og-redusere-antall-senger-helt-nodvendig-a-ta-grep/s/80-24-6757"
+   ],
+   "orgnr": "983974929",
+   "brreg_navn": "HELGELANDSSYKEHUSET HF",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Helgelandssykehuset",
+   "kommentar": "Årsverk, ikke personer. Kilden oppgir ikke om kuttet tas gjennom oppsigelser eller via vikarbruk og ledige stillinger."
   },
   {
    "id": "obos-2026-08",
