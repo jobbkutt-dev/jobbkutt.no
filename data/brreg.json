@@ -1,7 +1,29 @@
 {
- "oppdatert": "2026-10-24T03:03",
- "filter": "antallAnsatte >= 10, dato >= 2026-04-27",
+ "oppdatert": "2026-10-25T12:00",
+ "filter": "antallAnsatte >= 10, dato >= 2026-04-28",
  "enheter": [
+  {
+   "orgnr": "996201708",
+   "navn": "PAPA'S TAKEAWAY AS",
+   "type": "konkurs",
+   "dato": "2026-10-23",
+   "antallAnsatte": 22,
+   "bransje": "Drift av restauranter",
+   "naeringskode": "56.110",
+   "kommune": "ASKØY",
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/996201708"
+  },
+  {
+   "orgnr": "823946732",
+   "navn": "SØRLANDET KLATRESENTER AS",
+   "type": "konkurs",
+   "dato": "2026-10-23",
+   "antallAnsatte": 29,
+   "bransje": "Drift av idrettsanlegg",
+   "naeringskode": "93.110",
+   "kommune": "KRISTIANSAND",
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/823946732"
+  },
   {
    "orgnr": "999503845",
    "navn": "ULSTEIN ENTREPRENØR AS",
