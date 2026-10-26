@@ -1,6 +1,26 @@
 {
- "oppdatert": "2026-10-26T11:54",
+ "oppdatert": "2026-10-26T15:02",
  "saker": [
+  {
+   "id": "isfjord-norway-2026-10",
+   "selskap": "Isfjord Norway AS (Orkanger)",
+   "sok": "ISFJORD NORWAY AS",
+   "antall": 93,
+   "enhet": "ansatte",
+   "omfang": "Norge: fiskeforedlingsanlegget på Orkanger (Orkland); 93 ansatte samt alle innleide",
+   "status": "permittering",
+   "dato": "2026-10-24",
+   "sektor": "Sjømat / fiskeforedling",
+   "oppsummering": "Fiskeforedlingsbedriften Isfjord Norway på Orkanger har sendt permitteringsvarsel til 93 ansatte og til alle innleide, som utgjør om lag tre fjerdedeler av bemanningen i produksjonen. Bakgrunnen er en krevende økonomisk situasjon for selskapet. Bedriften permitterte også mellom 30 og 50 ansatte i starten av 2026 på grunn av høye råstoffpriser og svake marginer.",
+   "kilder": [
+    "https://www.avisa-st.no/nyheter/n/Jr93eJ/93-ansatte-og-alle-innleide-har-faatt-permitteringsvarsel",
+    "https://ilaks.no/det-er-ingen-hemmelighet-at-det-er-en-vanskelig-situasjon/"
+   ],
+   "orgnr": "981647459",
+   "brreg_navn": "ISFJORD NORWAY AS",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Isfjord%20Norway",
+   "kommentar": "Permitteringsvarsel til 93 ansatte; i tillegg får alle innleide varsel (antall ikke oppgitt). Om lag 75 prosent av bemanningen i produksjonen. Tallene er hentet fra ingress/tittel hos Avisa Sør-Trøndelag (betalingsmur)."
+  },
   {
    "id": "danske-bank-2026-10",
    "selskap": "Danske Bank A/S NUF (Danske Bank Norge)",
@@ -428,6 +448,27 @@
    "brreg_navn": null,
    "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Ulefos",
    "kommentar": "Ulefoss, Nome; avvikles innen tre år, 30 nye jobber på Stange."
+  },
+  {
+   "id": "framtre-industri-kodal-2026-09",
+   "selskap": "FramTre Industri AS (fabrikken i Kodal)",
+   "sok": "FRAMTRE INDUSTRI AS",
+   "antall": 30,
+   "enhet": "ansatte",
+   "omfang": "Norge: produksjonen (høvleri og etterbehandling) ved fabrikken i Kodal, Sandefjord; hovedkontoret blir værende",
+   "status": "vedtatt",
+   "dato": "2026-09-10",
+   "sektor": "Industri (tre)",
+   "oppsummering": "FramTre Industri har besluttet å avvikle produksjonen ved fabrikken i Kodal (tidligere Hasås) og flytte volumet til fabrikkene i Midt-Telemark og Hægebostad. Selskapet begrunner det med et svakt marked for trelast og trebaserte byggevarer og overkapasitet i treindustrien. Avviklingen skal skje trinnvis i løpet av 2026 og berører om lag 30 ansatte. Selskapet vil vurdere annet arbeid i virksomheten der det er mulig.",
+   "kilder": [
+    "https://framtre.no/framtre-industri-avvikler-produksjonen-i-kodal/",
+    "https://www.norsk-skogbruk.no/industri/framtre-avvikler-produksjonen-i-kodal/208256",
+    "https://www.bygg.no/tre-treindustri-vestfold/framtre-industri-avvikler-produksjonen-i-kodal-30-ansatte-blir-berort/2953443"
+   ],
+   "orgnr": "934995953",
+   "brreg_navn": "FRAMTRE INDUSTRI AS",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=FramTre%20Industri",
+   "kommentar": "Om lag 30 ansatte berørt; konsekvensene for den enkelte avklares i individuelle prosesser, og annet arbeid i virksomheten vurderes."
   },
   {
    "id": "ikea-furuset-2026-09",
