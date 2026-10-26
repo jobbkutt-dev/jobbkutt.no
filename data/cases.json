@@ -1,5 +1,5 @@
 {
- "oppdatert": "2026-10-24T12:05",
+ "oppdatert": "2026-10-26T11:54",
  "saker": [
   {
    "id": "danske-bank-2026-10",
@@ -1059,15 +1059,16 @@
    "status": "vedtatt",
    "dato": "2026-01-08",
    "sektor": "Media",
-   "oppsummering": "NRK reduserer bemanningen med 150 årsverk over to år, opplyst i møte med Kulturdepartementet i desember. Ifølge økonomidirektør Andreas Norvik skal det skje gjennom naturlig avgang. I 2026 har NRK i tillegg gjennomført en runde med frivillige sluttpakker med mål om 75 færre årsverk i år: av 170 søkere hadde 68 fått innvilget sluttpakke per oktober (søknadsfrist 1. oktober). Kuttene er del av en plan om 300–400 færre årsverk innen 2030, med hovedtyngden innen utgangen av 2028.",
+   "oppsummering": "NRK reduserer bemanningen med 150 årsverk over to år, opplyst i møte med Kulturdepartementet i desember. Ifølge økonomidirektør Andreas Norvik skal det skje gjennom naturlig avgang. I 2026 har NRK i tillegg gjennomført en runde med frivillige sluttpakker med mål om 75 færre årsverk i år. Per 26. oktober har 106 ansatte fått innvilget sluttpakke: av 183 søknader ble 51 avslått av hensyn til kritisk kompetanse, ti ble trukket og 16 er fortsatt under behandling. NRK har som mål å bli 300–400 færre ansatte innen utgangen av 2028.",
    "kilder": [
     "https://www.nrk.no/nyheter/nrk-reduserer-bemanningen-med-150-arsverk-over-to-ar-1.17718967",
-    "https://www.m24.no/nedbemanning-nrk-sluttpakker/68-har-tatt-sluttpakke-i-nrk-se-listen/960760"
+    "https://www.m24.no/nedbemanning-nrk-sluttpakker/68-har-tatt-sluttpakke-i-nrk-se-listen/960760",
+    "https://www.nrk.no/nyheter/106-ansatte-far-sluttpakke-i-nrk-1.18064707"
    ],
    "orgnr": "976390512",
    "brreg_navn": "NORSK RIKSKRINGKASTING AS",
    "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=NRK",
-   "kommentar": "Over to år, gjennom naturlig avgang og frivillige sluttpakker. Sluttpakkerunden 2026 (mål 75 årsverk): 68 innvilget per oktober. Samlet plan på 300–400 årsverk innen 2030 er ikke regnet med i antallet."
+   "kommentar": "Over to år, gjennom naturlig avgang og frivillige sluttpakker. Sluttpakkerunden 2026 (mål 75 årsverk): 106 personer innvilget per 26.10.26, 16 søknader under behandling. Samlet mål om 300–400 færre ansatte innen utgangen av 2028 er ikke regnet med i antallet."
   },
   {
    "id": "aker-solutions-2026-01",
