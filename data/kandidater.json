@@ -1,11 +1,46 @@
 {
- "oppdatert": "2026-10-26T11:53",
+ "oppdatert": "2026-10-27T15:00",
  "kandidater": [
   {
+   "kilde": "E24",
+   "tittel": "Microsoft tilbyr sluttpakke til 60.000 ansatte",
+   "ingress": "Men flere avdelinger kan se langt etter tilbudet.",
+   "url": "https://e24.no/boers-og-finans/i/El80Po/microsoft-tilbyr-sluttpakke-til-60-000-ansatte?utm_medium=rss",
+   "dato": "2026-10-26"
+  },
+  {
    "kilde": "DN",
-   "tittel": "NHO: En av fem ansatte er direktør",
-   "ingress": "I NHO-fellesskapet er over halvparten direktør, sjef eller leder. Kun én bransje varsler kraftige kutt i direktørtitler.",
-   "url": "https://www.dn.no/arbeidsliv/nho/ledelse/finans-norge/nho-en-av-fem-ansatte-er-direktor/2-1-2060878",
+   "tittel": "Norwegian-kutt i Danmark: – En øvelse i sosial dumping",
+   "ingress": "Norwegian sier opp mange danske piloter og kabinansatte, og flyr i stedet inn fra Spania. En fagforeningstopp prøvde forgjeves å få selskapet til å snu.",
+   "url": "https://www.dn.no/luftfart/norwegian/geir-karlsen/thilde-waast/norwegian-kutt-i-danmark-en-ovelse-i-sosial-dumping/2-1-2064539",
+   "dato": "2026-10-27"
+  },
+  {
+   "kilde": "DN",
+   "tittel": "Har bankene stresstestet KI-gevinsten?",
+   "ingress": "DNB varslet nedbemanning på 400 årsverk. KI kan nok gjøre en del arbeid raskere og billigere, men hvor sikker er besparelsen egentlig?",
+   "url": "https://www.dn.no/innlegg/dnb/kunstig-intelligens/arbeidsliv/har-bankene-stresstestet-ki-gevinsten/2-1-2059325",
+   "dato": "2026-10-26"
+  },
+  {
+   "kilde": "NRK",
+   "tittel": "Droppar omstridde kutt i psykiatrien- tilsette gret av glede",
+   "ingress": "Helse Møre og Romsdal har bestemt at dei ikkje legg ned eitt av dei distriktspsykiatriske sentra i Molde og Kristiansund. – Folk gret i dag, seier tillitsvald.",
+   "url": "https://www.nrk.no/mr/distriktspsykiatrisk-senter-i-molde-og-kristiansund-blir-ikkje-slatt-saman-likevel-1.18065688",
+   "dato": "2026-10-27"
+  },
+  {
+   "kilde": "NRK",
+   "tittel": "Krise etter vannbrudd: – Ikke puss tennene engang",
+   "ingress": "Sør-Varanger går tom for vann i kveld hvis ikke folk kutter forbruket tvert, meldte kommunen i morges. Reparasjonen av det siste vannbruddet kom i gang igjen litt etter klokka 11.",
+   "url": "https://www.nrk.no/tromsogfinnmark/krise-i-sor-varanger-_-ber-private-stoppe-alt-vannforbruk-1.18065754",
+   "dato": "2026-10-27"
+  },
+  {
+   "kilde": "NRK",
+   "tittel": "Bloomberg: Microsoft skal kutte 60.000 ansatte",
+   "ingress": "Tek-selskapet Microsoft har tilbudt 60.000 ansatte sluttpakker, skriver Bloomberg.\nTilbudet kommer fram i internt notat som ble sendt ut til de ansatte mandag fra selskapets HR-sjef Amy Coleman.\nIfølge AFP omfatter sluttpakketilbudet selskapets ansatte i USA, Canada, India og Storbritannia.",
+   "url": "https://www.nrk.no/nyheter/bloomberg_-microsoft-skal-kutte-60.000-ansatte-1.18065188",
    "dato": "2026-10-26"
   },
   {
@@ -16,18 +51,18 @@
    "dato": "2026-10-26"
   },
   {
-   "kilde": "NRK",
-   "tittel": "Tomme verft og permitteringer: Frp tror løsningen ligger i Arktis",
-   "ingress": "Frp krever garanti for utbygging av det omstridte Wisting-feltet for å berge norsk industri. Partiet anklages samtidig for dobbeltmoral fordi de kjemper imot havvind.",
-   "url": "https://www.nrk.no/rogaland/frp-krever-wisting-garanti-fra-regjeringen-_-vil-gi-skipsverftene-mer-arbeid-1.18036439",
-   "dato": "2026-10-22"
+   "kilde": "NRK Norge",
+   "tittel": "Droppar omstridde kutt i psykiatrien- tilsette gret av glede",
+   "ingress": "Helse Møre og Romsdal har bestemt at dei ikkje legg ned eitt av dei distriktspsykiatriske sentra i Molde og Kristiansund. – Folk gret i dag, seier tillitsvald.",
+   "url": "https://www.nrk.no/mr/distriktspsykiatrisk-senter-i-molde-og-kristiansund-blir-ikkje-slatt-saman-likevel-1.18065688",
+   "dato": "2026-10-27"
   },
   {
    "kilde": "NRK Norge",
-   "tittel": "Klimaendringene endrer åkeren: Nå satser norske bønder på mais",
-   "ingress": "Planten kutter utslipp av klimagass og gir billigere kufôr, men i Norge er en eventuell suksess et rent lotteri.",
-   "url": "https://www.nrk.no/rogaland/varmere-klima-gjor-at-flere-norske-bonder-dyrker-mais-1.18026063",
-   "dato": "2026-10-26"
+   "tittel": "Krise etter vannbrudd: – Ikke puss tennene engang",
+   "ingress": "Sør-Varanger går tom for vann i kveld hvis ikke folk kutter forbruket tvert, meldte kommunen i morges. Reparasjonen av det siste vannbruddet kom i gang igjen litt etter klokka 11.",
+   "url": "https://www.nrk.no/tromsogfinnmark/krise-i-sor-varanger-_-ber-private-stoppe-alt-vannforbruk-1.18065754",
+   "dato": "2026-10-27"
   }
  ]
 }
