@@ -1,7 +1,18 @@
 {
- "oppdatert": "2026-10-26T11:53",
- "filter": "antallAnsatte >= 10, dato >= 2026-04-29",
+ "oppdatert": "2026-10-27T08:54",
+ "filter": "antallAnsatte >= 10, dato >= 2026-04-30",
  "enheter": [
+  {
+   "orgnr": "916064667",
+   "navn": "ELEKTRO INSTALLATØREN AS",
+   "type": "konkurs",
+   "dato": "2026-10-26",
+   "antallAnsatte": 10,
+   "bransje": "Elektrisk installasjonsarbeid",
+   "naeringskode": "43.210",
+   "kommune": "DRAMMEN",
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/916064667"
+  },
   {
    "orgnr": "996201708",
    "navn": "PAPA'S TAKEAWAY AS",
