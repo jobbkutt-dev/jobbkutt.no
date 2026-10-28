@@ -1,6 +1,25 @@
 {
- "oppdatert": "2026-10-28T08:56",
+ "oppdatert": "2026-10-28T11:55+01:00",
  "saker": [
+  {
+   "id": "gjensidige-2026-10",
+   "selskap": "Gjensidige Forsikring ASA (Teknologi og Innsikt)",
+   "sok": "GJENSIDIGE FORSIKRING ASA",
+   "antall": 40,
+   "enhet": "årsverk",
+   "omfang": "Konsernet: avdelingen Teknologi og Innsikt; sluttpakker tilbys teknologiansatte",
+   "status": "varslet",
+   "dato": "2026-10-28",
+   "sektor": "Finans / forsikring",
+   "oppsummering": "Forsikringsselskapet Gjensidige skal redusere bemanningen i teknologiavdelingen Teknologi og Innsikt med rundt 40 årsverk, og tilbyr sluttpakker til teknologiansatte i konsernet. Selskapet bekrefter nedbemanningen overfor Nettavisen og sier prosessen pågår og skal være ferdig i løpet av kort tid, men gir ikke flere detaljer.",
+   "kilder": [
+    "https://www.nettavisen.no/okonomi/gjensidige-kutter-rundt-40-arsverk/s/80-95-198695"
+   ],
+   "orgnr": "995568217",
+   "brreg_navn": "GJENSIDIGE FORSIKRING ASA",
+   "kommentar": "«rundt 40 årsverk». Gjelder teknologiansatte i konsernet; det er ikke oppgitt hvor mange som er i Norge. Prosessen pågår.",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Gjensidige"
+  },
   {
    "id": "mesta-bane-2026-09",
    "selskap": "Mesta AS (Mesta Bane og betongavdelingen)",

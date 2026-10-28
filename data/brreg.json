@@ -1,7 +1,29 @@
 {
- "oppdatert": "2026-10-28T08:55",
+ "oppdatert": "2026-10-28T11:54",
  "filter": "antallAnsatte >= 10, dato >= 2026-05-01",
  "enheter": [
+  {
+   "orgnr": "915356834",
+   "navn": "CEFRONT TECHNOLOGY AS",
+   "type": "avvikling",
+   "dato": "2026-10-28",
+   "antallAnsatte": 13,
+   "bransje": "Forskning og eksperimentell utvikling innenfor naturvitenskap og teknikk",
+   "naeringskode": "72.100",
+   "kommune": "ARENDAL",
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/915356834"
+  },
+  {
+   "orgnr": "924944110",
+   "navn": "LOSSE FISH AS",
+   "type": "avvikling",
+   "dato": "2026-10-28",
+   "antallAnsatte": 13,
+   "bransje": "Lasting og lossing",
+   "naeringskode": "52.240",
+   "kommune": "ÅLESUND",
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/924944110"
+  },
   {
    "orgnr": "933925366",
    "navn": "ANCHAU AS",
