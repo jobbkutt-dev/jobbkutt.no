@@ -1,6 +1,85 @@
 {
- "oppdatert": "2026-10-28T11:55+01:00",
+ "oppdatert": "2026-10-28T15:01+01:00",
  "saker": [
+  {
+   "id": "sparebank1-kundesenter-2026-10",
+   "selskap": "SpareBank 1 Kundesenter AS (Stavanger)",
+   "sok": "SPAREBANK 1 KUNDESENTER AS",
+   "antall": 113,
+   "enhet": "ansatte",
+   "omfang": "Norge: hele det felles kundesenteret for SpareBank 1-bankene i Stavanger avvikles",
+   "status": "vedtatt",
+   "dato": "2026-10-28",
+   "sektor": "Bank / finans",
+   "oppsummering": "Styret i SpareBank 1 Utvikling har besluttet å avvikle datterselskapet SpareBank 1 Kundesenter AS, det felles kundesenteret for SpareBank 1-bankene i Stavanger. Begrunnelsen er at stadig flere henvendelser løses digitalt og at trafikken til kundesenteret har falt over tid; de lokale bankenes egne kundesentre skal overta alle henvendelser. Alle de 113 fast ansatte mister jobben, ifølge E24. Driften fortsetter som normalt til 1. januar 2027, og henvendelsene overføres gradvis til bankene fram til 1. mars 2027.",
+   "kilder": [
+    "https://www.nrk.no/rogaland/sparebank-1-legger-ned-selskap-med-113-ansatte-1.18067120",
+    "https://www.mynewsdesk.com/no/sparebank-1/pressreleases/faerre-kundehenvendelser-foerer-til-avvikling-av-felles-kundesenter-3474877",
+    "https://e24.no/naeringsliv/i/lKPJvA/sparebank-1-legger-ned-felles-kundesenter-113-ansatte-beroeres"
+   ],
+   "orgnr": "998830214",
+   "brreg_navn": "SPAREBANK 1 KUNDESENTER AS",
+   "kommentar": "113 fast ansatte; hele selskapet avvikles. Drift til 1.1.2027, overgangsperiode til 1.3.2027. Formelle prosesser gjennomføres med tillitsvalgte.",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=SpareBank%201%20Kundesenter"
+  },
+  {
+   "id": "tryg-2026-10",
+   "selskap": "Tryg Forsikring (norsk skadeområde, Bergen)",
+   "sok": "TRYG FORSIKRING A/S NUF",
+   "antall": 39,
+   "enhet": "årsverk",
+   "omfang": "Norge: skadeorganisasjonen, i hovedsak hovedkontoret i Fyllingsdalen i Bergen",
+   "status": "varslet",
+   "dato": "2026-10-28",
+   "sektor": "Finans / forsikring",
+   "oppsummering": "Tryg Forsikring skal redusere den norske skadeorganisasjonen med 39 årsverk, og alle fast ansatte i skadeområdet får tilbud om å søke frivillig sluttpakke. Selskapet viser til at kundene melder færre skader, at det har færre kunder enn før, og at stadig flere skadesaker behandles automatisk. Antallet saker som krever manuell behandling er redusert med om lag en tredjedel de siste årene. Mesteparten av kuttene rammer hovedkontoret i Fyllingsdalen i Bergen.",
+   "kilder": [
+    "https://www.nettavisen.no/okonomi/39-mister-jobben-i-tryg/s/80-95-198308",
+    "https://www.finansavisen.no/finans/2026/10/28/8391162/tryg-nedbemanner-kutter-39-arsverk"
+   ],
+   "orgnr": "989563521",
+   "brreg_navn": "TRYG FORSIKRING A/S NUF",
+   "kommentar": "39 årsverk i Norge, i første omgang via frivillige sluttpakker. Nettavisen omtaler kuttet som 39 stillinger/personer. Nedbemanningen av 48 stillinger i 2025 er ikke regnet med.",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Tryg"
+  },
+  {
+   "id": "ramboll-2026-10",
+   "selskap": "Rambøll Norge AS",
+   "sok": "RAMBØLL NORGE AS",
+   "antall": null,
+   "enhet": "stillinger",
+   "omfang": "Konsernet: 400 stillinger globalt, i hovedsak lederstillinger; Norge rammes, men antallet er ikke oppgitt (ca. 1 550 ansatte i Norge)",
+   "status": "varslet",
+   "dato": "2026-10-28",
+   "sektor": "Rådgivning / ingeniørtjenester",
+   "oppsummering": "Det danske ingeniør- og rådgivningskonsernet Rambøll skal kutte 400 stillinger globalt, flest lederstillinger, og nedbemanningen skal etter planen være gjennomført innen utgangen av november. Selskapet bekrefter overfor ABC Nyheter at også den norske virksomheten rammes, men vil ikke oppgi hvor mange norske ansatte som berøres. Bakgrunnen er svak lønnsomhet og et ønske om en enklere organisasjon; flere endringer, blant annet i støttefunksjonene, kan komme.",
+   "kilder": [
+    "https://www.abcnyheter.no/nyheter/ingeniorgigant-kutter-400-stillinger-bekrefter-at-norge-rammes/1713702"
+   ],
+   "orgnr": "915251293",
+   "brreg_navn": "RAMBØLL NORGE AS",
+   "kommentar": "400 stillinger gjelder konsernet globalt (ca. 18 000 ansatte). Antallet i Norge er ikke oppgitt, derfor ikke tallfestet.",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Ramb%C3%B8ll"
+  },
+  {
+   "id": "titania-2026-10",
+   "selskap": "Titania AS (Sokndal)",
+   "sok": "TITANIA AS",
+   "antall": null,
+   "enhet": "ansatte",
+   "omfang": "Norge: gruvebedriften i Hauge i Dalane, Sokndal (rundt 245 ansatte); går fra fire til tre skift",
+   "status": "varslet",
+   "dato": "2026-10-28",
+   "sektor": "Industri (gruvedrift)",
+   "oppsummering": "Titania i Sokndal venter lavere salgsvolum neste år og går derfor ned fra fire til tre skift. Ifølge Dalane Tidende betyr omleggingen oppsigelser, ikke permitteringer. Hvor mange av de rundt 245 ansatte som mister jobben, er foreløpig ikke avklart.",
+   "kilder": [
+    "https://www.dalane-tidende.no/gar-fra-fire-til-tre-skift-det-blir-oppseiing-ikkje-permittering/s/80-101-9118"
+   ],
+   "orgnr": "916769318",
+   "brreg_navn": "TITANIA AS",
+   "kommentar": "Antallet som sies opp er ikke kjent ennå (rundt 245 ansatte totalt). Kilden er bak betalingsmur; opplysningene er hentet fra den åpne ingressen.",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Titania"
+  },
   {
    "id": "gjensidige-2026-10",
    "selskap": "Gjensidige Forsikring ASA (Teknologi og Innsikt)",
