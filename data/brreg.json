@@ -1,7 +1,51 @@
 {
- "oppdatert": "2026-10-27T15:00",
- "filter": "antallAnsatte >= 10, dato >= 2026-04-30",
+ "oppdatert": "2026-10-28T08:55",
+ "filter": "antallAnsatte >= 10, dato >= 2026-05-01",
  "enheter": [
+  {
+   "orgnr": "933925366",
+   "navn": "ANCHAU AS",
+   "type": "konkurs",
+   "dato": "2026-10-27",
+   "antallAnsatte": 13,
+   "bransje": "Drift av restauranter",
+   "naeringskode": "56.110",
+   "kommune": "OSLO",
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/933925366"
+  },
+  {
+   "orgnr": "898478122",
+   "navn": "BOLSETH GRUPPEN AS",
+   "type": "konkurs",
+   "dato": "2026-10-27",
+   "antallAnsatte": 14,
+   "bransje": "Grunnarbeid",
+   "naeringskode": "43.120",
+   "kommune": "ÅLESUND",
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/898478122"
+  },
+  {
+   "orgnr": "953154390",
+   "navn": "CHRISTIANIA BELYSNING AS",
+   "type": "konkurs",
+   "dato": "2026-10-27",
+   "antallAnsatte": 63,
+   "bransje": "Detaljhandel med belysningsartikler",
+   "naeringskode": "47.552",
+   "kommune": "BÆRUM",
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/953154390"
+  },
+  {
+   "orgnr": "914738954",
+   "navn": "JAKOBS BRØD AS",
+   "type": "konkurs",
+   "dato": "2026-10-27",
+   "antallAnsatte": 10,
+   "bransje": "Produksjon av brød og ferske konditorvarer",
+   "naeringskode": "10.710",
+   "kommune": "STAVANGER",
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/914738954"
+  },
   {
    "orgnr": "916064667",
    "navn": "ELEKTRO INSTALLATØREN AS",
@@ -155,17 +199,6 @@
    "naeringskode": "56.110",
    "kommune": "OSLO",
    "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/930701807"
-  },
-  {
-   "orgnr": "914738954",
-   "navn": "JAKOBS BRØD AS",
-   "type": "avvikling",
-   "dato": "2026-10-17",
-   "antallAnsatte": 10,
-   "bransje": "Produksjon av brød og ferske konditorvarer",
-   "naeringskode": "10.710",
-   "kommune": "STAVANGER",
-   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/914738954"
   },
   {
    "orgnr": "926358022",

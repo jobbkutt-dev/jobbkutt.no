@@ -1,6 +1,27 @@
 {
- "oppdatert": "2026-10-27T08:56",
+ "oppdatert": "2026-10-28T08:56",
  "saker": [
+  {
+   "id": "mesta-bane-2026-09",
+   "selskap": "Mesta AS (Mesta Bane og betongavdelingen)",
+   "sok": "MESTA AS",
+   "antall": 59,
+   "enhet": "ansatte",
+   "omfang": "Norge: permitteringsvarsel til 19 ansatte i Mesta Bane (september); nedleggelse av betongavdelingen med 40 ansatte (oktober)",
+   "status": "vedtatt",
+   "dato": "2026-10-27",
+   "sektor": "Bygg og anlegg (vei, bane og betong)",
+   "oppsummering": "Mesta har gjennomført to runder med kutt høsten 2026. I september fikk 19 ansatte i Mesta Bane, jernbanedelen av konsernet, permitteringsvarsel med virkning fra oktober, begrunnet med færre nye jernbaneprosjekter og lav aktivitet over tid. I oktober besluttet Mesta å legge ned betongavdelingen, som har 40 ansatte – blant dem prosjekt- og anleggsledere, fagarbeidere og lærlinger. Selskapet viser til at markedet for mindre, avgrensede betongoppdrag har krympet og at ordreboken for 2027 er svak. Mesta forsøker å omplassere flest mulig internt og hjelpe resten over i jobb hos andre bedrifter, og lærlingene skal få fullføre læretiden.",
+   "kilder": [
+    "https://anlegg.bygg.no/bane-nor-mesta-permitteringer/faerre-jernbaneoppdrag-mesta-bane-ma-permittere/2956542",
+    "https://byggfaktanyheter.no/mesta-legger-ned-betongavdelingen-40-ansatte-mister-jobben/",
+    "https://e24.no/norsk-oekonomi/i/31APQq/mesta-legger-ned-betongavdelingen"
+   ],
+   "orgnr": "992804440",
+   "brreg_navn": "MESTA AS",
+   "kommentar": "To runder: 19 ansatte permitteringsvarslet i Mesta Bane (september) og 40 ansatte berørt av nedleggelsen av betongavdelingen (oktober). Ikke alle de 40 blir nødvendigvis sagt opp – Mesta prøver å omplassere flest mulig internt. Antallet er summen av de to rundene.",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Mesta%20AS"
+  },
   {
    "id": "rambase-2026-10",
    "selskap": "RamBase (Hatteland-konsernet, Aksdal)",
@@ -104,22 +125,23 @@
    "id": "norwegian-cph-2026-10",
    "selskap": "Norwegian Air Shuttle ASA (basen i København)",
    "sok": "NORWEGIAN AIR SHUTTLE ASA",
-   "antall": 125,
+   "antall": 123,
    "enhet": "ansatte",
-   "omfang": "Basen på Københavns lufthavn (Danmark): 55 piloter og 70 kabinansatte",
-   "status": "varslet",
+   "omfang": "Basen på Københavns lufthavn (Danmark): 53 piloter og 70 kabinansatte",
+   "status": "vedtatt",
    "dato": "2026-10-19",
    "sektor": "Luftfart",
-   "oppsummering": "Norwegian har innledet forhandlinger med de ansattes representanter om masseoppsigelser ved basen i København. Inntil 55 piloter og 70 kabinansatte kan miste jobben fordi selskapet reduserer antall fly med base i København i sommersesongen fra 16 til 14, og lar noen sommerruter fly med fly basert i Spania. Selskapet sier det ikke er snakk om økonomisk krise, men om store sesongsvingninger, og håper å begrense eller unngå oppsigelser gjennom alternative løsninger.",
+   "oppsummering": "Norwegian reduserer antall fly med base i København i sommersesongen fra 16 til 14, og lar de to flyene opereres fra Spania med spansk besetning. Etter forhandlinger med de ansattes representanter er det nå besluttet at 53 piloter og 70 kabinansatte i Danmark sies opp i løpet av 2027: en første runde fra 31. januar og resten fra 31. oktober. Selskapet sier det ikke er snakk om økonomisk krise, men om store sesongsvingninger. Fagforeningen FPU kritiserer beslutningen og kaller den sosial dumping.",
    "kilder": [
     "https://www.nrk.no/nyheter/bransjenettsted_-norwegian-ansatte-i-kobenhavn-risikerer-a-miste-jobben-1.18059297",
     "https://luftfart.dk/masseafskedigelser-i-norwegian/",
-    "https://check-in.dk/norwegian-i-dialog-om-massefyringer-i-koebenhavn/"
+    "https://check-in.dk/norwegian-i-dialog-om-massefyringer-i-koebenhavn/",
+    "https://www.tv2.no/nyheter/full-uenighet-om-norwegian-oppsigelser-bruker-ryanair-metoder/19366849/"
    ],
    "orgnr": "965920358",
    "brreg_navn": "NORWEGIAN AIR SHUTTLE ASA",
    "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Norwegian%20Air%20Shuttle%20ASA",
-   "kommentar": "Opptil 125 (55 piloter og 70 kabinansatte), om lag en femtedel av piloter og kabinansatte i Danmark. Gjelder basen i København, ikke Norge. Varsel/forhandlinger – endelig antall ikke avklart."
+   "kommentar": "123 oppsigelser (53 piloter og 70 kabinansatte), fordelt på 106 med virkning fra 31. januar 2027 og 17 fra 31. oktober 2027. Først varslet som opptil 125 (55 piloter og 70 kabinansatte). Gjelder basen i København, ikke Norge."
   },
   {
    "id": "aasmund-pettersen-2026-10",
@@ -410,25 +432,6 @@
    "brreg_navn": "MADSHUS AS",
    "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Madshus%20AS",
    "kommentar": "Biri."
-  },
-  {
-   "id": "mesta-bane-2026-09",
-   "selskap": "Mesta AS (Mesta Bane)",
-   "sok": "MESTA AS",
-   "antall": 19,
-   "enhet": "ansatte",
-   "omfang": "Mesta Bane (jernbanedrift og -vedlikehold): permitteringsvarsel fra oktober",
-   "status": "permittering",
-   "dato": "2026-09-21",
-   "sektor": "Bygg og anlegg (jernbane)",
-   "oppsummering": "Mesta Bane, jernbanedelen av Mesta-konsernet, har gitt permitteringsvarsel til 19 ansatte med virkning fra oktober. Selskapet viser til svakere tilgang på nye jernbaneprosjekter og lavere aktivitet over tid, og sier tidligere kostnadstiltak ikke har vært nok. Ifølge EBA er over ti prosent av arbeidsstyrken hos norske jernbaneentreprenører allerede permittert.",
-   "kilder": [
-    "https://anlegg.bygg.no/bane-nor-mesta-permitteringer/faerre-jernbaneoppdrag-mesta-bane-ma-permittere/2956542"
-   ],
-   "orgnr": "992804440",
-   "brreg_navn": "MESTA AS",
-   "kommentar": "I første omgang 19 ansatte; endelig omfang ikke avklart.",
-   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Mesta%20AS"
   },
   {
    "id": "folkehjelp-2026-09",

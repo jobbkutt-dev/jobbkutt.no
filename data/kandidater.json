@@ -1,6 +1,13 @@
 {
- "oppdatert": "2026-10-27T15:00",
+ "oppdatert": "2026-10-28T08:55",
  "kandidater": [
+  {
+   "kilde": "E24",
+   "tittel": "Mesta legger ned betongavdelingen",
+   "ingress": "Nedleggelsen vil berøre 40 ansatte.",
+   "url": "https://e24.no/norsk-oekonomi/i/31APQq/mesta-legger-ned-betongavdelingen?utm_medium=rss",
+   "dato": "2026-10-27"
+  },
   {
    "kilde": "E24",
    "tittel": "Microsoft tilbyr sluttpakke til 60.000 ansatte",
@@ -16,13 +23,6 @@
    "dato": "2026-10-27"
   },
   {
-   "kilde": "DN",
-   "tittel": "Har bankene stresstestet KI-gevinsten?",
-   "ingress": "DNB varslet nedbemanning på 400 årsverk. KI kan nok gjøre en del arbeid raskere og billigere, men hvor sikker er besparelsen egentlig?",
-   "url": "https://www.dn.no/innlegg/dnb/kunstig-intelligens/arbeidsliv/har-bankene-stresstestet-ki-gevinsten/2-1-2059325",
-   "dato": "2026-10-26"
-  },
-  {
    "kilde": "NRK",
    "tittel": "Droppar omstridde kutt i psykiatrien- tilsette gret av glede",
    "ingress": "Helse Møre og Romsdal har bestemt at dei ikkje legg ned eitt av dei distriktspsykiatriske sentra i Molde og Kristiansund. – Folk gret i dag, seier tillitsvald.",
@@ -32,7 +32,7 @@
   {
    "kilde": "NRK",
    "tittel": "Krise etter vannbrudd: – Ikke puss tennene engang",
-   "ingress": "Sør-Varanger går tom for vann i kveld hvis ikke folk kutter forbruket tvert, meldte kommunen i morges. Reparasjonen av det siste vannbruddet kom i gang igjen litt etter klokka 11.",
+   "ingress": "Sør-Varanger går tom for vann i kveld hvis ikke folk kutter forbruket tvert, meldte kommunen i morges. De ber folk holde krana stengt frem til vannet er tilbake.",
    "url": "https://www.nrk.no/tromsogfinnmark/krise-i-sor-varanger-_-ber-private-stoppe-alt-vannforbruk-1.18065754",
    "dato": "2026-10-27"
   },
@@ -49,20 +49,6 @@
    "ingress": "NRK har innvilget 106 søknader om sluttpakke.\n– For at vi skal fortsette å være det NRK som samler, engasjerer og er tett på hele landet, må vi utvikle måten vi jobber på. Vi skal bygge en organisasjon der nye verktøy, roller og felles arbeidsflyt blir en mer naturlig del av hele NRK, slik at vi i s",
    "url": "https://www.nrk.no/nyheter/106-ansatte-far-sluttpakke-i-nrk-1.18064707",
    "dato": "2026-10-26"
-  },
-  {
-   "kilde": "NRK Norge",
-   "tittel": "Droppar omstridde kutt i psykiatrien- tilsette gret av glede",
-   "ingress": "Helse Møre og Romsdal har bestemt at dei ikkje legg ned eitt av dei distriktspsykiatriske sentra i Molde og Kristiansund. – Folk gret i dag, seier tillitsvald.",
-   "url": "https://www.nrk.no/mr/distriktspsykiatrisk-senter-i-molde-og-kristiansund-blir-ikkje-slatt-saman-likevel-1.18065688",
-   "dato": "2026-10-27"
-  },
-  {
-   "kilde": "NRK Norge",
-   "tittel": "Krise etter vannbrudd: – Ikke puss tennene engang",
-   "ingress": "Sør-Varanger går tom for vann i kveld hvis ikke folk kutter forbruket tvert, meldte kommunen i morges. Reparasjonen av det siste vannbruddet kom i gang igjen litt etter klokka 11.",
-   "url": "https://www.nrk.no/tromsogfinnmark/krise-i-sor-varanger-_-ber-private-stoppe-alt-vannforbruk-1.18065754",
-   "dato": "2026-10-27"
   }
  ]
 }
