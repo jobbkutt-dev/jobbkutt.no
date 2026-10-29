@@ -1,6 +1,6 @@
 {
- "oppdatert": "2026-10-28T11:54",
- "filter": "antallAnsatte >= 10, dato >= 2026-05-01",
+ "oppdatert": "2026-10-29T11:56",
+ "filter": "antallAnsatte >= 10, dato >= 2026-05-02",
  "enheter": [
   {
    "orgnr": "915356834",
@@ -1233,17 +1233,6 @@
    "naeringskode": "86.992",
    "kommune": "OSLO",
    "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/971475560"
-  },
-  {
-   "orgnr": "932213702",
-   "navn": "HORIZONS GLOBAL TECHNOLOGY NORWAY AS",
-   "type": "tvangsavvikling",
-   "dato": "2026-06-18",
-   "antallAnsatte": 13,
-   "bransje": "Dataprogrammeringstjenester",
-   "naeringskode": "62.100",
-   "kommune": "OSLO",
-   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/932213702"
   }
  ]
 }
