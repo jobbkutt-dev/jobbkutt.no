@@ -1,6 +1,26 @@
 {
- "oppdatert": "2026-10-28T15:01+01:00",
+ "oppdatert": "2026-10-29T08:53+01:00",
  "saker": [
+  {
+   "id": "unicare-steffensrud-2026-10",
+   "selskap": "Unicare Steffensrud AS (Vestre Toten)",
+   "sok": "UNICARE STEFFENSRUD AS",
+   "antall": 100,
+   "enhet": "ansatte",
+   "omfang": "Norge: hele rehabiliteringsinstitusjonen på Ihle i Vestre Toten legges ned",
+   "status": "gjennomført",
+   "dato": "2026-10-28",
+   "sektor": "Helse / omsorg",
+   "oppsummering": "Rehabiliteringssenteret Unicare Steffensrud i Vestre Toten stenger etter mer enn 60 års drift, fordi Helse Sør-Øst, som var den største kjøperen av plassene, ikke videreførte avtalen. De siste pasientene reiste onsdag 28. oktober, og fredag 30. oktober er siste driftsdag. Vel 100 ansatte mister jobben, men ifølge ledelsen har de fleste allerede fått nytt arbeid. Senteret har gitt spesialisert rehabilitering til blant andre slagpasienter, kreftpasienter og personer med nevrologiske sykdommer.",
+   "kilder": [
+    "https://www.nrk.no/artikkel/et-helt-liv-pa-steffensrud-er-over-1531213",
+    "https://www.nrk.no/innlandet/steffensrud-blir-lagt-ned-etter-60-ars-drift-1.17719187"
+   ],
+   "orgnr": "932191482",
+   "brreg_navn": "UNICARE STEFFENSRUD AS",
+   "kommentar": "Vel 100 ansatte ifølge NRK; de fleste har allerede funnet ny jobb. Nedleggelsen var varslet fra tidligere (avtalen med Helse Sør-Øst ble sagt opp), siste driftsdag 30.10.26.",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Unicare%20Steffensrud"
+  },
   {
    "id": "sparebank1-kundesenter-2026-10",
    "selskap": "SpareBank 1 Kundesenter AS (Stavanger)",
