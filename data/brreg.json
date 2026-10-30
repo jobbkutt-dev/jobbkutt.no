@@ -1,7 +1,40 @@
 {
- "oppdatert": "2026-10-29T11:56",
- "filter": "antallAnsatte >= 10, dato >= 2026-05-02",
+ "oppdatert": "2026-10-30T08:55",
+ "filter": "antallAnsatte >= 10, dato >= 2026-05-03",
  "enheter": [
+  {
+   "orgnr": "936596932",
+   "navn": "MIAMI OSLO AS",
+   "type": "konkurs",
+   "dato": "2026-10-29",
+   "antallAnsatte": 27,
+   "bransje": "Drift av barer",
+   "naeringskode": "56.300",
+   "kommune": "OSLO",
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/936596932"
+  },
+  {
+   "orgnr": "924953373",
+   "navn": "OSROSO AS",
+   "type": "konkurs",
+   "dato": "2026-10-29",
+   "antallAnsatte": 13,
+   "bransje": "Drift av restauranter",
+   "naeringskode": "56.110",
+   "kommune": "BJØRNAFJORDEN",
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/924953373"
+  },
+  {
+   "orgnr": "931422545",
+   "navn": "XP SERVICE AS",
+   "type": "konkurs",
+   "dato": "2026-10-29",
+   "antallAnsatte": 12,
+   "bransje": "Elektrisk installasjonsarbeid",
+   "naeringskode": "43.210",
+   "kommune": "ASKER",
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/931422545"
+  },
   {
    "orgnr": "915356834",
    "navn": "CEFRONT TECHNOLOGY AS",

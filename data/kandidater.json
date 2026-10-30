@@ -1,26 +1,19 @@
 {
- "oppdatert": "2026-10-28T08:55",
+ "oppdatert": "2026-10-30T08:55",
  "kandidater": [
   {
-   "kilde": "E24",
-   "tittel": "Mesta legger ned betongavdelingen",
-   "ingress": "Nedleggelsen vil berøre 40 ansatte.",
-   "url": "https://e24.no/norsk-oekonomi/i/31APQq/mesta-legger-ned-betongavdelingen?utm_medium=rss",
-   "dato": "2026-10-27"
+   "kilde": "VG",
+   "tittel": "Uavhengig russisk avis legger ned driften: «Vi ble drept»",
+   "ingress": "Etter lang tid gir avisen opp kampen mot Putins regime.",
+   "url": "https://www.vg.no/nyheter/i/4OPwVo/uavhengig-russiske-avis-legger-ned-driften-drept",
+   "dato": "2026-10-30"
   },
   {
    "kilde": "E24",
-   "tittel": "Microsoft tilbyr sluttpakke til 60.000 ansatte",
-   "ingress": "Men flere avdelinger kan se langt etter tilbudet.",
-   "url": "https://e24.no/boers-og-finans/i/El80Po/microsoft-tilbyr-sluttpakke-til-60-000-ansatte?utm_medium=rss",
-   "dato": "2026-10-26"
-  },
-  {
-   "kilde": "DN",
-   "tittel": "Norwegian-kutt i Danmark: – En øvelse i sosial dumping",
-   "ingress": "Norwegian sier opp mange danske piloter og kabinansatte, og flyr i stedet inn fra Spania. En fagforeningstopp prøvde forgjeves å få selskapet til å snu.",
-   "url": "https://www.dn.no/luftfart/norwegian/geir-karlsen/thilde-waast/norwegian-kutt-i-danmark-en-ovelse-i-sosial-dumping/2-1-2064539",
-   "dato": "2026-10-27"
+   "tittel": "Dyr strøm: – Griner av glede hver dag det regner",
+   "ingress": "Strømprisen har skutt i været sør i landet. – Vil sannsynligvis få en vinter med enorme priser, sier…",
+   "url": "https://e24.no/energi-og-klima/i/w3qRqM/dyr-stroem-griner-av-glede-hver-dag-det-regner?utm_medium=rss",
+   "dato": "2026-10-29"
   },
   {
    "kilde": "NRK",

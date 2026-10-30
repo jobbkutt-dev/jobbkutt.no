@@ -1,6 +1,26 @@
 {
- "oppdatert": "2026-10-29T08:53+01:00",
+ "oppdatert": "2026-10-30T08:56+01:00",
  "saker": [
+  {
+   "id": "am-nutrition-2026-10",
+   "selskap": "AM Nutrition AS (Felleskjøpet Rogaland Agder, Stavanger)",
+   "sok": "AM NUTRITION AS",
+   "antall": 23,
+   "enhet": "ansatte",
+   "omfang": "Norge: 23 ansatte i Stavanger (fabrikken på Kvaleberg); i tillegg 4 ansatte i Danmark – 27 totalt",
+   "status": "vedtatt",
+   "dato": "2026-10-29",
+   "sektor": "Industri (næringsmiddel / fôr)",
+   "oppsummering": "Felleskjøpet Rogaland Agder avvikler driften i datterselskapet AM Nutrition etter negative resultater over tid, som følge av pressede marginer i internasjonale markeder. Selskapet ser ingen bedring på kort sikt. De ansatte skal følges opp, og muligheter for annet arbeid i konsernet skal avklares. Fabrikken på Kvaleberg skal brukes til å bearbeide råvarer til konsernets egen kraftfôrproduksjon.",
+   "kilder": [
+    "https://www.nrk.no/rogaland/felleskjopet-legger-ned_-23-i-stavanger-mister-jobben-1.18068339",
+    "https://www.nationen.no/felleskjopet-rogaland-agder-legger-ned-datterselskap/s/80-148-60500"
+   ],
+   "orgnr": "987651059",
+   "brreg_navn": "AM NUTRITION AS",
+   "kommentar": "Hele driften avvikles. 23 ansatte i Stavanger mister jobben; de 4 ansatte i Danmark er ikke regnet med i antallet. Det skal avklares om noen kan få annet arbeid i konsernet.",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Felleskj%C3%B8pet"
+  },
   {
    "id": "unicare-steffensrud-2026-10",
    "selskap": "Unicare Steffensrud AS (Vestre Toten)",
