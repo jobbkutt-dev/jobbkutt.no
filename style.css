@@ -23,3 +23,6 @@ nav{flex-wrap:nowrap;overflow-x:auto;-webkit-overflow-scrolling:touch;scrollbar-
 table{display:block;overflow-x:auto;-webkit-overflow-scrolling:touch;font-size:14px}th,td{padding:8px}td{min-width:90px}td:nth-child(2){min-width:220px}td.kom{min-width:160px;max-width:260px}}
 
 
+
+.kat{cursor:help;border-bottom:1px dotted currentColor}
+.bar[title]{cursor:help}
