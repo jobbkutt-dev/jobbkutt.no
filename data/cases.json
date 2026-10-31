@@ -1,5 +1,5 @@
 {
- "oppdatert": "2026-10-30T08:56+01:00",
+ "oppdatert": "2026-10-31T12:10+01:00",
  "saker": [
   {
    "id": "am-nutrition-2026-10",
@@ -1289,6 +1289,26 @@
    "brreg_navn": "AKER SOLUTIONS ASA",
    "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Aker%20Solutions%20ASA",
    "kommentar": "Norge og internasjonalt; ca. 300 ved verftet i Verdal."
+  },
+  {
+   "id": "sticos-2026-10",
+   "selskap": "Sticos AS (Trondheim)",
+   "sok": "STICOS AS",
+   "antall": null,
+   "enhet": "ansatte",
+   "omfang": "Norge (Trondheim); 10 % av de ansatte, selskapet har ca. 158 ansatte",
+   "status": "varslet",
+   "dato": "2026-10-28",
+   "sektor": "Teknologi / programvare",
+   "oppsummering": "Trondheimsselskapet Sticos, som lager fagsystemer for regnskap, lønn og personal og eies av Visma, skal redusere bemanningen med rundt 10 prosent. Toppsjefen knytter grepet blant annet til kunstig intelligens og sier organisasjonen ble bygget for en annen tid. Ifølge omtalen tilbys ansatte frivillige sluttpakker.",
+   "kilder": [
+    "https://www.mn24.no/nyheter/n/GrW9o9/troendersk-teknologiselskap-skal-nedbemanne-10-prosent-av-de-ansatte",
+    "https://www.mn24.no/meninger/n/d7Ag1j/kunstig-intelligens-ekte-nedbemanning-eller"
+   ],
+   "orgnr": "934228391",
+   "brreg_navn": "STICOS AS",
+   "kommentar": "Oppgitt som 10 % av de ansatte; eksakt antall er ikke oppgitt (ca. 16 av ca. 158 ansatte ifølge Brreg), derfor ikke tallfestet.",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Sticos"
   }
  ]
 }
