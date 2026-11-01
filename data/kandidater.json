@@ -1,11 +1,11 @@
 {
- "oppdatert": "2026-10-30T08:55",
+ "oppdatert": "2026-11-01T12:00",
  "kandidater": [
   {
-   "kilde": "VG",
-   "tittel": "Uavhengig russisk avis legger ned driften: «Vi ble drept»",
-   "ingress": "Etter lang tid gir avisen opp kampen mot Putins regime.",
-   "url": "https://www.vg.no/nyheter/i/4OPwVo/uavhengig-russiske-avis-legger-ned-driften-drept",
+   "kilde": "E24",
+   "tittel": "Nødradio-salget tredoblet etter Telenor-bruddet",
+   "ingress": "Salget av nødradioer har skutt i været etter at Telenors mobilnett var nede i flere timer tidligere…",
+   "url": "https://e24.no/naeringsliv/i/5857wK/noedradio-salget-tredoblet-etter-telenor-bruddet?utm_medium=rss",
    "dato": "2026-10-30"
   },
   {
@@ -16,32 +16,18 @@
    "dato": "2026-10-29"
   },
   {
-   "kilde": "NRK",
-   "tittel": "Droppar omstridde kutt i psykiatrien- tilsette gret av glede",
-   "ingress": "Helse Møre og Romsdal har bestemt at dei ikkje legg ned eitt av dei distriktspsykiatriske sentra i Molde og Kristiansund. – Folk gret i dag, seier tillitsvald.",
-   "url": "https://www.nrk.no/mr/distriktspsykiatrisk-senter-i-molde-og-kristiansund-blir-ikkje-slatt-saman-likevel-1.18065688",
-   "dato": "2026-10-27"
+   "kilde": "DN",
+   "tittel": "Ut mot DNBs KI-nedbemanning: – Veldig skadelig, rett og slett",
+   "ingress": "DNB viser til KI-gevinster når banken kutter 400 årsverk. Geir Jarle Ness mener gevinstene som skal forsvare nedbemanningen ikke finnes – og får støtte fra Tekna-topp Elisabet Haugsbø.",
+   "url": "https://www.dn.no/arbeidsliv/dnb/nedbemanning/arbeidsliv/ut-mot-dnbs-ki-nedbemanning-veldig-skadelig-rett-og-slett/2-1-2065334",
+   "dato": "2026-11-01"
   },
   {
    "kilde": "NRK",
-   "tittel": "Krise etter vannbrudd: – Ikke puss tennene engang",
-   "ingress": "Sør-Varanger går tom for vann i kveld hvis ikke folk kutter forbruket tvert, meldte kommunen i morges. De ber folk holde krana stengt frem til vannet er tilbake.",
-   "url": "https://www.nrk.no/tromsogfinnmark/krise-i-sor-varanger-_-ber-private-stoppe-alt-vannforbruk-1.18065754",
-   "dato": "2026-10-27"
-  },
-  {
-   "kilde": "NRK",
-   "tittel": "Bloomberg: Microsoft skal kutte 60.000 ansatte",
-   "ingress": "Tek-selskapet Microsoft har tilbudt 60.000 ansatte sluttpakker, skriver Bloomberg.\nTilbudet kommer fram i internt notat som ble sendt ut til de ansatte mandag fra selskapets HR-sjef Amy Coleman.\nIfølge AFP omfatter sluttpakketilbudet selskapets ansatte i USA, Canada, India og Storbritannia.",
-   "url": "https://www.nrk.no/nyheter/bloomberg_-microsoft-skal-kutte-60.000-ansatte-1.18065188",
-   "dato": "2026-10-26"
-  },
-  {
-   "kilde": "NRK",
-   "tittel": "106 ansatte får sluttpakke i NRK",
-   "ingress": "NRK har innvilget 106 søknader om sluttpakke.\n– For at vi skal fortsette å være det NRK som samler, engasjerer og er tett på hele landet, må vi utvikle måten vi jobber på. Vi skal bygge en organisasjon der nye verktøy, roller og felles arbeidsflyt blir en mer naturlig del av hele NRK, slik at vi i s",
-   "url": "https://www.nrk.no/nyheter/106-ansatte-far-sluttpakke-i-nrk-1.18064707",
-   "dato": "2026-10-26"
+   "tittel": "Stian er en av 50.000 som har fått slettet studiegjeld: – Vi sparer ganske mye",
+   "ingress": "Ekteparet ga opp bylivet og flyttet til bygda – og kan smile bredt av distriktsordningen til 1,4 milliarder kroner. Sjekk hvor mange som har fått gjeldskutt i din kommune.",
+   "url": "https://www.nrk.no/nordland/lanekassen_-har-slettet-studielan-for-1_36-milliarder-_-stian-og-ragnhild-sparte-50.000-kroner-1.18063228",
+   "dato": "2026-10-30"
   }
  ]
 }

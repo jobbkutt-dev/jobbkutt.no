@@ -1,5 +1,5 @@
 {
- "oppdatert": "2026-10-31T12:10+01:00",
+ "oppdatert": "2026-11-01T12:02+01:00",
  "saker": [
   {
    "id": "am-nutrition-2026-10",
@@ -1309,6 +1309,25 @@
    "brreg_navn": "STICOS AS",
    "kommentar": "Oppgitt som 10 % av de ansatte; eksakt antall er ikke oppgitt (ca. 16 av ca. 158 ansatte ifølge Brreg), derfor ikke tallfestet.",
    "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Sticos"
+  },
+  {
+   "id": "rossignol-norge-2026-10",
+   "selskap": "Rossignol Norway AS",
+   "sok": "ROSSIGNOL NORWAY AS",
+   "antall": 7,
+   "enhet": "ansatte",
+   "omfang": "Norge (Oslo); hele det norske datterselskapet legges ned",
+   "status": "vedtatt",
+   "dato": "2026-10-08",
+   "sektor": "Handel / sportsutstyr",
+   "oppsummering": "Den franske Rossignol-gruppen legger ned sitt norske datterselskap, og de sju ansatte mister jobben. Salg, markedsføring, distribusjon og kundeservice for merkevarene Rossignol, Dynastar, Lange og Look i Norge overtas av distributøren Ashe, som blir eksklusiv distribusjonspartner i Norge, Sverige og Finland. Ashe sier de vil ansette to personer i Norge i første omgang.",
+   "kilder": [
+    "https://www.friflyt.no/skiutstyr/rossignol-norge-legges-ned"
+   ],
+   "orgnr": "817064302",
+   "brreg_navn": "ROSSIGNOL NORWAY AS",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Rossignol%20Norway%20AS",
+   "kommentar": "Hele det norske selskapet (7 ansatte) legges ned; distribusjonen overtas av Ashe."
   }
  ]
 }

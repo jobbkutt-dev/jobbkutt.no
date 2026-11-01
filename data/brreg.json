@@ -1,7 +1,40 @@
 {
- "oppdatert": "2026-10-31T12:09",
- "filter": "antallAnsatte >= 10, dato >= 2026-05-04",
+ "oppdatert": "2026-11-01T12:00",
+ "filter": "antallAnsatte >= 10, dato >= 2026-05-05",
  "enheter": [
+  {
+   "orgnr": "917555818",
+   "navn": "ATLAS TECHNOLOGY SOLUTIONS NORWAY AS",
+   "type": "tvangsavvikling",
+   "dato": "2026-10-31",
+   "antallAnsatte": 17,
+   "bransje": "Rekruttering og formidling av arbeidskraft",
+   "naeringskode": "78.100",
+   "kommune": "OSLO",
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/917555818"
+  },
+  {
+   "orgnr": "926020951",
+   "navn": "ALADDIN CUISINE AS",
+   "type": "konkurs",
+   "dato": "2026-10-30",
+   "antallAnsatte": 13,
+   "bransje": "Drift av restauranter",
+   "naeringskode": "56.110",
+   "kommune": "STAVANGER",
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/926020951"
+  },
+  {
+   "orgnr": "932090996",
+   "navn": "OPPDALSPORTEN DRIFT AS",
+   "type": "konkurs",
+   "dato": "2026-10-30",
+   "antallAnsatte": 15,
+   "bransje": "Drift av restauranter",
+   "naeringskode": "56.110",
+   "kommune": "OPPDAL",
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/932090996"
+  },
   {
    "orgnr": "936596932",
    "navn": "MIAMI OSLO AS",
