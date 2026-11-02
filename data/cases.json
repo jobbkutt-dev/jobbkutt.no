@@ -1,5 +1,5 @@
 {
- "oppdatert": "2026-11-02T11:57+01:00",
+ "oppdatert": "2026-11-02T14:56+01:00",
  "saker": [
   {
    "id": "godthaab-2026-10",
@@ -1348,6 +1348,26 @@
    "brreg_navn": "AKER SOLUTIONS ASA",
    "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Aker%20Solutions%20ASA",
    "kommentar": "Norge og internasjonalt; ca. 300 ved verftet i Verdal."
+  },
+  {
+   "id": "coop-bergen-lager-2026-11",
+   "selskap": "Coop Norge SA (lageret på Lønningsflaten, Bergen)",
+   "sok": "COOP NORGE SA",
+   "antall": 40,
+   "enhet": "stillinger",
+   "omfang": "Norge: lageret i Ytrebygda/Lønningsflaten i Bergen (88 ansatte i dag)",
+   "status": "vedtatt",
+   "dato": "2026-11-02",
+   "sektor": "Handel / logistikk",
+   "oppsummering": "Coop har besluttet å legge ned lageret på Lønningsflaten i Bergen, der 88 personer jobber i dag. Coop bygger en ny terminal med langt færre ansatte, og nedleggelsen skal skje i 2029. De ansatte fikk beskjeden på et allmøte mandag; de ble varslet om mulig nedleggelse allerede høsten 2025.",
+   "kilder": [
+    "https://www.nrk.no/vestland/coop-legg-ned-lager-i-bergen-1.18071289",
+    "https://www.ba.no/coop-lageret-pa-lonningsflaten-legges-ned-40-45-arbeidsplasser-forsvinner/s/80-8-93096"
+   ],
+   "orgnr": "936560288",
+   "brreg_navn": "COOP NORGE SA",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Coop%20Norge",
+   "kommentar": "40–45 arbeidsplasser forsvinner ifølge Bergensavisen; nedleggelsen skjer i 2029 når ny terminal tas i bruk."
   }
  ]
 }

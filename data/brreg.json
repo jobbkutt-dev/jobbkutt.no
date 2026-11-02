@@ -1,7 +1,19 @@
 {
- "oppdatert": "2026-11-02T11:56",
+ "oppdatert": "2026-11-02T14:56",
  "filter": "antallAnsatte >= 10, dato >= 2026-05-05",
  "enheter": [
+  {
+   "orgnr": "915644686",
+   "navn": "BALDER BULK AS",
+   "type": "konkurs",
+   "dato": "2026-11-02",
+   "antallAnsatte": 154,
+   "bransje": "Godstransport på vei",
+   "naeringskode": "49.410",
+   "kommune": "ULLENSAKER",
+   "kilde": "https://www.nettavisen.no/okonomi/storkonkurs-154-ansatte-rammes/s/80-95-212252",
+   "manuell": true
+  },
   {
    "orgnr": "929208390",
    "navn": "HENDEN MAT AS",
