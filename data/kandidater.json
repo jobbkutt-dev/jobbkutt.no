@@ -1,26 +1,12 @@
 {
- "oppdatert": "2026-11-01T12:00",
+ "oppdatert": "2026-11-02T11:56",
  "kandidater": [
   {
    "kilde": "E24",
-   "tittel": "Nødradio-salget tredoblet etter Telenor-bruddet",
-   "ingress": "Salget av nødradioer har skutt i været etter at Telenors mobilnett var nede i flere timer tidligere…",
-   "url": "https://e24.no/naeringsliv/i/5857wK/noedradio-salget-tredoblet-etter-telenor-bruddet?utm_medium=rss",
-   "dato": "2026-10-30"
-  },
-  {
-   "kilde": "E24",
-   "tittel": "Dyr strøm: – Griner av glede hver dag det regner",
-   "ingress": "Strømprisen har skutt i været sør i landet. – Vil sannsynligvis få en vinter med enorme priser, sier…",
-   "url": "https://e24.no/energi-og-klima/i/w3qRqM/dyr-stroem-griner-av-glede-hver-dag-det-regner?utm_medium=rss",
-   "dato": "2026-10-29"
-  },
-  {
-   "kilde": "DN",
-   "tittel": "Ut mot DNBs KI-nedbemanning: – Veldig skadelig, rett og slett",
-   "ingress": "DNB viser til KI-gevinster når banken kutter 400 årsverk. Geir Jarle Ness mener gevinstene som skal forsvare nedbemanningen ikke finnes – og får støtte fra Tekna-topp Elisabet Haugsbø.",
-   "url": "https://www.dn.no/arbeidsliv/dnb/nedbemanning/arbeidsliv/ut-mot-dnbs-ki-nedbemanning-veldig-skadelig-rett-og-slett/2-1-2065334",
-   "dato": "2026-11-01"
+   "tittel": "AI kan frigjøre nær 100.000 årsverk",
+   "ingress": "Kunstig intelligens kan spare det offentlige for over 80 milliarder kroner årlig, ifølge ny rapport.",
+   "url": "https://e24.no/norsk-oekonomi/i/lKPAnA/ai-kan-frigjoere-naer-100-000-aarsverk?utm_medium=rss",
+   "dato": "2026-11-02"
   },
   {
    "kilde": "NRK",
@@ -28,6 +14,13 @@
    "ingress": "Ekteparet ga opp bylivet og flyttet til bygda – og kan smile bredt av distriktsordningen til 1,4 milliarder kroner. Sjekk hvor mange som har fått gjeldskutt i din kommune.",
    "url": "https://www.nrk.no/nordland/lanekassen_-har-slettet-studielan-for-1_36-milliarder-_-stian-og-ragnhild-sparte-50.000-kroner-1.18063228",
    "dato": "2026-10-30"
+  },
+  {
+   "kilde": "NRK Norge",
+   "tittel": "Redd stramt budsjett går ut over barnas leselyst",
+   "ingress": "Trangt budsjett kan gi kutt i skolebiblioteket i Gjerstad. Bibliotekaren mener det vil gå ut over lesekulturen ved skolen.",
+   "url": "https://www.nrk.no/sorlandet/foreslar-kutt-i-skolebiblioteket-1.18065317",
+   "dato": "2026-11-02"
   }
  ]
 }

@@ -1,7 +1,18 @@
 {
- "oppdatert": "2026-11-01T12:00",
+ "oppdatert": "2026-11-02T11:56",
  "filter": "antallAnsatte >= 10, dato >= 2026-05-05",
  "enheter": [
+  {
+   "orgnr": "929208390",
+   "navn": "HENDEN MAT AS",
+   "type": "avvikling",
+   "dato": "2026-11-02",
+   "antallAnsatte": 13,
+   "bransje": "Detaljhandel med bredt vareutvalg med hovedvekt på nærings- og nytelsesmidler",
+   "naeringskode": "47.110",
+   "kommune": "ØVRE EIKER",
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/929208390"
+  },
   {
    "orgnr": "917555818",
    "navn": "ATLAS TECHNOLOGY SOLUTIONS NORWAY AS",

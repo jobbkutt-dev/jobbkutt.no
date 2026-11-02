@@ -1,6 +1,26 @@
 {
- "oppdatert": "2026-11-01T12:02+01:00",
+ "oppdatert": "2026-11-02T11:57+01:00",
  "saker": [
+  {
+   "id": "godthaab-2026-10",
+   "selskap": "Godthaab Helse og Rehabilitering (Bærum)",
+   "sok": "GODTHAAB HELSE OG REHABILITERING STI",
+   "antall": 35,
+   "enhet": "ansatte",
+   "omfang": "Norge: rehabiliteringsinstitusjonen Godthaab i Bærum, 35 av rundt 60 ansatte",
+   "status": "gjennomført",
+   "dato": "2026-10-30",
+   "sektor": "Helse / omsorg",
+   "oppsummering": "Avtalen med Helse Sør-Øst om offentlig rehabilitering ved Godthaab gikk ut 31. oktober, etter at institusjonen ikke nådde opp i anbudsrunden. Godthaab fortsetter fra 2. november i privat regi med nye tilbud som rehabilitering, trygghetsopphold, gjestehus og konsultasjoner, men med langt færre ansatte. Bare 25 av rundt 60 ansatte får bli, og 35 mister jobben.",
+   "kilder": [
+    "https://www.budstikka.no/siste-pasient-skrives-ut-av-gamle-godthaab-skammelig/s/80-55-29331",
+    "https://www.godthaab.no/aktuelt"
+   ],
+   "orgnr": "871426902",
+   "brreg_navn": "GODTHAAB HELSE OG REHABILITERING STI",
+   "kommentar": "35 av rundt 60 ansatte mister jobben ifølge Budstikka; 25 fortsetter i den nye, private driften fra 2. november. Alle ansatte fikk oppsigelse allerede i januar 2026 med midlertidige kontrakter til 31.10.26.",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Godthaab%20Helse%20og%20Rehabilitering"
+  },
   {
    "id": "am-nutrition-2026-10",
    "selskap": "AM Nutrition AS (Felleskjøpet Rogaland Agder, Stavanger)",
@@ -138,6 +158,26 @@
    "brreg_navn": "GJENSIDIGE FORSIKRING ASA",
    "kommentar": "«rundt 40 årsverk». Gjelder teknologiansatte i konsernet; det er ikke oppgitt hvor mange som er i Norge. Prosessen pågår.",
    "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Gjensidige"
+  },
+  {
+   "id": "sticos-2026-10",
+   "selskap": "Sticos AS (Trondheim)",
+   "sok": "STICOS AS",
+   "antall": null,
+   "enhet": "ansatte",
+   "omfang": "Norge (Trondheim); 10 % av de ansatte, selskapet har ca. 158 ansatte",
+   "status": "varslet",
+   "dato": "2026-10-28",
+   "sektor": "Teknologi / programvare",
+   "oppsummering": "Trondheimsselskapet Sticos, som lager fagsystemer for regnskap, lønn og personal og eies av Visma, skal redusere bemanningen med rundt 10 prosent. Toppsjefen knytter grepet blant annet til kunstig intelligens og sier organisasjonen ble bygget for en annen tid. Ifølge omtalen tilbys ansatte frivillige sluttpakker.",
+   "kilder": [
+    "https://www.mn24.no/nyheter/n/GrW9o9/troendersk-teknologiselskap-skal-nedbemanne-10-prosent-av-de-ansatte",
+    "https://www.mn24.no/meninger/n/d7Ag1j/kunstig-intelligens-ekte-nedbemanning-eller"
+   ],
+   "orgnr": "934228391",
+   "brreg_navn": "STICOS AS",
+   "kommentar": "Oppgitt som 10 % av de ansatte; eksakt antall er ikke oppgitt (ca. 16 av ca. 158 ansatte ifølge Brreg), derfor ikke tallfestet.",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Sticos"
   },
   {
    "id": "mesta-bane-2026-09",
@@ -446,6 +486,25 @@
    "brreg_navn": "INNOVASJON NORGE",
    "kommentar": "To runder: 100–110 årsverk i første runde (2026, frivillige sluttpakker, avsluttet i juni); ny runde på under eller rundt 20 medarbeidere varslet i oktober 2026, ikke endelig tallfestet og ikke regnet med i antallet.",
    "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Innovasjon%20Norge"
+  },
+  {
+   "id": "rossignol-norge-2026-10",
+   "selskap": "Rossignol Norway AS",
+   "sok": "ROSSIGNOL NORWAY AS",
+   "antall": 7,
+   "enhet": "ansatte",
+   "omfang": "Norge (Oslo); hele det norske datterselskapet legges ned",
+   "status": "vedtatt",
+   "dato": "2026-10-08",
+   "sektor": "Handel / sportsutstyr",
+   "oppsummering": "Den franske Rossignol-gruppen legger ned sitt norske datterselskap, og de sju ansatte mister jobben. Salg, markedsføring, distribusjon og kundeservice for merkevarene Rossignol, Dynastar, Lange og Look i Norge overtas av distributøren Ashe, som blir eksklusiv distribusjonspartner i Norge, Sverige og Finland. Ashe sier de vil ansette to personer i Norge i første omgang.",
+   "kilder": [
+    "https://www.friflyt.no/skiutstyr/rossignol-norge-legges-ned"
+   ],
+   "orgnr": "817064302",
+   "brreg_navn": "ROSSIGNOL NORWAY AS",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Rossignol%20Norway%20AS",
+   "kommentar": "Hele det norske selskapet (7 ansatte) legges ned; distribusjonen overtas av Ashe."
   },
   {
    "id": "mm-follacell-2026-10",
@@ -1289,45 +1348,6 @@
    "brreg_navn": "AKER SOLUTIONS ASA",
    "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Aker%20Solutions%20ASA",
    "kommentar": "Norge og internasjonalt; ca. 300 ved verftet i Verdal."
-  },
-  {
-   "id": "sticos-2026-10",
-   "selskap": "Sticos AS (Trondheim)",
-   "sok": "STICOS AS",
-   "antall": null,
-   "enhet": "ansatte",
-   "omfang": "Norge (Trondheim); 10 % av de ansatte, selskapet har ca. 158 ansatte",
-   "status": "varslet",
-   "dato": "2026-10-28",
-   "sektor": "Teknologi / programvare",
-   "oppsummering": "Trondheimsselskapet Sticos, som lager fagsystemer for regnskap, lønn og personal og eies av Visma, skal redusere bemanningen med rundt 10 prosent. Toppsjefen knytter grepet blant annet til kunstig intelligens og sier organisasjonen ble bygget for en annen tid. Ifølge omtalen tilbys ansatte frivillige sluttpakker.",
-   "kilder": [
-    "https://www.mn24.no/nyheter/n/GrW9o9/troendersk-teknologiselskap-skal-nedbemanne-10-prosent-av-de-ansatte",
-    "https://www.mn24.no/meninger/n/d7Ag1j/kunstig-intelligens-ekte-nedbemanning-eller"
-   ],
-   "orgnr": "934228391",
-   "brreg_navn": "STICOS AS",
-   "kommentar": "Oppgitt som 10 % av de ansatte; eksakt antall er ikke oppgitt (ca. 16 av ca. 158 ansatte ifølge Brreg), derfor ikke tallfestet.",
-   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Sticos"
-  },
-  {
-   "id": "rossignol-norge-2026-10",
-   "selskap": "Rossignol Norway AS",
-   "sok": "ROSSIGNOL NORWAY AS",
-   "antall": 7,
-   "enhet": "ansatte",
-   "omfang": "Norge (Oslo); hele det norske datterselskapet legges ned",
-   "status": "vedtatt",
-   "dato": "2026-10-08",
-   "sektor": "Handel / sportsutstyr",
-   "oppsummering": "Den franske Rossignol-gruppen legger ned sitt norske datterselskap, og de sju ansatte mister jobben. Salg, markedsføring, distribusjon og kundeservice for merkevarene Rossignol, Dynastar, Lange og Look i Norge overtas av distributøren Ashe, som blir eksklusiv distribusjonspartner i Norge, Sverige og Finland. Ashe sier de vil ansette to personer i Norge i første omgang.",
-   "kilder": [
-    "https://www.friflyt.no/skiutstyr/rossignol-norge-legges-ned"
-   ],
-   "orgnr": "817064302",
-   "brreg_navn": "ROSSIGNOL NORWAY AS",
-   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Rossignol%20Norway%20AS",
-   "kommentar": "Hele det norske selskapet (7 ansatte) legges ned; distribusjonen overtas av Ashe."
   }
  ]
 }
