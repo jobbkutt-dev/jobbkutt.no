@@ -1,6 +1,26 @@
 {
- "oppdatert": "2026-11-02T14:56+01:00",
+ "oppdatert": "2026-11-04T09:41",
  "saker": [
+  {
+   "id": "coop-bergen-lager-2026-11",
+   "selskap": "Coop Norge SA (lageret på Lønningsflaten, Bergen)",
+   "sok": "COOP NORGE SA",
+   "antall": 40,
+   "enhet": "stillinger",
+   "omfang": "Norge: lageret i Ytrebygda/Lønningsflaten i Bergen (88 ansatte i dag)",
+   "status": "vedtatt",
+   "dato": "2026-11-02",
+   "sektor": "Handel / logistikk",
+   "oppsummering": "Coop har besluttet å legge ned lageret på Lønningsflaten i Bergen, der 88 personer jobber i dag. Coop bygger en ny terminal med langt færre ansatte, og nedleggelsen skal skje i 2029. De ansatte fikk beskjeden på et allmøte mandag; de ble varslet om mulig nedleggelse allerede høsten 2025.",
+   "kilder": [
+    "https://www.nrk.no/vestland/coop-legg-ned-lager-i-bergen-1.18071289",
+    "https://www.ba.no/coop-lageret-pa-lonningsflaten-legges-ned-40-45-arbeidsplasser-forsvinner/s/80-8-93096"
+   ],
+   "orgnr": "936560288",
+   "brreg_navn": "COOP NORGE SA",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Coop%20Norge%20SA",
+   "kommentar": "40–45 arbeidsplasser forsvinner ifølge Bergensavisen; nedleggelsen skjer i 2029 når ny terminal tas i bruk."
+  },
   {
    "id": "godthaab-2026-10",
    "selskap": "Godthaab Helse og Rehabilitering (Bærum)",
@@ -39,7 +59,7 @@
    "orgnr": "987651059",
    "brreg_navn": "AM NUTRITION AS",
    "kommentar": "Hele driften avvikles. 23 ansatte i Stavanger mister jobben; de 4 ansatte i Danmark er ikke regnet med i antallet. Det skal avklares om noen kan få annet arbeid i konsernet.",
-   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Felleskj%C3%B8pet"
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=AM%20Nutrition%20AS"
   },
   {
    "id": "unicare-steffensrud-2026-10",
@@ -59,7 +79,7 @@
    "orgnr": "932191482",
    "brreg_navn": "UNICARE STEFFENSRUD AS",
    "kommentar": "Vel 100 ansatte ifølge NRK; de fleste har allerede funnet ny jobb. Nedleggelsen var varslet fra tidligere (avtalen med Helse Sør-Øst ble sagt opp), siste driftsdag 30.10.26.",
-   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Unicare%20Steffensrud"
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Unicare%20Steffensrud%20AS"
   },
   {
    "id": "sparebank1-kundesenter-2026-10",
@@ -80,7 +100,7 @@
    "orgnr": "998830214",
    "brreg_navn": "SPAREBANK 1 KUNDESENTER AS",
    "kommentar": "113 fast ansatte; hele selskapet avvikles. Drift til 1.1.2027, overgangsperiode til 1.3.2027. Formelle prosesser gjennomføres med tillitsvalgte.",
-   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=SpareBank%201%20Kundesenter"
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=SpareBank%201%20Kundesenter%20AS"
   },
   {
    "id": "tryg-2026-10",
@@ -100,7 +120,7 @@
    "orgnr": "989563521",
    "brreg_navn": "TRYG FORSIKRING A/S NUF",
    "kommentar": "39 årsverk i Norge, i første omgang via frivillige sluttpakker. Nettavisen omtaler kuttet som 39 stillinger/personer. Nedbemanningen av 48 stillinger i 2025 er ikke regnet med.",
-   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Tryg"
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Tryg%20Forsikring"
   },
   {
    "id": "ramboll-2026-10",
@@ -119,7 +139,7 @@
    "orgnr": "915251293",
    "brreg_navn": "RAMBØLL NORGE AS",
    "kommentar": "400 stillinger gjelder konsernet globalt (ca. 18 000 ansatte). Antallet i Norge er ikke oppgitt, derfor ikke tallfestet.",
-   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Ramb%C3%B8ll"
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Ramb%C3%B8ll%20Norge%20AS"
   },
   {
    "id": "titania-2026-10",
@@ -138,7 +158,7 @@
    "orgnr": "916769318",
    "brreg_navn": "TITANIA AS",
    "kommentar": "Antallet som sies opp er ikke kjent ennå (rundt 245 ansatte totalt). Kilden er bak betalingsmur; opplysningene er hentet fra den åpne ingressen.",
-   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Titania"
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Titania%20AS"
   },
   {
    "id": "gjensidige-2026-10",
@@ -157,7 +177,7 @@
    "orgnr": "995568217",
    "brreg_navn": "GJENSIDIGE FORSIKRING ASA",
    "kommentar": "«rundt 40 årsverk». Gjelder teknologiansatte i konsernet; det er ikke oppgitt hvor mange som er i Norge. Prosessen pågår.",
-   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Gjensidige"
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Gjensidige%20Forsikring%20ASA"
   },
   {
    "id": "sticos-2026-10",
@@ -177,7 +197,7 @@
    "orgnr": "934228391",
    "brreg_navn": "STICOS AS",
    "kommentar": "Oppgitt som 10 % av de ansatte; eksakt antall er ikke oppgitt (ca. 16 av ca. 158 ansatte ifølge Brreg), derfor ikke tallfestet.",
-   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Sticos"
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Sticos%20AS"
   },
   {
    "id": "mesta-bane-2026-09",
@@ -214,8 +234,8 @@
    "kilder": [
     "https://www.h-avis.no/hatteland-selskap-nedbemanner-det-vil-berore-cirka-en-tredjedel-av-vare-ansatte/s/80-62-34887"
    ],
-   "orgnr": null,
-   "brreg_navn": null,
+   "orgnr": "915235913",
+   "brreg_navn": "VEGLAGET AUGESTAD - GRIND - RYSSING - RAMBASETE SA",
    "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=RamBase",
    "kommentar": "Ikke tallfestet av selskapet: «cirka en tredjedel av våre ansatte». Tips til Haugesunds Avis om 50 årsverk er ikke bekreftet og er ikke regnet med i antallet."
   },
@@ -236,7 +256,7 @@
    ],
    "orgnr": "981647459",
    "brreg_navn": "ISFJORD NORWAY AS",
-   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Isfjord%20Norway",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Isfjord%20Norway%20AS",
    "kommentar": "Permitteringsvarsel til 93 ansatte; i tillegg får alle innleide varsel (antall ikke oppgitt). Om lag 75 prosent av bemanningen i produksjonen. Tallene er hentet fra ingress/tittel hos Avisa Sør-Trøndelag (betalingsmur)."
   },
   {
@@ -258,7 +278,7 @@
    ],
    "orgnr": "977074010",
    "brreg_navn": "DANSKE BANK A/S NUF",
-   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Danske%20Bank",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Danske%20Bank%20A/S%20NUF",
    "kommentar": "106 stillinger totalt i konsernet, 6 av dem i Norge. Norgestallet er oppgitt av Danske Bank Norge til E24; pressemeldingen og NTB oppgir ikke fordeling per land."
   },
   {
@@ -338,7 +358,7 @@
    ],
    "orgnr": "916881029",
    "brreg_navn": "ÅSMUND PETTERSEN & SØNN AS",
-   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=%C3%85smund%20Pettersen%20%26%20S%C3%B8nn",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=%C3%85smund%20Pettersen%20%26%20S%C3%B8nn%20AS",
    "kommentar": "Alle ansatte har fått permitteringsvarsel; ca. 46 ansatte ifølge regnskapstall.no (via Oppland Arbeiderblad). Varsel, ikke iverksatt."
   },
   {
@@ -665,7 +685,7 @@
    ],
    "orgnr": null,
    "brreg_navn": null,
-   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Ulefos",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Ulefos%20J%C3%A6rnverk",
    "kommentar": "Ulefoss, Nome; avvikles innen tre år, 30 nye jobber på Stange."
   },
   {
@@ -686,7 +706,7 @@
    ],
    "orgnr": "934995953",
    "brreg_navn": "FRAMTRE INDUSTRI AS",
-   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=FramTre%20Industri",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=FramTre%20Industri%20AS",
    "kommentar": "Om lag 30 ansatte berørt; konsekvensene for den enkelte avklares i individuelle prosesser, og annet arbeid i virksomheten vurderes."
   },
   {
@@ -724,7 +744,7 @@
    ],
    "orgnr": "987009713",
    "brreg_navn": "PRICEWATERHOUSECOOPERS AS",
-   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=PwC",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=PwC%20Norge",
    "kommentar": "Rådgivning."
   },
   {
@@ -743,7 +763,7 @@
    ],
    "orgnr": "994344552",
    "brreg_navn": "BENTELER AUTOMOTIVE RAUFOSS AS",
-   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Benteler",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Benteler%20Automotive%20Raufoss%20AS",
    "kommentar": "Raufoss; inntil 15 oppsigelser + inntil 15 permitteringer."
   },
   {
@@ -762,7 +782,7 @@
    ],
    "orgnr": "886953402",
    "brreg_navn": "PHARMAQ AS",
-   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Pharmaq",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Pharmaq%20AS",
    "kommentar": "Bl.a. Skogmo i Overhalla."
   },
   {
@@ -781,7 +801,7 @@
    ],
    "orgnr": "984661185",
    "brreg_navn": "POSTEN BRING AS",
-   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Posten%20Bring",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Posten%20Bring%20AS",
    "kommentar": "Over 300 i stab- og støttefunksjoner, fram mot 2027."
   },
   {
@@ -801,7 +821,7 @@
    ],
    "orgnr": "983974929",
    "brreg_navn": "HELGELANDSSYKEHUSET HF",
-   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Helgelandssykehuset",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Helgelandssykehuset%20HF",
    "kommentar": "Årsverk, ikke personer. Kilden oppgir ikke om kuttet tas gjennom oppsigelser eller via vikarbruk og ledige stillinger."
   },
   {
@@ -823,7 +843,7 @@
    ],
    "orgnr": "937052766",
    "brreg_navn": "OBOS BBL",
-   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=OBOS",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=OBOS%20BBL",
    "kommentar": "«Rundt 200» færre ansatte innen utgangen av 2027 (ca. 10 % av staben). Informert på allmøte 24. august 2026; varslet mål, gjennomføres løpende fram mot 2027."
   },
   {
@@ -882,7 +902,7 @@
    ],
    "orgnr": "933823970",
    "brreg_navn": "RØHNESELMER AS",
-   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=R%C3%B8hneSelmer",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=R%C3%B8hneSelmer%20AS",
    "kommentar": "Lier; 72 av 81 sagt opp."
   },
   {
@@ -901,7 +921,7 @@
    ],
    "orgnr": "987059699",
    "brreg_navn": "STATKRAFT AS",
-   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Statkraft",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Statkraft%20AS",
    "kommentar": "Gjelder hele konsernet globalt, ikke bare Norge, ved utgangen av 2026."
   },
   {
@@ -920,7 +940,7 @@
    ],
    "orgnr": "996732703",
    "brreg_navn": "NORSKE SKOG SAUGBRUGS AS",
-   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Norske%20Skog",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Norske%20Skog%20Saugbrugs%20AS",
    "kommentar": "Halden; opptil 100, avgjørelse utsatt."
   },
   {
@@ -939,7 +959,7 @@
    ],
    "orgnr": "995398214",
    "brreg_navn": "LYKO AS",
-   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Lyko",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Lyko%20AS",
    "kommentar": null
   },
   {
@@ -998,7 +1018,7 @@
    ],
    "orgnr": "995754606",
    "brreg_navn": "CONSTO AS",
-   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Consto",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Consto%20AS",
    "kommentar": "Ikke tallfestet; kilden oppgir kun «et betydelig antall». Nord-Norge (Troms, Finnmark, nordlige Nordland); Consto Nord har 271 ansatte, Rana ikke berørt."
   },
   {
@@ -1017,7 +1037,7 @@
    ],
    "orgnr": "913711300",
    "brreg_navn": "MOELVEN LIMTRE AS",
-   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Moelven",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Moelven%20Limtre%20AS",
    "kommentar": "Moelv."
   },
   {
@@ -1036,7 +1056,7 @@
    ],
    "orgnr": "982410339",
    "brreg_navn": "VISMA ENTERPRISE AS",
-   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Visma",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Visma%20Enterprise%20AS",
    "kommentar": "Beregnet: opptil 25 % av ca. 400 ansatte i Visma Enterprise; også Visma Flyt berørt."
   },
   {
@@ -1055,7 +1075,7 @@
    ],
    "orgnr": "913102436",
    "brreg_navn": "MORROW BATTERIES ASA",
-   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Morrow",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Morrow%20Batteries%20ASA",
    "kommentar": "Arendal. Konkurs; alle ansatte mistet jobben."
   },
   {
@@ -1074,7 +1094,7 @@
    ],
    "orgnr": "926493647",
    "brreg_navn": "NORSE ATLANTIC AIRWAYS AS",
-   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Norse%20Atlantic",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Norse%20Atlantic%20Airways",
    "kommentar": "Arendal; kontoret legges ned, HK flyttes til Oslo."
   },
   {
@@ -1093,7 +1113,7 @@
    ],
    "orgnr": "917352836",
    "brreg_navn": "REMARKABLE AS",
-   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=reMarkable",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=reMarkable%20AS",
    "kommentar": "Spenn på 180–200 av 485 ansatte; vi bruker øvre tall."
   },
   {
@@ -1112,7 +1132,7 @@
    ],
    "orgnr": "984329075",
    "brreg_navn": "ROSENBERG WORLEY AS",
-   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Rosenberg%20Worley",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Rosenberg%20Verft",
    "kommentar": "Stavanger."
   },
   {
@@ -1131,7 +1151,7 @@
    ],
    "orgnr": "985135282",
    "brreg_navn": "TINDE HYTTER AS",
-   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Tinde%20Hytter",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Tinde%20Hytter%20AS",
    "kommentar": "Vinstra."
   },
   {
@@ -1150,7 +1170,7 @@
    ],
    "orgnr": "976944801",
    "brreg_navn": "BKK AS",
-   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=BKK",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=BKK%20AS",
    "kommentar": "Vestland; spenn på 80–90 av ca. 570 ansatte, vi bruker øvre tall."
   },
   {
@@ -1169,7 +1189,7 @@
    ],
    "orgnr": "981159772",
    "brreg_navn": "VEND MARKETPLACES AS",
-   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Vend",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Vend%20Marketplaces",
    "kommentar": "Sentral produkt-, teknologi- og UX-funksjon (av 400)."
   },
   {
@@ -1188,7 +1208,7 @@
    ],
    "orgnr": "911382008",
    "brreg_navn": "ELKEM ASA",
-   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Elkem",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Elkem%20ASA",
    "kommentar": "Gjelder hele konsernet globalt (ca. 10 % av arbeidsstyrken), ikke bare Norge."
   },
   {
@@ -1208,7 +1228,7 @@
    ],
    "orgnr": "988588261",
    "brreg_navn": "GOOGLE NORWAY AS",
-   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Google",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Google%20Norway%20AS",
    "kommentar": "Ikke tallfestet: i overkant av ti ansatte i Oslo, særlig salgskontoret i Google Ads (ca. halvparten av knapt 20). Tall fra Kampanje («et titalls ansatte»); Google vil ikke oppgi tall."
   },
   {
@@ -1248,7 +1268,7 @@
    ],
    "orgnr": "983974910",
    "brreg_navn": "NORDLANDSSYKEHUSET HF",
-   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Nordlandssykehuset",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Nordlandssykehuset%20HF",
    "kommentar": "«Over 100 månedsverk»: 103 månedsverk i helårseffekt innen utgangen av 2026 (tiltaksplan 2026, styresak 007-2026, omtalt som vedtatt i styreprotokollen 25. mars 2026). Månedsverk er ikke det samme som ansatte; reduksjonen skal i stor grad skje via vikarbruk og ledige stillinger, ikke nødvendigvis oppsigelser. Status mars 2026: ikke i rute."
   },
   {
@@ -1267,7 +1287,7 @@
    ],
    "orgnr": "914853052",
    "brreg_navn": "AS NYMO",
-   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Nymo",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Nymo%20AS",
    "kommentar": "Arendal og Grimstad; spenn på 20–30 stillinger, vi bruker øvre tall."
   },
   {
@@ -1286,7 +1306,7 @@
    ],
    "orgnr": "927124238",
    "brreg_navn": "TOMRA SYSTEMS ASA",
-   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Tomra",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Tomra%20Systems%20ASA",
    "kommentar": "Gjelder hele konsernet (Tomra Recycling), ikke spesifisert for Norge."
   },
   {
@@ -1306,7 +1326,7 @@
    ],
    "orgnr": "914787521",
    "brreg_navn": "IKEA AS",
-   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=IKEA",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=IKEA%20Norge",
    "kommentar": "Hovedkontoret i Asker; spenn på 50–60 årsverk av ca. 220, vi bruker øvre tall."
   },
   {
@@ -1348,26 +1368,6 @@
    "brreg_navn": "AKER SOLUTIONS ASA",
    "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Aker%20Solutions%20ASA",
    "kommentar": "Norge og internasjonalt; ca. 300 ved verftet i Verdal."
-  },
-  {
-   "id": "coop-bergen-lager-2026-11",
-   "selskap": "Coop Norge SA (lageret på Lønningsflaten, Bergen)",
-   "sok": "COOP NORGE SA",
-   "antall": 40,
-   "enhet": "stillinger",
-   "omfang": "Norge: lageret i Ytrebygda/Lønningsflaten i Bergen (88 ansatte i dag)",
-   "status": "vedtatt",
-   "dato": "2026-11-02",
-   "sektor": "Handel / logistikk",
-   "oppsummering": "Coop har besluttet å legge ned lageret på Lønningsflaten i Bergen, der 88 personer jobber i dag. Coop bygger en ny terminal med langt færre ansatte, og nedleggelsen skal skje i 2029. De ansatte fikk beskjeden på et allmøte mandag; de ble varslet om mulig nedleggelse allerede høsten 2025.",
-   "kilder": [
-    "https://www.nrk.no/vestland/coop-legg-ned-lager-i-bergen-1.18071289",
-    "https://www.ba.no/coop-lageret-pa-lonningsflaten-legges-ned-40-45-arbeidsplasser-forsvinner/s/80-8-93096"
-   ],
-   "orgnr": "936560288",
-   "brreg_navn": "COOP NORGE SA",
-   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Coop%20Norge",
-   "kommentar": "40–45 arbeidsplasser forsvinner ifølge Bergensavisen; nedleggelsen skjer i 2029 når ny terminal tas i bruk."
   }
  ]
 }

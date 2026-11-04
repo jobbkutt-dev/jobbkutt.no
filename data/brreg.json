@@ -1,7 +1,40 @@
 {
- "oppdatert": "2026-11-02T14:56",
- "filter": "antallAnsatte >= 10, dato >= 2026-05-05",
+ "oppdatert": "2026-11-04T09:41",
+ "filter": "antallAnsatte >= 10, dato >= 2026-05-08",
  "enheter": [
+  {
+   "orgnr": "929676432",
+   "navn": "NOVALIE AS",
+   "type": "konkurs",
+   "dato": "2026-11-03",
+   "antallAnsatte": 11,
+   "bransje": "Detaljhandel med klær",
+   "naeringskode": "47.710",
+   "kommune": "ALVER",
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/929676432"
+  },
+  {
+   "orgnr": "989795562",
+   "navn": "YSTGÅRD GARTNERI OG BLOMSTER AS",
+   "type": "konkurs",
+   "dato": "2026-11-03",
+   "antallAnsatte": 23,
+   "bransje": "Dyrking av ettårige vekster ellers",
+   "naeringskode": "01.190",
+   "kommune": "INDERØY",
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/989795562"
+  },
+  {
+   "orgnr": "915280579",
+   "navn": "GRØNN KRAFT MASKIN AS",
+   "type": "tvangsavvikling",
+   "dato": "2026-11-03",
+   "antallAnsatte": 15,
+   "bransje": "Grunnarbeid",
+   "naeringskode": "43.120",
+   "kommune": "ÅMLI",
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/915280579"
+  },
   {
    "orgnr": "915644686",
    "navn": "BALDER BULK AS",
@@ -11,8 +44,40 @@
    "bransje": "Godstransport på vei",
    "naeringskode": "49.410",
    "kommune": "ULLENSAKER",
-   "kilde": "https://www.nettavisen.no/okonomi/storkonkurs-154-ansatte-rammes/s/80-95-212252",
-   "manuell": true
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/915644686"
+  },
+  {
+   "orgnr": "924480408",
+   "navn": "C.J ERIKSEN AS",
+   "type": "konkurs",
+   "dato": "2026-11-02",
+   "antallAnsatte": 10,
+   "bransje": "Drift av restauranter",
+   "naeringskode": "56.110",
+   "kommune": "LILLESTRØM",
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/924480408"
+  },
+  {
+   "orgnr": "931817531",
+   "navn": "HELSESENTERET INSTEBØ AS",
+   "type": "konkurs",
+   "dato": "2026-11-02",
+   "antallAnsatte": 20,
+   "bransje": "Allmennlegetjenester",
+   "naeringskode": "86.210",
+   "kommune": "BERGEN",
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/931817531"
+  },
+  {
+   "orgnr": "983830196",
+   "navn": "RUTA ENTREPRENØR AS",
+   "type": "konkurs",
+   "dato": "2026-11-02",
+   "antallAnsatte": 149,
+   "bransje": "Oppføring av bygninger",
+   "naeringskode": "41.000",
+   "kommune": "TRONDHEIM",
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/983830196"
   },
   {
    "orgnr": "929208390",

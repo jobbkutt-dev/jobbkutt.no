@@ -1,12 +1,19 @@
 {
- "oppdatert": "2026-11-02T11:56",
+ "oppdatert": "2026-11-04T09:41",
  "kandidater": [
   {
-   "kilde": "E24",
-   "tittel": "AI kan frigjøre nær 100.000 årsverk",
-   "ingress": "Kunstig intelligens kan spare det offentlige for over 80 milliarder kroner årlig, ifølge ny rapport.",
-   "url": "https://e24.no/norsk-oekonomi/i/lKPAnA/ai-kan-frigjoere-naer-100-000-aarsverk?utm_medium=rss",
-   "dato": "2026-11-02"
+   "kilde": "DN",
+   "tittel": "Analytiker advarer bankene som ikke nedbemanner: – Vil få en ulempe",
+   "ingress": "Det kuttes hundrevis av stillinger i bank, til tross for solide resultater. Nils Christian Øyen er spent på hvordan effektiviseringsbølgen vil påvirke konkurransen.",
+   "url": "https://www.dn.no/marked/bank/analytiker-advarer-bankene-som-ikke-nedbemanner-vil-fa-en-ulempe/2-1-2063989",
+   "dato": "2026-11-03"
+  },
+  {
+   "kilde": "NRK",
+   "tittel": "Fagforbundet varsler politisk streik for Posten",
+   "ingress": "Fagforbundet varsler en tre timer lang politisk streik mandag 16. november når de samler Posten-ansatte foran Stortinget og i flere byer under parolen «Leve Posten!».\nRegjeringens forslag til statsbudsjett kan føre til at 2000 av 3000 postansatte mister jobben allerede 1. juli neste år, skriver Fagf",
+   "url": "https://www.nrk.no/nyheter/fagforbundet-varsler-politisk-streik-for-posten-1.18071828",
+   "dato": "2026-11-03"
   },
   {
    "kilde": "NRK",
@@ -14,13 +21,6 @@
    "ingress": "Ekteparet ga opp bylivet og flyttet til bygda – og kan smile bredt av distriktsordningen til 1,4 milliarder kroner. Sjekk hvor mange som har fått gjeldskutt i din kommune.",
    "url": "https://www.nrk.no/nordland/lanekassen_-har-slettet-studielan-for-1_36-milliarder-_-stian-og-ragnhild-sparte-50.000-kroner-1.18063228",
    "dato": "2026-10-30"
-  },
-  {
-   "kilde": "NRK Norge",
-   "tittel": "Redd stramt budsjett går ut over barnas leselyst",
-   "ingress": "Trangt budsjett kan gi kutt i skolebiblioteket i Gjerstad. Bibliotekaren mener det vil gå ut over lesekulturen ved skolen.",
-   "url": "https://www.nrk.no/sorlandet/foreslar-kutt-i-skolebiblioteket-1.18065317",
-   "dato": "2026-11-02"
   }
  ]
 }
