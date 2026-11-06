@@ -1,7 +1,62 @@
 {
- "oppdatert": "2026-11-04T09:41",
- "filter": "antallAnsatte >= 10, dato >= 2026-05-08",
+ "oppdatert": "2026-11-06T08:59",
+ "filter": "antallAnsatte >= 10, dato >= 2026-05-10",
  "enheter": [
+  {
+   "orgnr": "968787551",
+   "navn": "SLATLEM TRONDHEIM AS",
+   "type": "konkurs",
+   "dato": "2026-11-05",
+   "antallAnsatte": 15,
+   "bransje": "Detaljhandel med motorvogner",
+   "naeringskode": "47.810",
+   "kommune": "TRONDHEIM",
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/968787551"
+  },
+  {
+   "orgnr": "827501182",
+   "navn": "ELVERUM AUTO AS",
+   "type": "konkurs",
+   "dato": "2026-11-04",
+   "antallAnsatte": 15,
+   "bransje": "Detaljhandel med motorvogner",
+   "naeringskode": "47.810",
+   "kommune": "ELVERUM",
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/827501182"
+  },
+  {
+   "orgnr": "928569055",
+   "navn": "NORHEIMS HUS AS",
+   "type": "konkurs",
+   "dato": "2026-11-04",
+   "antallAnsatte": 18,
+   "bransje": "Oppføring av bygninger",
+   "naeringskode": "41.000",
+   "kommune": "MODUM",
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/928569055"
+  },
+  {
+   "orgnr": "933101207",
+   "navn": "SG TEKNIKK AS",
+   "type": "konkurs",
+   "dato": "2026-11-04",
+   "antallAnsatte": 12,
+   "bransje": "Gulvlegging og tapetsering",
+   "naeringskode": "43.330",
+   "kommune": "SARPSBORG",
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/933101207"
+  },
+  {
+   "orgnr": "930230871",
+   "navn": "BIRDS KITCHEN AS",
+   "type": "tvangsavvikling",
+   "dato": "2026-11-04",
+   "antallAnsatte": 18,
+   "bransje": "Drift av restauranter",
+   "naeringskode": "56.110",
+   "kommune": "OSLO",
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/930230871"
+  },
   {
    "orgnr": "929676432",
    "navn": "NOVALIE AS",
@@ -892,17 +947,6 @@
    "naeringskode": "41.000",
    "kommune": "OSLO",
    "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/994495461"
-  },
-  {
-   "orgnr": "912700887",
-   "navn": "NOW NORWAY AS",
-   "type": "avvikling",
-   "dato": "2026-09-23",
-   "antallAnsatte": 11,
-   "bransje": "Engroshandel med maskiner og utstyr til bergverksdrift, olje- og gassutvinning og bygge- og anleggsvirksomhet",
-   "naeringskode": "46.630",
-   "kommune": "SOLA",
-   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/912700887"
   },
   {
    "orgnr": "987668059",

@@ -1,12 +1,19 @@
 {
- "oppdatert": "2026-11-04T09:41",
+ "oppdatert": "2026-11-06T08:59",
  "kandidater": [
   {
-   "kilde": "DN",
-   "tittel": "Analytiker advarer bankene som ikke nedbemanner: – Vil få en ulempe",
-   "ingress": "Det kuttes hundrevis av stillinger i bank, til tross for solide resultater. Nils Christian Øyen er spent på hvordan effektiviseringsbølgen vil påvirke konkurransen.",
-   "url": "https://www.dn.no/marked/bank/analytiker-advarer-bankene-som-ikke-nedbemanner-vil-fa-en-ulempe/2-1-2063989",
-   "dato": "2026-11-03"
+   "kilde": "E24",
+   "tittel": "DNB i møte med Finanstilsynet om nedbemanning",
+   "ingress": "DNB skal kutte 400 stillinger. Det følger Finanstilsynet med på.",
+   "url": "https://e24.no/boers-og-finans/i/w372k4/dnb-i-moete-med-finanstilsynet-om-nedbemanning?utm_medium=rss",
+   "dato": "2026-11-05"
+  },
+  {
+   "kilde": "NRK",
+   "tittel": "VG: Oslo kutter antall elsparkesykler og hever aldersgrensen",
+   "ingress": "– For at folk som kunne ha de samme mulighetene til å reise som før og kunne komme seg rundt uten å bruke bilen, så øker vi antallet elsykler, sier byrådsleder Eirik Lae Solberg (H) til VG.\nDet totale taket for elektriske utleiekjøretøy forblir på 16.000, men antallet elsparkesykler kuttes fra 16.00",
+   "url": "https://www.nrk.no/nyheter/vg_-oslo-kutter-antall-elsparkesykler-og-hever-aldersgrensen-1.18074020",
+   "dato": "2026-11-04"
   },
   {
    "kilde": "NRK",
@@ -14,13 +21,6 @@
    "ingress": "Fagforbundet varsler en tre timer lang politisk streik mandag 16. november når de samler Posten-ansatte foran Stortinget og i flere byer under parolen «Leve Posten!».\nRegjeringens forslag til statsbudsjett kan føre til at 2000 av 3000 postansatte mister jobben allerede 1. juli neste år, skriver Fagf",
    "url": "https://www.nrk.no/nyheter/fagforbundet-varsler-politisk-streik-for-posten-1.18071828",
    "dato": "2026-11-03"
-  },
-  {
-   "kilde": "NRK",
-   "tittel": "Stian er en av 50.000 som har fått slettet studiegjeld: – Vi sparer ganske mye",
-   "ingress": "Ekteparet ga opp bylivet og flyttet til bygda – og kan smile bredt av distriktsordningen til 1,4 milliarder kroner. Sjekk hvor mange som har fått gjeldskutt i din kommune.",
-   "url": "https://www.nrk.no/nordland/lanekassen_-har-slettet-studielan-for-1_36-milliarder-_-stian-og-ragnhild-sparte-50.000-kroner-1.18063228",
-   "dato": "2026-10-30"
   }
  ]
 }
