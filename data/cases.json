@@ -1,6 +1,27 @@
 {
- "oppdatert": "2026-11-07T10:00",
+ "oppdatert": "2026-11-07T12:04",
  "saker": [
+  {
+   "id": "ranheim-paper-board-2026-11",
+   "selskap": "Ranheim Paper & Board AS (Trondheim)",
+   "sok": "RANHEIM PAPER & BOARD AS",
+   "antall": 20,
+   "enhet": "stillinger",
+   "omfang": "Norge: fabrikken på Ranheim i Trondheim",
+   "status": "varslet",
+   "dato": "2026-11-03",
+   "sektor": "Industri (treforedling)",
+   "oppsummering": "Papirfabrikken på Ranheim varsler at om lag 20 stillinger skal bort, hovedsakelig administrative, men også noen operative. Selskapet viser til lavere etterspørsel, høye energi- og drivstoffkostnader og valutaeffekter. Produksjonen i 2027 skal ligge på samme nivå som i 2026.",
+   "kilder": [
+    "https://www.mn24.no/nyheter/n/4Oyv6V/fabrikken-i-trondheim-hadde-rekordinntekter-i-fjor-men-naa-kuttes-20-stillinger",
+    "https://www.nidaros.no/nedbemanner-med-20-stillinger-krevende-ar/s/80-113-42827",
+    "https://woodworkscluster.no/2026/11/krevende-tider-ranheim-paper-board-nedbemanner/"
+   ],
+   "orgnr": "915725015",
+   "brreg_navn": "RANHEIM PAPER & BOARD AS",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Ranheim%20Paper%20%26%20Board%20AS",
+   "kommentar": "om lag 20 stillinger; etter kuttet vil bedriften ha i underkant av 210 ansatte ifølge Nidaros"
+  },
   {
    "id": "coop-bergen-lager-2026-11",
    "selskap": "Coop Norge SA (lageret på Lønningsflaten, Bergen)",
@@ -20,6 +41,25 @@
    "brreg_navn": "COOP NORGE SA",
    "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Coop%20Norge%20SA",
    "kommentar": "40–45 arbeidsplasser forsvinner ifølge Bergensavisen; nedleggelsen skjer i 2029 når ny terminal tas i bruk."
+  },
+  {
+   "id": "vergence-2026-11",
+   "selskap": "Vergence (konsernet, Oslo)",
+   "sok": "VERGENCE AS",
+   "antall": null,
+   "enhet": "ansatte",
+   "omfang": "Konsernet Vergence; omfang ikke bekreftet av selskapet",
+   "status": "varslet",
+   "dato": "2026-11-02",
+   "sektor": "Teknologi / programvare",
+   "oppsummering": "Vergence-konsernet orienterte de ansatte om en omstilling på et allmøte 2. november og tilbyr frivillige sluttpakker. Gründeren bekrefter at konsernet skal bli færre ansatte og begrunner det med at egne AI-systemer skal automatisere flere oppgaver.",
+   "kilder": [
+    "https://www.finansavisen.no/teknologi/2026/11/04/8393137/vergence-gruender-amir-f.-habhab-massive-jobbkutt-etter-storstilt-feiring"
+   ],
+   "orgnr": "922540535",
+   "brreg_navn": "VERGENCE AS",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Vergence",
+   "kommentar": "Selskapet har ikke oppgitt antall. Finansavisen erfarer at planen er å gå fra nærmere 200 ansatte (på det meste i år) til rundt 50 i konsernet; dette er ikke bekreftet av selskapet."
   },
   {
    "id": "godthaab-2026-10",
