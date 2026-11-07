@@ -1,5 +1,5 @@
 {
- "oppdatert": "2026-11-06T08:59",
+ "oppdatert": "2026-11-07T10:00",
  "kandidater": [
   {
    "kilde": "E24",
@@ -9,18 +9,32 @@
    "dato": "2026-11-05"
   },
   {
+   "kilde": "DN",
+   "tittel": "Presset gründer kutter prisen på Bærum-villa",
+   "ingress": "Kjetil Bøhns praktvilla i Bærum ble begjært tvangssolgt tidligere i år. Nå kuttes prisantydningen for andre gang.",
+   "url": "https://www.dn.no/eiendom/presset-grunder-kutter-prisen-pa-barum-villa/2-1-2070948",
+   "dato": "2026-11-06"
+  },
+  {
+   "kilde": "DN",
+   "tittel": "Sagnomsust oljeseminar legges ned etter flere år med millionunderskudd",
+   "ingress": "Oslo Energy Forum gikk fra lukket og myteomspunnet høyfjellsseminar til et åpent og bredt arrangement i et konkurranseutsatt marked. Nå har støtteselskapene sagt stopp.",
+   "url": "https://www.dn.no/olje/oslo-energy-forum/equinor/konferanse/sagnomsust-oljeseminar-legges-ned-etter-flere-ar-med-millionunderskudd/2-1-2070135",
+   "dato": "2026-11-06"
+  },
+  {
+   "kilde": "DN",
+   "tittel": "Hunter Groups Morten Astrup slår tilbake: – Fremstilt som en judas",
+   "ingress": "Et 25 år langt vennskap endte i oppsigelse, hemmelige lydopptak og søksmål. Nå forteller Hunter-styreleder og investor Morten Astrup hvorfor styret mistet tilliten til Erik Frydendal.",
+   "url": "https://www.dn.no/jus/hunter-group/morten-astrup/erik-frydendal/hunter-groups-morten-astrup-slar-tilbake-fremstilt-som-en-judas/2-1-2069007",
+   "dato": "2026-11-06"
+  },
+  {
    "kilde": "NRK",
    "tittel": "VG: Oslo kutter antall elsparkesykler og hever aldersgrensen",
    "ingress": "– For at folk som kunne ha de samme mulighetene til å reise som før og kunne komme seg rundt uten å bruke bilen, så øker vi antallet elsykler, sier byrådsleder Eirik Lae Solberg (H) til VG.\nDet totale taket for elektriske utleiekjøretøy forblir på 16.000, men antallet elsparkesykler kuttes fra 16.00",
    "url": "https://www.nrk.no/nyheter/vg_-oslo-kutter-antall-elsparkesykler-og-hever-aldersgrensen-1.18074020",
    "dato": "2026-11-04"
-  },
-  {
-   "kilde": "NRK",
-   "tittel": "Fagforbundet varsler politisk streik for Posten",
-   "ingress": "Fagforbundet varsler en tre timer lang politisk streik mandag 16. november når de samler Posten-ansatte foran Stortinget og i flere byer under parolen «Leve Posten!».\nRegjeringens forslag til statsbudsjett kan føre til at 2000 av 3000 postansatte mister jobben allerede 1. juli neste år, skriver Fagf",
-   "url": "https://www.nrk.no/nyheter/fagforbundet-varsler-politisk-streik-for-posten-1.18071828",
-   "dato": "2026-11-03"
   }
  ]
 }
