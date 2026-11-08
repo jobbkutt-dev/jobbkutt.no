@@ -1,7 +1,51 @@
 {
- "oppdatert": "2026-11-07T12:03",
- "filter": "antallAnsatte >= 10, dato >= 2026-05-11",
+ "oppdatert": "2026-11-08T12:06",
+ "filter": "antallAnsatte >= 10, dato >= 2026-05-12",
  "enheter": [
+  {
+   "orgnr": "831877782",
+   "navn": "HUMMUS WINE AS",
+   "type": "tvangsavvikling",
+   "dato": "2026-11-07",
+   "antallAnsatte": 20,
+   "bransje": "Drift av restauranter",
+   "naeringskode": "56.110",
+   "kommune": "OSLO",
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/831877782"
+  },
+  {
+   "orgnr": "912877183",
+   "navn": "BOWLERS JESSHEIM AS",
+   "type": "konkurs",
+   "dato": "2026-11-06",
+   "antallAnsatte": 19,
+   "bransje": "Drift av restauranter",
+   "naeringskode": "56.110",
+   "kommune": "ULLENSAKER",
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/912877183"
+  },
+  {
+   "orgnr": "934804538",
+   "navn": "DRAMMEN BYGG OG REHABILITERING AS",
+   "type": "konkurs",
+   "dato": "2026-11-06",
+   "antallAnsatte": 12,
+   "bransje": "Oppføring av bygninger",
+   "naeringskode": "41.000",
+   "kommune": "DRAMMEN",
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/934804538"
+  },
+  {
+   "orgnr": "922853827",
+   "navn": "POLLETT BISLETT AS",
+   "type": "konkurs",
+   "dato": "2026-11-06",
+   "antallAnsatte": 14,
+   "bransje": "Drift av barer",
+   "naeringskode": "56.300",
+   "kommune": "OSLO",
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/922853827"
+  },
   {
    "orgnr": "968787551",
    "navn": "SLATLEM TRONDHEIM AS",
@@ -132,7 +176,8 @@
    "bransje": "Oppføring av bygninger",
    "naeringskode": "41.000",
    "kommune": "TRONDHEIM",
-   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/983830196"
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/983830196",
+   "kommentar": "Nettavisen, som viser til Nidaros, skriver at om lag 130 mister jobben: https://www.nettavisen.no/okonomi/entreprenor-konkurs-130-mister-jobben/s/80-95-212465"
   },
   {
    "orgnr": "929208390",
@@ -1233,17 +1278,6 @@
    "naeringskode": "85.597",
    "kommune": "BÆRUM",
    "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/920566979"
-  },
-  {
-   "orgnr": "832202452",
-   "navn": "RAMEN AS",
-   "type": "tvangsavvikling",
-   "dato": "2026-09-05",
-   "antallAnsatte": 11,
-   "bransje": "Detaljhandel med klær",
-   "naeringskode": "47.710",
-   "kommune": "FREDRIKSTAD",
-   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/832202452"
   },
   {
    "orgnr": "919580607",

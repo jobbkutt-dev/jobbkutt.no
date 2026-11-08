@@ -1,5 +1,5 @@
 {
- "oppdatert": "2026-11-07T12:04",
+ "oppdatert": "2026-11-08T12:10",
  "saker": [
   {
    "id": "ranheim-paper-board-2026-11",
@@ -60,6 +60,26 @@
    "brreg_navn": "VERGENCE AS",
    "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Vergence",
    "kommentar": "Selskapet har ikke oppgitt antall. Finansavisen erfarer at planen er å gå fra nærmere 200 ansatte (på det meste i år) til rundt 50 i konsernet; dette er ikke bekreftet av selskapet."
+  },
+  {
+   "id": "kompella-kvaefjord-2026-11",
+   "selskap": "Kompella Mottaksdrift AS (Kvæfjord asylmottak)",
+   "sok": "KOMPELLA MOTTAKSDRIFT AS",
+   "antall": 15,
+   "enhet": "ansatte",
+   "omfang": "Norge: Kvæfjord asylmottak (Borkenes); hele mottaksdriften avvikles",
+   "status": "vedtatt",
+   "dato": "2026-11-02",
+   "sektor": "Offentlig virksomhet / asylmottak",
+   "oppsummering": "UDI har besluttet å legge ned asylmottaket i Kvæfjord, som drives av det kommunale selskapet Kompella Mottaksdrift AS. De ansatte fikk beskjed mandag 2. november om at arbeidsplassen forsvinner. Mottaket stenger ved utgangen av februar 2027. UDI begrunner nedleggelsen med at det har kommet færre asylsøkere til Norge enn tidligere forventet, og at mottakskapasiteten derfor må tilpasses det faktiske behovet. Rundt 150 personer bor på mottaket nå, og de skal flyttes til andre mottak.",
+   "kilder": [
+    "https://www.nrk.no/tromsogfinnmark/udi-har-besluttet-at-a-legge-ned-asylmottaket-i-kvaefjord-1.18073246",
+    "https://www.iharstad.no/holdt-beskjeden-for-seg-selv-gjennom-helga-15-mister-jobben/s/80-126-25907"
+   ],
+   "kommentar": "15 ansatte mister jobben ifølge iHarstad og NRK. Brreg oppgir 18 ansatte i Kompella Mottaksdrift AS. Mottaket stenger ved utgangen av februar 2027.",
+   "orgnr": "934990323",
+   "brreg_navn": "KOMPELLA MOTTAKSDRIFT AS",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Kompella%20Mottaksdrift%20AS"
   },
   {
    "id": "godthaab-2026-10",
