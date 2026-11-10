@@ -1,6 +1,62 @@
 {
- "oppdatert": "2026-11-10T09:30",
+ "oppdatert": "2026-11-10T14:54",
  "saker": [
+  {
+   "id": "antirasistisk-senter-2026-11",
+   "selskap": "Antirasistisk Senter (Oslo)",
+   "sok": "ANTIRASISTISK SENTER",
+   "antall": 5,
+   "enhet": "årsverk",
+   "omfang": "Norge; minst 5 av 17 årsverk",
+   "status": "varslet",
+   "dato": "2026-11-09",
+   "sektor": "Frivillig sektor / organisasjon",
+   "oppsummering": "Antirasistisk Senter varsler at minst fem av dagens 17 årsverk kan forsvinne dersom regjeringens forslag om å kutte tre millioner kroner i støtten blir stående. Organisasjonen må også redusere aktiviteter og tilbud. Kuttforslaget er ikke vedtatt og kan endres i budsjettforhandlingene.",
+   "kilder": [
+    "https://inyheter.no/09/11/2026/regjeringen-vil-kutte-stotten-til-antirasistisk-senter-varsler-oppsigelser/"
+   ],
+   "kommentar": "Minst fem årsverk, betinget av statsbudsjettet for 2027 (iNyheter, med henvisning til Dagsavisen).",
+   "orgnr": "971492937",
+   "brreg_navn": "ANTIRASISTISK SENTER STI",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Antirasistisk%20Senter"
+  },
+  {
+   "id": "skuda-2026-11",
+   "selskap": "Skuespiller- og danseralliansen (SKUDA)",
+   "sok": "SKUESPILLER- OG DANSERALLIANSEN",
+   "antall": 20,
+   "enhet": "ansatte",
+   "omfang": "Norge; 20 av rundt 100 ansatte skuespillere og dansere",
+   "status": "varslet",
+   "dato": "2026-11-06",
+   "sektor": "Kultur / scenekunst",
+   "oppsummering": "SKUDA har varslet masseoppsigelse og startet drøftinger med de tillitsvalgte om oppsigelse av 20 av rundt 100 ansatte kunstnere. Bakgrunnen er regjeringens forslag til statsbudsjett for 2027, som ligger om lag 5,5 millioner kroner under det SKUDA trenger for å videreføre dagens stab. Oppsigelsene kan unngås dersom budsjettforhandlingene sikrer videre drift på dagens nivå.",
+   "kilder": [
+    "https://skuda.no/nyheter?catid=17&id=370%3Askuespiller-og-danseralliansen-har-meldt-inn-masseoppsigelser&view=article",
+    "https://www.dagsavisen.no/debatt/regjeringen-sager-over-greinen-skuespillere-og-dansere-sitter-pa/10624671"
+   ],
+   "kommentar": "Betinget av statsbudsjettet for 2027; SKUDA skriver at det kan komme ytterligere oppsigelser neste år. Kildene er selskapets egen melding og et debattinnlegg fra fagforeningene.",
+   "orgnr": "998627893",
+   "brreg_navn": "SKUESPILLER- OG DANSERALLIANSEN AS",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Skuespiller-%20og%20danseralliansen"
+  },
+  {
+   "id": "livsglede-for-eldre-2026-11",
+   "selskap": "Livsglede for Eldre (Kristiansand)",
+   "sok": null,
+   "antall": 11,
+   "enhet": "ansatte",
+   "omfang": "Kristiansand; organisasjonen trues med nedleggelse",
+   "status": "varslet",
+   "dato": "2026-11-06",
+   "sektor": "Omsorg / frivillig sektor",
+   "oppsummering": "Livsglede for Eldre i Kristiansand, etablert for 21 år siden, trues med nedleggelse, og 11 ansatte kan miste jobben, ifølge Fædrelandsvennen.",
+   "kilder": [
+    "https://www.fvn.no/nyheter/lokalt/n/d7yKw1/kan-bli-lagt-ned-vi-trengs-fortsatt"
+   ],
+   "kommentar": "Kilden er bak betalingsmur; opplysningene er hentet fra åpen ingress/forhåndsvisning. Årsak og tidspunkt er ikke verifisert.",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Livsglede%20for%20Eldre"
+  },
   {
    "id": "ranheim-paper-board-2026-11",
    "selskap": "Ranheim Paper & Board AS (Trondheim)",
@@ -21,6 +77,27 @@
    "brreg_navn": "RANHEIM PAPER & BOARD AS",
    "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Ranheim%20Paper%20%26%20Board%20AS",
    "kommentar": "om lag 20 stillinger; etter kuttet vil bedriften ha i underkant av 210 ansatte ifølge Nidaros"
+  },
+  {
+   "id": "coop-tromso-lager-2026-11",
+   "selskap": "Coop Norge SA (lageret i Tromsø)",
+   "sok": "COOP NORGE SA",
+   "antall": 30,
+   "enhet": "årsverk",
+   "omfang": "Norge: lageret i Tromsø (66 årsverk i dag)",
+   "status": "varslet",
+   "dato": "2026-11-03",
+   "sektor": "Handel / logistikk",
+   "oppsummering": "Coop Norge varsler nedbemanning ved lageret i Tromsø, som i dag har 66 årsverk. Lageret skal flyttes og skaleres ned når utvidelsen av CLog på Gardermoen står klart i 2029; nytt lager skal bygges utenfor Tromsø. Kommer dagen etter beskjeden om nedleggelse av lageret i Bergen.",
+   "kilder": [
+    "https://handelswatch.no/nyheter/dagligvarer/article19795042.ece",
+    "https://www.nordlys.no/kutter-opptil-30-arsverk-i-tromso/s/80-34-36106",
+    "https://www.itromso.no/nyheter/n/KrolJG/flytter-2030-personer-mister-jobben"
+   ],
+   "orgnr": "936560288",
+   "brreg_navn": "COOP NORGE SA",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Coop%20Norge%20SA",
+   "kommentar": "20–30 årsverk ifølge Handelswatch/Nordlys; opptil 30 oppgitt som antall."
   },
   {
    "id": "coop-bergen-lager-2026-11",
@@ -80,6 +157,26 @@
    "orgnr": "934990323",
    "brreg_navn": "KOMPELLA MOTTAKSDRIFT AS",
    "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Kompella%20Mottaksdrift%20AS"
+  },
+  {
+   "id": "eramet-kvinesdal-2026-11",
+   "selskap": "Eramet Norway (Kvinesdal)",
+   "sok": "ERAMET NORWAY AS",
+   "antall": null,
+   "enhet": "ansatte",
+   "omfang": "Smelteverket i Kvinesdal (om lag 210 ansatte)",
+   "status": "permittering",
+   "dato": "2026-11-02",
+   "sektor": "Industri / smelteverk",
+   "oppsummering": "Ledelsen ved Eramet i Kvinesdal anbefaler å stanse én av tre smelteovner fra nyttår på grunn av lavere salg, dårligere priser og høye energikostnader. De om lag 210 ansatte er varslet om at mulige permitteringer skal drøftes, og permitteringer fra januar 2027 er sannsynlig.",
+   "kilder": [
+    "https://www.nrk.no/sorlandet/kan-bli-permittert-1.18071493",
+    "https://www.avisenagder.no/tillitsvalg-om-permitteringsfaren-vi-klamrer-oss-til-hapet-og-er-positive-til-the-bitter-end/s/80-99-21531"
+   ],
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Eramet%20Norway",
+   "kommentar": "Antall berørte er ikke oppgitt; ca. 210 ansatte er varslet om drøfting av permitteringer.",
+   "orgnr": "980518647",
+   "brreg_navn": "ERAMET NORWAY AS"
   },
   {
    "id": "godthaab-2026-10",
@@ -340,6 +437,26 @@
    "brreg_navn": "DANSKE BANK A/S NUF",
    "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Danske%20Bank%20A/S%20NUF",
    "kommentar": "106 stillinger totalt i konsernet, 6 av dem i Norge. Norgestallet er oppgitt av Danske Bank Norge til E24; pressemeldingen og NTB oppgir ikke fordeling per land."
+  },
+  {
+   "id": "veidekke-bane-2026-10",
+   "selskap": "Veidekke Bane (Veidekke ASA)",
+   "sok": "VEIDEKKE INDUSTRI AS",
+   "antall": null,
+   "enhet": "ansatte",
+   "omfang": "Veidekke Bane (jernbanefornyelse og -vedlikehold)",
+   "status": "permittering",
+   "dato": "2026-10-22",
+   "sektor": "Bygg og anlegg (jernbane)",
+   "oppsummering": "Veidekke Bane varsler permitteringer på grunn av mangel på oppdrag fra Bane Nor og lavere bevilgninger til jernbanefornyelse. Ifølge tillitsvalgt er om lag 10 prosent av de ansatte i Veidekke Bane permittert (Arbeidsmanden, 4. nov.).",
+   "kilder": [
+    "https://anlegg.bygg.no/jernbane-statsbudsjettet-veidekke/veidekke-bane-varsler-permitteringer-lover-kamp-pa-stortinget/2966295",
+    "https://www.frifagbevegelse.no/arbeidsmanden/krise-pa-jernbanen-250-permittert/2730118"
+   ],
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Veidekke%20Bane",
+   "kommentar": "Antall ikke oppgitt; ca. 10 prosent av de ansatte er permittert ifølge tillitsvalgt. Ca. 250 ansatte hos jernbaneentreprenører samlet er permittert ifølge EBA (Arbeidsmanden).",
+   "orgnr": "913536770",
+   "brreg_navn": "VEIDEKKE INDUSTRI AS"
   },
   {
    "id": "roa-fotball-elite-2026-10",
@@ -1428,63 +1545,6 @@
    "brreg_navn": "AKER SOLUTIONS ASA",
    "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Aker%20Solutions%20ASA",
    "kommentar": "Norge og internasjonalt; ca. 300 ved verftet i Verdal."
-  },
-  {
-   "id": "coop-tromso-lager-2026-11",
-   "selskap": "Coop Norge SA (lageret i Tromsø)",
-   "sok": "COOP NORGE SA",
-   "antall": 30,
-   "enhet": "årsverk",
-   "omfang": "Norge: lageret i Tromsø (66 årsverk i dag)",
-   "status": "varslet",
-   "dato": "2026-11-03",
-   "sektor": "Handel / logistikk",
-   "oppsummering": "Coop Norge varsler nedbemanning ved lageret i Tromsø, som i dag har 66 årsverk. Lageret skal flyttes og skaleres ned når utvidelsen av CLog på Gardermoen står klart i 2029; nytt lager skal bygges utenfor Tromsø. Kommer dagen etter beskjeden om nedleggelse av lageret i Bergen.",
-   "kilder": [
-    "https://handelswatch.no/nyheter/dagligvarer/article19795042.ece",
-    "https://www.nordlys.no/kutter-opptil-30-arsverk-i-tromso/s/80-34-36106",
-    "https://www.itromso.no/nyheter/n/KrolJG/flytter-2030-personer-mister-jobben"
-   ],
-   "orgnr": "936560288",
-   "brreg_navn": "COOP NORGE SA",
-   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Coop%20Norge%20SA",
-   "kommentar": "20–30 årsverk ifølge Handelswatch/Nordlys; opptil 30 oppgitt som antall."
-  },
-  {
-   "id": "eramet-kvinesdal-2026-11",
-   "selskap": "Eramet Norway (Kvinesdal)",
-   "sok": "ERAMET NORWAY AS",
-   "antall": null,
-   "enhet": "ansatte",
-   "omfang": "Smelteverket i Kvinesdal (om lag 210 ansatte)",
-   "status": "permittering",
-   "dato": "2026-11-02",
-   "sektor": "Industri / smelteverk",
-   "oppsummering": "Ledelsen ved Eramet i Kvinesdal anbefaler å stanse én av tre smelteovner fra nyttår på grunn av lavere salg, dårligere priser og høye energikostnader. De om lag 210 ansatte er varslet om at mulige permitteringer skal drøftes, og permitteringer fra januar 2027 er sannsynlig.",
-   "kilder": [
-    "https://www.nrk.no/sorlandet/kan-bli-permittert-1.18071493",
-    "https://www.avisenagder.no/tillitsvalg-om-permitteringsfaren-vi-klamrer-oss-til-hapet-og-er-positive-til-the-bitter-end/s/80-99-21531"
-   ],
-   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Eramet%20Norway",
-   "kommentar": "Antall berørte er ikke oppgitt; ca. 210 ansatte er varslet om drøfting av permitteringer."
-  },
-  {
-   "id": "veidekke-bane-2026-10",
-   "selskap": "Veidekke Bane (Veidekke ASA)",
-   "sok": "VEIDEKKE INDUSTRI AS",
-   "antall": null,
-   "enhet": "ansatte",
-   "omfang": "Veidekke Bane (jernbanefornyelse og -vedlikehold)",
-   "status": "permittering",
-   "dato": "2026-10-22",
-   "sektor": "Bygg og anlegg (jernbane)",
-   "oppsummering": "Veidekke Bane varsler permitteringer på grunn av mangel på oppdrag fra Bane Nor og lavere bevilgninger til jernbanefornyelse. Ifølge tillitsvalgt er om lag 10 prosent av de ansatte i Veidekke Bane permittert (Arbeidsmanden, 4. nov.).",
-   "kilder": [
-    "https://anlegg.bygg.no/jernbane-statsbudsjettet-veidekke/veidekke-bane-varsler-permitteringer-lover-kamp-pa-stortinget/2966295",
-    "https://www.frifagbevegelse.no/arbeidsmanden/krise-pa-jernbanen-250-permittert/2730118"
-   ],
-   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Veidekke%20Bane",
-   "kommentar": "Antall ikke oppgitt; ca. 10 prosent av de ansatte er permittert ifølge tillitsvalgt. Ca. 250 ansatte hos jernbaneentreprenører samlet er permittert ifølge EBA (Arbeidsmanden)."
   }
  ]
 }
