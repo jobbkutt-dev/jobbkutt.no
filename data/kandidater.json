@@ -1,12 +1,68 @@
 {
- "oppdatert": "2026-11-08T12:10",
+ "oppdatert": "2026-11-11T14:51",
  "kandidater": [
   {
+   "kilde": "E24",
+   "tittel": "Legger ned rute",
+   "ingress": "Kan fortsatt fly via Oslo, sier selskapet. Det kan bli en fryktelig lang reise.",
+   "url": "https://e24.no/naeringsliv/i/vkmMpm/legger-ned-rute?utm_medium=rss",
+   "dato": "2026-11-10"
+  },
+  {
+   "kilde": "E24",
+   "tittel": "Kutter økostempel på laks: – Dyrevelferd og miljø er ikke godt nok",
+   "ingress": "Det kan bety slutten for økologisk laks i britiske butikker og vil blant annet ramme den norske…",
+   "url": "https://e24.no/hav-og-sjoemat/i/VxRVo6/kutter-oekostempel-paa-laks-dyrevelferd-og-miljoe-er-ikke-godt-nok?utm_medium=rss",
+   "dato": "2026-11-10"
+  },
+  {
+   "kilde": "DN",
+   "tittel": "Nervøst på Asia-børsene – hedgefond kutter risiko",
+   "ingress": "Det er nervøsitet ved de asiatiske børsene onsdag. Japanske Softbank faller kraftig etter milliardtap. Morgan Stanley melder om den største risikoreduksjonen blant hedgefond på over ti år.",
+   "url": "https://www.dn.no/dn-ekspress/sor-korea/taiwan/indonesia/nervost-pa-asia-borsene-hedgefond-kutter-risiko/2-1-2072335",
+   "dato": "2026-11-11"
+  },
+  {
    "kilde": "NRK",
-   "tittel": "VG: Oslo kutter antall elsparkesykler og hever aldersgrensen",
-   "ingress": "– For at folk som kunne ha de samme mulighetene til å reise som før og kunne komme seg rundt uten å bruke bilen, så øker vi antallet elsykler, sier byrådsleder Eirik Lae Solberg (H) til VG.\nDet totale taket for elektriske utleiekjøretøy forblir på 16.000, men antallet elsparkesykler kuttes fra 16.00",
-   "url": "https://www.nrk.no/nyheter/vg_-oslo-kutter-antall-elsparkesykler-og-hever-aldersgrensen-1.18074020",
-   "dato": "2026-11-04"
+   "tittel": "Sykehus må kutte: Punger ut så topp­­sjefene kan pendle til jobb",
+   "ingress": "Mens sykehuset i Finnmark kutter stillinger og sengeplasser for å spare penger, får toppsjefene gratis flypendling, bolig og hotellopphold.",
+   "url": "https://www.nrk.no/tromsogfinnmark/finnmarkssykehuset-kutter-i-pasienttilbud-_-betalte-over-1_5-millioner-for-toppledernes-pendling-1.18033459",
+   "dato": "2026-11-11"
+  },
+  {
+   "kilde": "NRK Norge",
+   "tittel": "SAS kutter i nord: – 8000 pasientreiser blir rammet",
+   "ingress": "Fra desember forsvinner SAS-direkterutene mellom Trondheim og Nord-Norge. Kuttet bekymrer Helse Nord.",
+   "url": "https://www.nrk.no/nordland/sas-kutter-i-nord_-_-8000-pasientreiser-blir-rammet-1.18079041",
+   "dato": "2026-11-11"
+  },
+  {
+   "kilde": "NRK Norge",
+   "tittel": "Marcialonga Bodø kutter distansene og satser på folk flest",
+   "ingress": "Marcialonga Bodø går ut av proffkalenderen til Ski Classics. Til vinteren blir den lengste distansen 30 kilometer, og arrangøren vil lokke flere lokale løpere til start.",
+   "url": "https://www.nrk.no/nordland/marcialonga-bodo-kutter-distansene-og-satser-pa-folk-flest-1.18079098",
+   "dato": "2026-11-11"
+  },
+  {
+   "kilde": "NRK Norge",
+   "tittel": "Sykehus må kutte: Punger ut så topp­­sjefene kan pendle til jobb",
+   "ingress": "Mens sykehuset i Finnmark kutter stillinger og sengeplasser for å spare penger, får toppsjefene gratis flypendling, bolig og hotellopphold.",
+   "url": "https://www.nrk.no/tromsogfinnmark/finnmarkssykehuset-kutter-i-pasienttilbud-_-betalte-over-1_5-millioner-for-toppledernes-pendling-1.18033459",
+   "dato": "2026-11-11"
+  },
+  {
+   "kilde": "Nettavisen",
+   "tittel": "Sykehus må ta grep: Anbefaler å kutte 250 årsverk",
+   "ingress": "Ledergruppen ved Stavanger universitetssykehus anbefaler å redusere med minst 250 årsverk.",
+   "url": "https://www.nettavisen.no/nyheter/sykehus-ma-ta-grep-anbefaler-a-kutte-250-arsverk/s/80-95-240536",
+   "dato": "2026-11-11"
+  },
+  {
+   "kilde": "Nettavisen",
+   "tittel": "Varsler masseoppsigelser: – Vi er opprørt",
+   "ingress": "Skuespiller- og danseralliansen varsler masseoppsigelser som følge av regjeringens budsjettforslag.",
+   "url": "https://www.nettavisen.no/okonomi/varsler-masseoppsigelser-20-kan-miste-jobben/s/80-95-240506",
+   "dato": "2026-11-11"
   }
  ]
 }

@@ -1,5 +1,22 @@
 [
  {
+  "id": "sus-stavanger-2026-11",
+  "selskap": "Stavanger universitetssjukehus (Helse Stavanger HF)",
+  "sok": null,
+  "antall": 250,
+  "enhet": "årsverk",
+  "omfang": "Reduksjon i 2027-budsjettet: ca. 150 årsverk gjennom justert pleiefaktor i somatiske sengeposter og 100–110 årsverk i andre deler av organisasjonen",
+  "status": "varslet",
+  "dato": "2026-11-11",
+  "sektor": "Helse",
+  "oppsummering": "Ledergruppen ved Stavanger universitetssjukehus (SUS) foreslår å redusere bemanningen med minst 250 årsverk i 2027 for å komme i budsjettbalanse. Sykehuset opplyser at ingen fast ansatte skal miste jobben, og at forskning skal skjermes. Siden 2019 har SUS økt bemanningen med over 1000 årsverk.",
+  "kilder": [
+   "https://www.nettavisen.no/nyheter/sykehus-ma-ta-grep-anbefaler-a-kutte-250-arsverk/s/80-95-240536"
+  ],
+  "kommentar": "Forslag fra ledergruppen, ikke vedtatt. Styret fatter endelig beslutning om pleiefaktor og årsverkreduksjon 18. desember 2026 når budsjettet for 2027 behandles. Helse Stavanger opplyser at ingen faste ansatte skal miste jobben.",
+  "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Helse%20Stavanger"
+ },
+ {
   "id": "am-nutrition-2026-10",
   "selskap": "AM Nutrition AS (Felleskjøpet Rogaland Agder, Stavanger)",
   "sok": "AM NUTRITION AS",
