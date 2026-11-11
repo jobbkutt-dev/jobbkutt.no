@@ -1,7 +1,29 @@
 {
- "oppdatert": "2026-11-10T14:53",
- "filter": "antallAnsatte >= 10, dato >= 2026-05-14",
+ "oppdatert": "2026-11-11T08:59",
+ "filter": "antallAnsatte >= 10, dato >= 2026-05-15",
  "enheter": [
+  {
+   "orgnr": "933170179",
+   "navn": "FOSNAVÅG PIZZA AS",
+   "type": "konkurs",
+   "dato": "2026-11-10",
+   "antallAnsatte": 10,
+   "bransje": "Drift av restauranter",
+   "naeringskode": "56.110",
+   "kommune": "HERØY",
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/933170179"
+  },
+  {
+   "orgnr": "934342305",
+   "navn": "TELEPROX AS",
+   "type": "konkurs",
+   "dato": "2026-11-10",
+   "antallAnsatte": 10,
+   "bransje": "Bedriftsrådgivning og annen administrativ rådgivning",
+   "naeringskode": "70.200",
+   "kommune": "OSLO",
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/934342305"
+  },
   {
    "orgnr": "919527595",
    "navn": "BEKKVANG VARMEPUMPER AS",
@@ -12,6 +34,17 @@
    "naeringskode": "43.222",
    "kommune": "LØTEN",
    "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/919527595"
+  },
+  {
+   "orgnr": "835482162",
+   "navn": "F & G MART AS",
+   "type": "konkurs",
+   "dato": "2026-11-09",
+   "antallAnsatte": 18,
+   "bransje": "Detaljhandel med bredt vareutvalg med hovedvekt på nærings- og nytelsesmidler",
+   "naeringskode": "47.110",
+   "kommune": "BÆRUM",
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/835482162"
   },
   {
    "orgnr": "930368393",
@@ -198,8 +231,7 @@
    "bransje": "Oppføring av bygninger",
    "naeringskode": "41.000",
    "kommune": "TRONDHEIM",
-   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/983830196",
-   "kommentar": "Nettavisen, som viser til Nidaros, skriver at om lag 130 mister jobben: https://www.nettavisen.no/okonomi/entreprenor-konkurs-130-mister-jobben/s/80-95-212465"
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/983830196"
   },
   {
    "orgnr": "929208390",

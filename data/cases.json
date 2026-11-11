@@ -1,5 +1,5 @@
 {
- "oppdatert": "2026-11-10T14:54",
+ "oppdatert": "2026-11-11T09:00",
  "saker": [
   {
    "id": "antirasistisk-senter-2026-11",
@@ -56,6 +56,23 @@
    ],
    "kommentar": "Kilden er bak betalingsmur; opplysningene er hentet fra åpen ingress/forhåndsvisning. Årsak og tidspunkt er ikke verifisert.",
    "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Livsglede%20for%20Eldre"
+  },
+  {
+   "id": "finnmarkssykehuset-kirkenes-rehab-2026-11",
+   "selskap": "Finnmarkssykehuset (Kirkenes sykehus)",
+   "sok": null,
+   "antall": 14,
+   "enhet": "stillinger",
+   "omfang": "Rehabiliteringsavdelingen ved Kirkenes sykehus; del av omstilling for å spare over 40 mill. kr i 2026",
+   "status": "varslet",
+   "dato": "2026-11-04",
+   "sektor": "Helse",
+   "oppsummering": "Finnmarkssykehuset planlegger å kutte 14 stillinger ved rehabiliteringsavdelingen ved Kirkenes sykehus. Sør-Varanger kommune er bekymret, mens sykehuset mener tilbudet ikke svekkes.",
+   "kilder": [
+    "https://www.sva.no/kommunen-frykter-sykehuskutt-klinikksjefen-hevder-tilbudet-ikke-skal-reduseres/s/80-145-13457"
+   ],
+   "kommentar": "Planlagt kutt, ikke endelig vedtatt. Tidligere i 2026 ble også åtte sengeplasser kuttet ved Kirkenes sykehus (NRK).",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Finnmarkssykehuset"
   },
   {
    "id": "ranheim-paper-board-2026-11",
