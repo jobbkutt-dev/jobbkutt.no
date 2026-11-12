@@ -69,6 +69,17 @@
    "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/930368393"
   },
   {
+   "orgnr": "919527595",
+   "navn": "BEKKVANG VARMEPUMPER AS",
+   "type": "konkurs",
+   "dato": "2026-11-09",
+   "antallAnsatte": 10,
+   "bransje": "Kuldeanlegg-, varmepumpearbeid og installasjon av peiser",
+   "naeringskode": "43.222",
+   "kommune": "LØTEN",
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/919527595"
+  },
+  {
    "orgnr": "831877782",
    "navn": "HUMMUS WINE AS",
    "type": "tvangsavvikling",
@@ -100,6 +111,17 @@
    "naeringskode": "56.300",
    "kommune": "OSLO",
    "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/922853827"
+  },
+  {
+   "orgnr": "912877183",
+   "navn": "BOWLERS JESSHEIM AS",
+   "type": "konkurs",
+   "dato": "2026-11-06",
+   "antallAnsatte": 19,
+   "bransje": "Drift av restauranter",
+   "naeringskode": "56.110",
+   "kommune": "ULLENSAKER",
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/912877183"
   },
   {
    "orgnr": "968787551",
@@ -253,7 +275,19 @@
    "bransje": "Oppføring av bygninger",
    "naeringskode": "41.000",
    "kommune": "TRONDHEIM",
-   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/983830196"
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/983830196",
+   "kommentar": "Nettavisen, som viser til Nidaros, skriver at om lag 130 mister jobben: https://www.nettavisen.no/okonomi/entreprenor-konkurs-130-mister-jobben/s/80-95-212465"
+  },
+  {
+   "orgnr": "929208390",
+   "navn": "HENDEN MAT AS",
+   "type": "avvikling",
+   "dato": "2026-11-02",
+   "antallAnsatte": 13,
+   "bransje": "Detaljhandel med bredt vareutvalg med hovedvekt på nærings- og nytelsesmidler",
+   "naeringskode": "47.110",
+   "kommune": "ØVRE EIKER",
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/929208390"
   },
   {
    "orgnr": "917555818",
@@ -529,6 +563,17 @@
    "naeringskode": "41.000",
    "kommune": "ENEBAKK",
    "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/833910892"
+  },
+  {
+   "orgnr": "930701807",
+   "navn": "FROGNER PUBDRIFT AS",
+   "type": "konkurs",
+   "dato": "2026-10-19",
+   "antallAnsatte": 11,
+   "bransje": "Drift av restauranter",
+   "naeringskode": "56.110",
+   "kommune": "OSLO",
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/930701807"
   },
   {
    "orgnr": "926358022",
@@ -982,6 +1027,17 @@
    "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/935877288"
   },
   {
+   "orgnr": "921860382",
+   "navn": "JT-RETAIL AS",
+   "type": "avvikling",
+   "dato": "2026-09-28",
+   "antallAnsatte": 16,
+   "bransje": "Detaljhandel med drivstoff til motorvogner",
+   "naeringskode": "47.300",
+   "kommune": "SKIEN",
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/921860382"
+  },
+  {
    "orgnr": "916016301",
    "navn": "LERSTAD BYGG AS",
    "type": "konkurs",
@@ -1246,6 +1302,17 @@
    "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/990574243"
   },
   {
+   "orgnr": "927447134",
+   "navn": "J.G TRANSPORT & ENTREPRENØR AS",
+   "type": "konkurs",
+   "dato": "2026-09-09",
+   "antallAnsatte": 13,
+   "bransje": "Godstransport på vei",
+   "naeringskode": "49.410",
+   "kommune": "GRAN",
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/927447134"
+  },
+  {
    "orgnr": "931519174",
    "navn": "BAR AND BEEF AS",
    "type": "konkurs",
@@ -1288,6 +1355,17 @@
    "naeringskode": "56.110",
    "kommune": "BERGEN",
    "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/932377543"
+  },
+  {
+   "orgnr": "920566979",
+   "navn": "DRØMMEBRUKET AS",
+   "type": "avvikling",
+   "dato": "2026-09-07",
+   "antallAnsatte": 15,
+   "bransje": "Annen undervisning ellers",
+   "naeringskode": "85.597",
+   "kommune": "BÆRUM",
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/920566979"
   },
   {
    "orgnr": "919580607",
@@ -1334,6 +1412,17 @@
    "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/926129686"
   },
   {
+   "orgnr": "925677418",
+   "navn": "GRAINS MATHALLEN AS",
+   "type": "konkurs",
+   "dato": "2026-09-03",
+   "antallAnsatte": 12,
+   "bransje": "Detaljhandel med bakervarer, konditorvarer og sukkervarer",
+   "naeringskode": "47.240",
+   "kommune": "OSLO",
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/925677418"
+  },
+  {
    "orgnr": "979221282",
    "navn": "GO-BITEN AS",
    "type": "konkurs",
@@ -1365,6 +1454,28 @@
    "naeringskode": "10.710",
    "kommune": "HARSTAD",
    "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/929219384"
+  },
+  {
+   "orgnr": "921599986",
+   "navn": "ADAL. P. BYGG AS",
+   "type": "konkurs",
+   "dato": "2026-09-01",
+   "antallAnsatte": 12,
+   "bransje": "Oppføring av bygninger",
+   "naeringskode": "41.000",
+   "kommune": "OSLO",
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/921599986"
+  },
+  {
+   "orgnr": "915798268",
+   "navn": "SKJÆRHOLT AS",
+   "type": "konkurs",
+   "dato": "2026-09-01",
+   "antallAnsatte": 12,
+   "bransje": "Oppføring av bygninger",
+   "naeringskode": "41.000",
+   "kommune": "OSLO",
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/915798268"
   },
   {
    "orgnr": "936537049",
@@ -1409,6 +1520,17 @@
    "naeringskode": "85.100",
    "kommune": "FROGN",
    "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/875992252"
+  },
+  {
+   "orgnr": "935094984",
+   "navn": "LYKKE ENTREPRENØR AS",
+   "type": "konkurs",
+   "dato": "2026-08-31",
+   "antallAnsatte": 14,
+   "bransje": "Oppføring av bygninger",
+   "naeringskode": "41.000",
+   "kommune": "OSLO",
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/935094984"
   },
   {
    "orgnr": "889800542",
