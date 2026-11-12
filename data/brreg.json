@@ -1,7 +1,29 @@
 {
- "oppdatert": "2026-11-11T14:51",
- "filter": "antallAnsatte >= 10, dato >= 2026-05-15",
+ "oppdatert": "2026-11-12T08:58",
+ "filter": "antallAnsatte >= 10, dato >= 2026-05-16",
  "enheter": [
+  {
+   "orgnr": "913529936",
+   "navn": "TINES HAVE AS",
+   "type": "konkurs",
+   "dato": "2026-11-11",
+   "antallAnsatte": 29,
+   "bransje": "Drift av restauranter",
+   "naeringskode": "56.110",
+   "kommune": "RISØR",
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/913529936"
+  },
+  {
+   "orgnr": "913515455",
+   "navn": "TORTON CAPITAL MANAGEMENT AS",
+   "type": "tvangsavvikling",
+   "dato": "2026-11-11",
+   "antallAnsatte": 46,
+   "bransje": "Drift av barer",
+   "naeringskode": "56.300",
+   "kommune": "SANDEFJORD",
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/913515455"
+  },
   {
    "orgnr": "933170179",
    "navn": "FOSNAVÅG PIZZA AS",
@@ -23,17 +45,6 @@
    "naeringskode": "70.200",
    "kommune": "OSLO",
    "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/934342305"
-  },
-  {
-   "orgnr": "919527595",
-   "navn": "BEKKVANG VARMEPUMPER AS",
-   "type": "konkurs",
-   "dato": "2026-11-09",
-   "antallAnsatte": 10,
-   "bransje": "Kuldeanlegg-, varmepumpearbeid og installasjon av peiser",
-   "naeringskode": "43.222",
-   "kommune": "LØTEN",
-   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/919527595"
   },
   {
    "orgnr": "835482162",
@@ -67,17 +78,6 @@
    "naeringskode": "56.110",
    "kommune": "OSLO",
    "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/831877782"
-  },
-  {
-   "orgnr": "912877183",
-   "navn": "BOWLERS JESSHEIM AS",
-   "type": "konkurs",
-   "dato": "2026-11-06",
-   "antallAnsatte": 19,
-   "bransje": "Drift av restauranter",
-   "naeringskode": "56.110",
-   "kommune": "ULLENSAKER",
-   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/912877183"
   },
   {
    "orgnr": "934804538",
@@ -146,6 +146,17 @@
    "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/933101207"
   },
   {
+   "orgnr": "924060964",
+   "navn": "BANH MI XO AS",
+   "type": "tvangsavvikling",
+   "dato": "2026-11-04",
+   "antallAnsatte": 10,
+   "bransje": "Drift av restauranter",
+   "naeringskode": "56.110",
+   "kommune": "OSLO",
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/924060964"
+  },
+  {
    "orgnr": "930230871",
    "navn": "BIRDS KITCHEN AS",
    "type": "tvangsavvikling",
@@ -194,11 +205,22 @@
    "navn": "BALDER BULK AS",
    "type": "konkurs",
    "dato": "2026-11-02",
-   "antallAnsatte": 154,
+   "antallAnsatte": 151,
    "bransje": "Godstransport på vei",
    "naeringskode": "49.410",
    "kommune": "ULLENSAKER",
    "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/915644686"
+  },
+  {
+   "orgnr": "925244600",
+   "navn": "BÆRJA KAFE AS",
+   "type": "konkurs",
+   "dato": "2026-11-02",
+   "antallAnsatte": 10,
+   "bransje": "Drift av restauranter",
+   "naeringskode": "56.110",
+   "kommune": "VERDAL",
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/925244600"
   },
   {
    "orgnr": "924480408",
@@ -231,19 +253,7 @@
    "bransje": "Oppføring av bygninger",
    "naeringskode": "41.000",
    "kommune": "TRONDHEIM",
-   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/983830196",
-   "kommentar": "Nettavisen, som viser til Nidaros, skriver at om lag 130 mister jobben: https://www.nettavisen.no/okonomi/entreprenor-konkurs-130-mister-jobben/s/80-95-212465"
-  },
-  {
-   "orgnr": "929208390",
-   "navn": "HENDEN MAT AS",
-   "type": "avvikling",
-   "dato": "2026-11-02",
-   "antallAnsatte": 13,
-   "bransje": "Detaljhandel med bredt vareutvalg med hovedvekt på nærings- og nytelsesmidler",
-   "naeringskode": "47.110",
-   "kommune": "ØVRE EIKER",
-   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/929208390"
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/983830196"
   },
   {
    "orgnr": "917555818",
@@ -338,7 +348,7 @@
    "navn": "ANCHAU AS",
    "type": "konkurs",
    "dato": "2026-10-27",
-   "antallAnsatte": 13,
+   "antallAnsatte": 14,
    "bransje": "Drift av restauranter",
    "naeringskode": "56.110",
    "kommune": "OSLO",
@@ -415,7 +425,7 @@
    "navn": "ULSTEIN ENTREPRENØR AS",
    "type": "avvikling",
    "dato": "2026-10-23",
-   "antallAnsatte": 16,
+   "antallAnsatte": 12,
    "bransje": "Spesialisert byggevirksomhet i forbindelse med anleggsarbeid",
    "naeringskode": "43.500",
    "kommune": "ULSTEIN",
@@ -521,22 +531,11 @@
    "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/833910892"
   },
   {
-   "orgnr": "930701807",
-   "navn": "FROGNER PUBDRIFT AS",
-   "type": "konkurs",
-   "dato": "2026-10-19",
-   "antallAnsatte": 11,
-   "bransje": "Drift av restauranter",
-   "naeringskode": "56.110",
-   "kommune": "OSLO",
-   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/930701807"
-  },
-  {
    "orgnr": "926358022",
    "navn": "MAXSHIP INTER AS",
    "type": "tvangsavvikling",
    "dato": "2026-10-17",
-   "antallAnsatte": 135,
+   "antallAnsatte": 108,
    "bransje": "Reparasjon og vedlikehold av sivile skip og båter",
    "naeringskode": "33.150",
    "kommune": "HARAM",
@@ -690,7 +689,7 @@
    "navn": "GRENDEHUSET PÅ SAGENE SA",
    "type": "avvikling",
    "dato": "2026-10-10",
-   "antallAnsatte": 12,
+   "antallAnsatte": 13,
    "bransje": "Drift av restauranter",
    "naeringskode": "56.110",
    "kommune": "OSLO",
@@ -932,7 +931,7 @@
    "navn": "EXPLORE HARSTAD AS",
    "type": "tvangsavvikling",
    "dato": "2026-09-30",
-   "antallAnsatte": 32,
+   "antallAnsatte": 33,
    "bransje": "Aktiviteter utført av utflukts- og eventarrangører",
    "naeringskode": "79.121",
    "kommune": "HARSTAD",
@@ -981,17 +980,6 @@
    "naeringskode": "41.000",
    "kommune": "OSLO",
    "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/935877288"
-  },
-  {
-   "orgnr": "921860382",
-   "navn": "JT-RETAIL AS",
-   "type": "avvikling",
-   "dato": "2026-09-28",
-   "antallAnsatte": 16,
-   "bransje": "Detaljhandel med drivstoff til motorvogner",
-   "naeringskode": "47.300",
-   "kommune": "SKIEN",
-   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/921860382"
   },
   {
    "orgnr": "916016301",
@@ -1258,17 +1246,6 @@
    "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/990574243"
   },
   {
-   "orgnr": "927447134",
-   "navn": "J.G TRANSPORT & ENTREPRENØR AS",
-   "type": "konkurs",
-   "dato": "2026-09-09",
-   "antallAnsatte": 13,
-   "bransje": "Godstransport på vei",
-   "naeringskode": "49.410",
-   "kommune": "GRAN",
-   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/927447134"
-  },
-  {
    "orgnr": "931519174",
    "navn": "BAR AND BEEF AS",
    "type": "konkurs",
@@ -1302,17 +1279,6 @@
    "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/933247651"
   },
   {
-   "orgnr": "885136702",
-   "navn": "FRUENE HAUGESTAD AS",
-   "type": "tvangsavvikling",
-   "dato": "2026-09-08",
-   "antallAnsatte": 14,
-   "bransje": "Catering for arrangementer",
-   "naeringskode": "56.210",
-   "kommune": "LIER",
-   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/885136702"
-  },
-  {
    "orgnr": "932377543",
    "navn": "TRES TACOS AS",
    "type": "konkurs",
@@ -1324,17 +1290,6 @@
    "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/932377543"
   },
   {
-   "orgnr": "920566979",
-   "navn": "DRØMMEBRUKET AS",
-   "type": "avvikling",
-   "dato": "2026-09-07",
-   "antallAnsatte": 15,
-   "bransje": "Annen undervisning ellers",
-   "naeringskode": "85.597",
-   "kommune": "BÆRUM",
-   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/920566979"
-  },
-  {
    "orgnr": "919580607",
    "navn": "BYGGMONTASJE AS",
    "type": "konkurs",
@@ -1344,17 +1299,6 @@
    "naeringskode": "41.000",
    "kommune": "OSLO",
    "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/919580607"
-  },
-  {
-   "orgnr": "925677418",
-   "navn": "GRAINS MATHALLEN AS",
-   "type": "konkurs",
-   "dato": "2026-09-03",
-   "antallAnsatte": 12,
-   "bransje": "Detaljhandel med bakervarer, konditorvarer og sukkervarer",
-   "naeringskode": "47.240",
-   "kommune": "OSLO",
-   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/925677418"
   },
   {
    "orgnr": "935451612",
@@ -1401,17 +1345,6 @@
    "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/979221282"
   },
   {
-   "orgnr": "921599986",
-   "navn": "ADAL. P. BYGG AS",
-   "type": "konkurs",
-   "dato": "2026-09-01",
-   "antallAnsatte": 12,
-   "bransje": "Oppføring av bygninger",
-   "naeringskode": "41.000",
-   "kommune": "OSLO",
-   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/921599986"
-  },
-  {
    "orgnr": "967624373",
    "navn": "COMPUTER COMMUNICATIONS AS",
    "type": "konkurs",
@@ -1434,17 +1367,6 @@
    "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/929219384"
   },
   {
-   "orgnr": "915798268",
-   "navn": "SKJÆRHOLT AS",
-   "type": "konkurs",
-   "dato": "2026-09-01",
-   "antallAnsatte": 12,
-   "bransje": "Oppføring av bygninger",
-   "naeringskode": "41.000",
-   "kommune": "OSLO",
-   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/915798268"
-  },
-  {
    "orgnr": "936537049",
    "navn": "KONTORRAMA AS",
    "type": "konkurs",
@@ -1454,17 +1376,6 @@
    "naeringskode": "46.470",
    "kommune": "OSLO",
    "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/936537049"
-  },
-  {
-   "orgnr": "935094984",
-   "navn": "LYKKE ENTREPRENØR AS",
-   "type": "konkurs",
-   "dato": "2026-08-31",
-   "antallAnsatte": 14,
-   "bransje": "Oppføring av bygninger",
-   "naeringskode": "41.000",
-   "kommune": "OSLO",
-   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/935094984"
   },
   {
    "orgnr": "926829289",
