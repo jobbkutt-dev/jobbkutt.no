@@ -1,5 +1,5 @@
 {
- "oppdatert": "2026-11-12T08:58",
+ "oppdatert": "2026-11-12T12:01",
  "saker": [
   {
    "id": "sus-stavanger-2026-11",
@@ -17,6 +17,25 @@
    ],
    "kommentar": "Forslag fra ledergruppen, ikke vedtatt. Styret fatter endelig beslutning om pleiefaktor og årsverkreduksjon 18. desember 2026 når budsjettet for 2027 behandles. Helse Stavanger opplyser at ingen faste ansatte skal miste jobben.",
    "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Stavanger%20universitetssjukehus"
+  },
+  {
+   "id": "bakermester-klausen-2026-11",
+   "selskap": "Bakermester Klausen AS (Krokstadelva)",
+   "sok": "BAKERMESTER KLAUSEN AS",
+   "antall": 25,
+   "enhet": "ansatte",
+   "omfang": "Produksjonen halveres fra nyttår etter tapt storkontrakt med NorgesGruppen; 25 stillinger kuttes",
+   "status": "varslet",
+   "dato": "2026-11-10",
+   "sektor": "Industri (næringsmiddel / bakeri)",
+   "oppsummering": "Bakermester Klausen i Krokstadelva mister en storkontrakt med NorgesGruppen og må halvere produksjonen fra nyttår. Daglig leder Ben Klausen opplyser at antall ansatte må reduseres med 25.",
+   "kilder": [
+    "https://www.dt.no/bakermester-klausen-kutter-25-ansatte-i-krokstadelva/s/80-57-56856"
+   ],
+   "orgnr": "996330990",
+   "brreg_navn": "BAKERMESTER KLAUSEN AS",
+   "kommentar": "Saken er bak betalingsmur; overskrift og ingress bekreftet via søkeresultat. Selskapet har rundt 90 ansatte ifølge egen nettside.",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Bakermester%20Klausen"
   },
   {
    "id": "antirasistisk-senter-2026-11",

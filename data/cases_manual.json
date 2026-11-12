@@ -17,6 +17,226 @@
   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Helse%20Stavanger"
  },
  {
+  "id": "bakermester-klausen-2026-11",
+  "selskap": "Bakermester Klausen AS (Krokstadelva)",
+  "sok": "BAKERMESTER KLAUSEN AS",
+  "antall": 25,
+  "enhet": "ansatte",
+  "omfang": "Produksjonen halveres fra nyttår etter tapt storkontrakt med NorgesGruppen; 25 stillinger kuttes",
+  "status": "varslet",
+  "dato": "2026-11-10",
+  "sektor": "Industri (næringsmiddel / bakeri)",
+  "oppsummering": "Bakermester Klausen i Krokstadelva mister en storkontrakt med NorgesGruppen og må halvere produksjonen fra nyttår. Daglig leder Ben Klausen opplyser at antall ansatte må reduseres med 25.",
+  "kilder": [
+   "https://www.dt.no/bakermester-klausen-kutter-25-ansatte-i-krokstadelva/s/80-57-56856"
+  ],
+  "orgnr": "996330990",
+  "brreg_navn": "BAKERMESTER KLAUSEN AS",
+  "kommentar": "Saken er bak betalingsmur; overskrift og ingress bekreftet via søkeresultat. Selskapet har rundt 90 ansatte ifølge egen nettside.",
+  "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Bakermester%20Klausen"
+ },
+ {
+  "id": "antirasistisk-senter-2026-11",
+  "selskap": "Antirasistisk Senter (Oslo)",
+  "sok": "ANTIRASISTISK SENTER",
+  "antall": 5,
+  "enhet": "årsverk",
+  "omfang": "Norge; minst 5 av 17 årsverk",
+  "status": "varslet",
+  "dato": "2026-11-09",
+  "sektor": "Frivillig sektor / organisasjon",
+  "oppsummering": "Antirasistisk Senter varsler at minst fem av dagens 17 årsverk kan forsvinne dersom regjeringens forslag om å kutte tre millioner kroner i støtten blir stående. Organisasjonen må også redusere aktiviteter og tilbud. Kuttforslaget er ikke vedtatt og kan endres i budsjettforhandlingene.",
+  "kilder": [
+   "https://inyheter.no/09/11/2026/regjeringen-vil-kutte-stotten-til-antirasistisk-senter-varsler-oppsigelser/"
+  ],
+  "kommentar": "Minst fem årsverk, betinget av statsbudsjettet for 2027 (iNyheter, med henvisning til Dagsavisen)."
+ },
+ {
+  "id": "skuda-2026-11",
+  "selskap": "Skuespiller- og danseralliansen (SKUDA)",
+  "sok": "SKUESPILLER- OG DANSERALLIANSEN",
+  "antall": 20,
+  "enhet": "ansatte",
+  "omfang": "Norge; 20 av rundt 100 ansatte skuespillere og dansere",
+  "status": "varslet",
+  "dato": "2026-11-06",
+  "sektor": "Kultur / scenekunst",
+  "oppsummering": "SKUDA har varslet masseoppsigelse og startet drøftinger med de tillitsvalgte om oppsigelse av 20 av rundt 100 ansatte kunstnere. Bakgrunnen er regjeringens forslag til statsbudsjett for 2027, som ligger om lag 5,5 millioner kroner under det SKUDA trenger for å videreføre dagens stab. Oppsigelsene kan unngås dersom budsjettforhandlingene sikrer videre drift på dagens nivå.",
+  "kilder": [
+   "https://skuda.no/nyheter?catid=17&id=370%3Askuespiller-og-danseralliansen-har-meldt-inn-masseoppsigelser&view=article",
+   "https://www.dagsavisen.no/debatt/regjeringen-sager-over-greinen-skuespillere-og-dansere-sitter-pa/10624671"
+  ],
+  "kommentar": "Betinget av statsbudsjettet for 2027; SKUDA skriver at det kan komme ytterligere oppsigelser neste år. Kildene er selskapets egen melding og et debattinnlegg fra fagforeningene."
+ },
+ {
+  "id": "livsglede-for-eldre-2026-11",
+  "selskap": "Livsglede for Eldre (Kristiansand)",
+  "sok": null,
+  "antall": 11,
+  "enhet": "ansatte",
+  "omfang": "Kristiansand; organisasjonen trues med nedleggelse",
+  "status": "varslet",
+  "dato": "2026-11-06",
+  "sektor": "Omsorg / frivillig sektor",
+  "oppsummering": "Livsglede for Eldre i Kristiansand, etablert for 21 år siden, trues med nedleggelse, og 11 ansatte kan miste jobben, ifølge Fædrelandsvennen.",
+  "kilder": [
+   "https://www.fvn.no/nyheter/lokalt/n/d7yKw1/kan-bli-lagt-ned-vi-trengs-fortsatt"
+  ],
+  "kommentar": "Kilden er bak betalingsmur; opplysningene er hentet fra åpen ingress/forhåndsvisning. Årsak og tidspunkt er ikke verifisert."
+ },
+ {
+  "id": "finnmarkssykehuset-kirkenes-rehab-2026-11",
+  "selskap": "Finnmarkssykehuset (Kirkenes sykehus)",
+  "sok": null,
+  "antall": 14,
+  "enhet": "stillinger",
+  "omfang": "Rehabiliteringsavdelingen ved Kirkenes sykehus; del av omstilling for å spare over 40 mill. kr i 2026",
+  "status": "varslet",
+  "dato": "2026-11-04",
+  "sektor": "Helse",
+  "oppsummering": "Finnmarkssykehuset planlegger å kutte 14 stillinger ved rehabiliteringsavdelingen ved Kirkenes sykehus. Sør-Varanger kommune er bekymret, mens sykehuset mener tilbudet ikke svekkes.",
+  "kilder": [
+   "https://www.sva.no/kommunen-frykter-sykehuskutt-klinikksjefen-hevder-tilbudet-ikke-skal-reduseres/s/80-145-13457"
+  ],
+  "kommentar": "Planlagt kutt, ikke endelig vedtatt. Tidligere i 2026 ble også åtte sengeplasser kuttet ved Kirkenes sykehus (NRK)."
+ },
+ {
+  "id": "ranheim-paper-board-2026-11",
+  "selskap": "Ranheim Paper & Board AS (Trondheim)",
+  "sok": "RANHEIM PAPER & BOARD AS",
+  "antall": 20,
+  "enhet": "stillinger",
+  "omfang": "Norge: fabrikken på Ranheim i Trondheim",
+  "status": "varslet",
+  "dato": "2026-11-03",
+  "sektor": "Industri (treforedling)",
+  "oppsummering": "Papirfabrikken på Ranheim varsler at om lag 20 stillinger skal bort, hovedsakelig administrative, men også noen operative. Selskapet viser til lavere etterspørsel, høye energi- og drivstoffkostnader og valutaeffekter. Produksjonen i 2027 skal ligge på samme nivå som i 2026.",
+  "kilder": [
+   "https://www.mn24.no/nyheter/n/4Oyv6V/fabrikken-i-trondheim-hadde-rekordinntekter-i-fjor-men-naa-kuttes-20-stillinger",
+   "https://www.nidaros.no/nedbemanner-med-20-stillinger-krevende-ar/s/80-113-42827",
+   "https://woodworkscluster.no/2026/11/krevende-tider-ranheim-paper-board-nedbemanner/"
+  ],
+  "orgnr": "915725015",
+  "brreg_navn": "RANHEIM PAPER & BOARD AS",
+  "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Ranheim%20Paper%20%26%20Board",
+  "kommentar": "om lag 20 stillinger; etter kuttet vil bedriften ha i underkant av 210 ansatte ifølge Nidaros"
+ },
+ {
+  "id": "coop-tromso-lager-2026-11",
+  "selskap": "Coop Norge SA (lageret i Tromsø)",
+  "sok": "COOP NORGE SA",
+  "antall": 30,
+  "enhet": "årsverk",
+  "omfang": "Norge: lageret i Tromsø (66 årsverk i dag)",
+  "status": "varslet",
+  "dato": "2026-11-03",
+  "sektor": "Handel / logistikk",
+  "oppsummering": "Coop Norge varsler nedbemanning ved lageret i Tromsø, som i dag har 66 årsverk. Lageret skal flyttes og skaleres ned når utvidelsen av CLog på Gardermoen står klart i 2029; nytt lager skal bygges utenfor Tromsø. Kommer dagen etter beskjeden om nedleggelse av lageret i Bergen.",
+  "kilder": [
+   "https://handelswatch.no/nyheter/dagligvarer/article19795042.ece",
+   "https://www.nordlys.no/kutter-opptil-30-arsverk-i-tromso/s/80-34-36106",
+   "https://www.itromso.no/nyheter/n/KrolJG/flytter-2030-personer-mister-jobben"
+  ],
+  "orgnr": "936560288",
+  "brreg_navn": "COOP NORGE SA",
+  "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Coop%20Norge%20SA",
+  "kommentar": "20–30 årsverk ifølge Handelswatch/Nordlys; opptil 30 oppgitt som antall."
+ },
+ {
+  "id": "coop-bergen-lager-2026-11",
+  "selskap": "Coop Norge SA (lageret på Lønningsflaten, Bergen)",
+  "sok": "COOP NORGE SA",
+  "antall": 40,
+  "enhet": "stillinger",
+  "omfang": "Norge: lageret i Ytrebygda/Lønningsflaten i Bergen (88 ansatte i dag)",
+  "status": "vedtatt",
+  "dato": "2026-11-02",
+  "sektor": "Handel / logistikk",
+  "oppsummering": "Coop har besluttet å legge ned lageret på Lønningsflaten i Bergen, der 88 personer jobber i dag. Coop bygger en ny terminal med langt færre ansatte, og nedleggelsen skal skje i 2029. De ansatte fikk beskjeden på et allmøte mandag; de ble varslet om mulig nedleggelse allerede høsten 2025.",
+  "kilder": [
+   "https://www.nrk.no/vestland/coop-legg-ned-lager-i-bergen-1.18071289",
+   "https://www.ba.no/coop-lageret-pa-lonningsflaten-legges-ned-40-45-arbeidsplasser-forsvinner/s/80-8-93096"
+  ],
+  "orgnr": "936560288",
+  "brreg_navn": "COOP NORGE SA",
+  "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Coop%20Norge",
+  "kommentar": "40–45 arbeidsplasser forsvinner ifølge Bergensavisen; nedleggelsen skjer i 2029 når ny terminal tas i bruk."
+ },
+ {
+  "id": "vergence-2026-11",
+  "selskap": "Vergence (konsernet, Oslo)",
+  "sok": "VERGENCE AS",
+  "antall": null,
+  "enhet": "ansatte",
+  "omfang": "Konsernet Vergence; omfang ikke bekreftet av selskapet",
+  "status": "varslet",
+  "dato": "2026-11-02",
+  "sektor": "Teknologi / programvare",
+  "oppsummering": "Vergence-konsernet orienterte de ansatte om en omstilling på et allmøte 2. november og tilbyr frivillige sluttpakker. Gründeren bekrefter at konsernet skal bli færre ansatte og begrunner det med at egne AI-systemer skal automatisere flere oppgaver.",
+  "kilder": [
+   "https://www.finansavisen.no/teknologi/2026/11/04/8393137/vergence-gruender-amir-f.-habhab-massive-jobbkutt-etter-storstilt-feiring"
+  ],
+  "orgnr": "922540535",
+  "brreg_navn": "VERGENCE AS",
+  "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Vergence",
+  "kommentar": "Selskapet har ikke oppgitt antall. Finansavisen erfarer at planen er å gå fra nærmere 200 ansatte (på det meste i år) til rundt 50 i konsernet; dette er ikke bekreftet av selskapet."
+ },
+ {
+  "id": "kompella-kvaefjord-2026-11",
+  "selskap": "Kompella Mottaksdrift AS (Kvæfjord asylmottak)",
+  "sok": "KOMPELLA MOTTAKSDRIFT AS",
+  "antall": 15,
+  "enhet": "ansatte",
+  "omfang": "Norge: Kvæfjord asylmottak (Borkenes); hele mottaksdriften avvikles",
+  "status": "vedtatt",
+  "dato": "2026-11-02",
+  "sektor": "Offentlig virksomhet / asylmottak",
+  "oppsummering": "UDI har besluttet å legge ned asylmottaket i Kvæfjord, som drives av det kommunale selskapet Kompella Mottaksdrift AS. De ansatte fikk beskjed mandag 2. november om at arbeidsplassen forsvinner. Mottaket stenger ved utgangen av februar 2027. UDI begrunner nedleggelsen med at det har kommet færre asylsøkere til Norge enn tidligere forventet, og at mottakskapasiteten derfor må tilpasses det faktiske behovet. Rundt 150 personer bor på mottaket nå, og de skal flyttes til andre mottak.",
+  "kilder": [
+   "https://www.nrk.no/tromsogfinnmark/udi-har-besluttet-at-a-legge-ned-asylmottaket-i-kvaefjord-1.18073246",
+   "https://www.iharstad.no/holdt-beskjeden-for-seg-selv-gjennom-helga-15-mister-jobben/s/80-126-25907"
+  ],
+  "kommentar": "15 ansatte mister jobben ifølge iHarstad og NRK. Brreg oppgir 18 ansatte i Kompella Mottaksdrift AS. Mottaket stenger ved utgangen av februar 2027."
+ },
+ {
+  "id": "eramet-kvinesdal-2026-11",
+  "selskap": "Eramet Norway (Kvinesdal)",
+  "sok": "ERAMET NORWAY AS",
+  "antall": null,
+  "enhet": "ansatte",
+  "omfang": "Smelteverket i Kvinesdal (om lag 210 ansatte)",
+  "status": "permittering",
+  "dato": "2026-11-02",
+  "sektor": "Industri / smelteverk",
+  "oppsummering": "Ledelsen ved Eramet i Kvinesdal anbefaler å stanse én av tre smelteovner fra nyttår på grunn av lavere salg, dårligere priser og høye energikostnader. De om lag 210 ansatte er varslet om at mulige permitteringer skal drøftes, og permitteringer fra januar 2027 er sannsynlig.",
+  "kilder": [
+   "https://www.nrk.no/sorlandet/kan-bli-permittert-1.18071493",
+   "https://www.avisenagder.no/tillitsvalg-om-permitteringsfaren-vi-klamrer-oss-til-hapet-og-er-positive-til-the-bitter-end/s/80-99-21531"
+  ],
+  "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Eramet%20Norway",
+  "kommentar": "Antall berørte er ikke oppgitt; ca. 210 ansatte er varslet om drøfting av permitteringer."
+ },
+ {
+  "id": "godthaab-2026-10",
+  "selskap": "Godthaab Helse og Rehabilitering (Bærum)",
+  "sok": "GODTHAAB HELSE OG REHABILITERING STI",
+  "antall": 35,
+  "enhet": "ansatte",
+  "omfang": "Norge: rehabiliteringsinstitusjonen Godthaab i Bærum, 35 av rundt 60 ansatte",
+  "status": "gjennomført",
+  "dato": "2026-10-30",
+  "sektor": "Helse / omsorg",
+  "oppsummering": "Avtalen med Helse Sør-Øst om offentlig rehabilitering ved Godthaab gikk ut 31. oktober, etter at institusjonen ikke nådde opp i anbudsrunden. Godthaab fortsetter fra 2. november i privat regi med nye tilbud som rehabilitering, trygghetsopphold, gjestehus og konsultasjoner, men med langt færre ansatte. Bare 25 av rundt 60 ansatte får bli, og 35 mister jobben.",
+  "kilder": [
+   "https://www.budstikka.no/siste-pasient-skrives-ut-av-gamle-godthaab-skammelig/s/80-55-29331",
+   "https://www.godthaab.no/aktuelt"
+  ],
+  "orgnr": "871426902",
+  "brreg_navn": "GODTHAAB HELSE OG REHABILITERING STI",
+  "kommentar": "35 av rundt 60 ansatte mister jobben ifølge Budstikka; 25 fortsetter i den nye, private driften fra 2. november. Alle ansatte fikk oppsigelse allerede i januar 2026 med midlertidige kontrakter til 31.10.26.",
+  "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Godthaab%20Helse%20og%20Rehabilitering"
+ },
+ {
   "id": "am-nutrition-2026-10",
   "selskap": "AM Nutrition AS (Felleskjøpet Rogaland Agder, Stavanger)",
   "sok": "AM NUTRITION AS",
@@ -155,6 +375,26 @@
   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Gjensidige"
  },
  {
+  "id": "sticos-2026-10",
+  "selskap": "Sticos AS (Trondheim)",
+  "sok": "STICOS AS",
+  "antall": null,
+  "enhet": "ansatte",
+  "omfang": "Norge (Trondheim); 10 % av de ansatte, selskapet har ca. 158 ansatte",
+  "status": "varslet",
+  "dato": "2026-10-28",
+  "sektor": "Teknologi / programvare",
+  "oppsummering": "Trondheimsselskapet Sticos, som lager fagsystemer for regnskap, lønn og personal og eies av Visma, skal redusere bemanningen med rundt 10 prosent. Toppsjefen knytter grepet blant annet til kunstig intelligens og sier organisasjonen ble bygget for en annen tid. Ifølge omtalen tilbys ansatte frivillige sluttpakker.",
+  "kilder": [
+   "https://www.mn24.no/nyheter/n/GrW9o9/troendersk-teknologiselskap-skal-nedbemanne-10-prosent-av-de-ansatte",
+   "https://www.mn24.no/meninger/n/d7Ag1j/kunstig-intelligens-ekte-nedbemanning-eller"
+  ],
+  "orgnr": "934228391",
+  "brreg_navn": "STICOS AS",
+  "kommentar": "Oppgitt som 10 % av de ansatte; eksakt antall er ikke oppgitt (ca. 16 av ca. 158 ansatte ifølge Brreg), derfor ikke tallfestet.",
+  "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Sticos"
+ },
+ {
   "id": "mesta-bane-2026-09",
   "selskap": "Mesta AS (Mesta Bane og betongavdelingen)",
   "sok": "MESTA AS",
@@ -235,6 +475,24 @@
   "brreg_navn": "DANSKE BANK A/S NUF",
   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Danske%20Bank",
   "kommentar": "106 stillinger totalt i konsernet, 6 av dem i Norge. Norgestallet er oppgitt av Danske Bank Norge til E24; pressemeldingen og NTB oppgir ikke fordeling per land."
+ },
+ {
+  "id": "veidekke-bane-2026-10",
+  "selskap": "Veidekke Bane (Veidekke ASA)",
+  "sok": "VEIDEKKE INDUSTRI AS",
+  "antall": null,
+  "enhet": "ansatte",
+  "omfang": "Veidekke Bane (jernbanefornyelse og -vedlikehold)",
+  "status": "permittering",
+  "dato": "2026-10-22",
+  "sektor": "Bygg og anlegg (jernbane)",
+  "oppsummering": "Veidekke Bane varsler permitteringer på grunn av mangel på oppdrag fra Bane Nor og lavere bevilgninger til jernbanefornyelse. Ifølge tillitsvalgt er om lag 10 prosent av de ansatte i Veidekke Bane permittert (Arbeidsmanden, 4. nov.).",
+  "kilder": [
+   "https://anlegg.bygg.no/jernbane-statsbudsjettet-veidekke/veidekke-bane-varsler-permitteringer-lover-kamp-pa-stortinget/2966295",
+   "https://www.frifagbevegelse.no/arbeidsmanden/krise-pa-jernbanen-250-permittert/2730118"
+  ],
+  "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Veidekke%20Bane",
+  "kommentar": "Antall ikke oppgitt; ca. 10 prosent av de ansatte er permittert ifølge tillitsvalgt. Ca. 250 ansatte hos jernbaneentreprenører samlet er permittert ifølge EBA (Arbeidsmanden)."
  },
  {
   "id": "roa-fotball-elite-2026-10",
@@ -461,6 +719,25 @@
   "brreg_navn": "INNOVASJON NORGE",
   "kommentar": "To runder: 100–110 årsverk i første runde (2026, frivillige sluttpakker, avsluttet i juni); ny runde på under eller rundt 20 medarbeidere varslet i oktober 2026, ikke endelig tallfestet og ikke regnet med i antallet.",
   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Innovasjon%20Norge"
+ },
+ {
+  "id": "rossignol-norge-2026-10",
+  "selskap": "Rossignol Norway AS",
+  "sok": "ROSSIGNOL NORWAY AS",
+  "antall": 7,
+  "enhet": "ansatte",
+  "omfang": "Norge (Oslo); hele det norske datterselskapet legges ned",
+  "status": "vedtatt",
+  "dato": "2026-10-08",
+  "sektor": "Handel / sportsutstyr",
+  "oppsummering": "Den franske Rossignol-gruppen legger ned sitt norske datterselskap, og de sju ansatte mister jobben. Salg, markedsføring, distribusjon og kundeservice for merkevarene Rossignol, Dynastar, Lange og Look i Norge overtas av distributøren Ashe, som blir eksklusiv distribusjonspartner i Norge, Sverige og Finland. Ashe sier de vil ansette to personer i Norge i første omgang.",
+  "kilder": [
+   "https://www.friflyt.no/skiutstyr/rossignol-norge-legges-ned"
+  ],
+  "orgnr": "817064302",
+  "brreg_navn": "ROSSIGNOL NORWAY AS",
+  "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Rossignol%20Norway%20AS",
+  "kommentar": "Hele det norske selskapet (7 ansatte) legges ned; distribusjonen overtas av Ashe."
  },
  {
   "id": "mm-follacell-2026-10",
@@ -1304,263 +1581,5 @@
   "brreg_navn": "AKER SOLUTIONS ASA",
   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Aker%20Solutions%20ASA",
   "kommentar": "Norge og internasjonalt; ca. 300 ved verftet i Verdal."
- },
- {
-  "id": "sticos-2026-10",
-  "selskap": "Sticos AS (Trondheim)",
-  "sok": "STICOS AS",
-  "antall": null,
-  "enhet": "ansatte",
-  "omfang": "Norge (Trondheim); 10 % av de ansatte, selskapet har ca. 158 ansatte",
-  "status": "varslet",
-  "dato": "2026-10-28",
-  "sektor": "Teknologi / programvare",
-  "oppsummering": "Trondheimsselskapet Sticos, som lager fagsystemer for regnskap, lønn og personal og eies av Visma, skal redusere bemanningen med rundt 10 prosent. Toppsjefen knytter grepet blant annet til kunstig intelligens og sier organisasjonen ble bygget for en annen tid. Ifølge omtalen tilbys ansatte frivillige sluttpakker.",
-  "kilder": [
-   "https://www.mn24.no/nyheter/n/GrW9o9/troendersk-teknologiselskap-skal-nedbemanne-10-prosent-av-de-ansatte",
-   "https://www.mn24.no/meninger/n/d7Ag1j/kunstig-intelligens-ekte-nedbemanning-eller"
-  ],
-  "orgnr": "934228391",
-  "brreg_navn": "STICOS AS",
-  "kommentar": "Oppgitt som 10 % av de ansatte; eksakt antall er ikke oppgitt (ca. 16 av ca. 158 ansatte ifølge Brreg), derfor ikke tallfestet.",
-  "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Sticos"
- },
- {
-  "id": "rossignol-norge-2026-10",
-  "selskap": "Rossignol Norway AS",
-  "sok": "ROSSIGNOL NORWAY AS",
-  "antall": 7,
-  "enhet": "ansatte",
-  "omfang": "Norge (Oslo); hele det norske datterselskapet legges ned",
-  "status": "vedtatt",
-  "dato": "2026-10-08",
-  "sektor": "Handel / sportsutstyr",
-  "oppsummering": "Den franske Rossignol-gruppen legger ned sitt norske datterselskap, og de sju ansatte mister jobben. Salg, markedsføring, distribusjon og kundeservice for merkevarene Rossignol, Dynastar, Lange og Look i Norge overtas av distributøren Ashe, som blir eksklusiv distribusjonspartner i Norge, Sverige og Finland. Ashe sier de vil ansette to personer i Norge i første omgang.",
-  "kilder": [
-   "https://www.friflyt.no/skiutstyr/rossignol-norge-legges-ned"
-  ],
-  "orgnr": "817064302",
-  "brreg_navn": "ROSSIGNOL NORWAY AS",
-  "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Rossignol%20Norway%20AS",
-  "kommentar": "Hele det norske selskapet (7 ansatte) legges ned; distribusjonen overtas av Ashe."
- },
- {
-  "id": "godthaab-2026-10",
-  "selskap": "Godthaab Helse og Rehabilitering (Bærum)",
-  "sok": "GODTHAAB HELSE OG REHABILITERING STI",
-  "antall": 35,
-  "enhet": "ansatte",
-  "omfang": "Norge: rehabiliteringsinstitusjonen Godthaab i Bærum, 35 av rundt 60 ansatte",
-  "status": "gjennomført",
-  "dato": "2026-10-30",
-  "sektor": "Helse / omsorg",
-  "oppsummering": "Avtalen med Helse Sør-Øst om offentlig rehabilitering ved Godthaab gikk ut 31. oktober, etter at institusjonen ikke nådde opp i anbudsrunden. Godthaab fortsetter fra 2. november i privat regi med nye tilbud som rehabilitering, trygghetsopphold, gjestehus og konsultasjoner, men med langt færre ansatte. Bare 25 av rundt 60 ansatte får bli, og 35 mister jobben.",
-  "kilder": [
-   "https://www.budstikka.no/siste-pasient-skrives-ut-av-gamle-godthaab-skammelig/s/80-55-29331",
-   "https://www.godthaab.no/aktuelt"
-  ],
-  "orgnr": "871426902",
-  "brreg_navn": "GODTHAAB HELSE OG REHABILITERING STI",
-  "kommentar": "35 av rundt 60 ansatte mister jobben ifølge Budstikka; 25 fortsetter i den nye, private driften fra 2. november. Alle ansatte fikk oppsigelse allerede i januar 2026 med midlertidige kontrakter til 31.10.26.",
-  "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Godthaab%20Helse%20og%20Rehabilitering"
- },
- {
-  "id": "coop-bergen-lager-2026-11",
-  "selskap": "Coop Norge SA (lageret på Lønningsflaten, Bergen)",
-  "sok": "COOP NORGE SA",
-  "antall": 40,
-  "enhet": "stillinger",
-  "omfang": "Norge: lageret i Ytrebygda/Lønningsflaten i Bergen (88 ansatte i dag)",
-  "status": "vedtatt",
-  "dato": "2026-11-02",
-  "sektor": "Handel / logistikk",
-  "oppsummering": "Coop har besluttet å legge ned lageret på Lønningsflaten i Bergen, der 88 personer jobber i dag. Coop bygger en ny terminal med langt færre ansatte, og nedleggelsen skal skje i 2029. De ansatte fikk beskjeden på et allmøte mandag; de ble varslet om mulig nedleggelse allerede høsten 2025.",
-  "kilder": [
-   "https://www.nrk.no/vestland/coop-legg-ned-lager-i-bergen-1.18071289",
-   "https://www.ba.no/coop-lageret-pa-lonningsflaten-legges-ned-40-45-arbeidsplasser-forsvinner/s/80-8-93096"
-  ],
-  "orgnr": "936560288",
-  "brreg_navn": "COOP NORGE SA",
-  "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Coop%20Norge",
-  "kommentar": "40–45 arbeidsplasser forsvinner ifølge Bergensavisen; nedleggelsen skjer i 2029 når ny terminal tas i bruk."
- },
- {
-  "id": "ranheim-paper-board-2026-11",
-  "selskap": "Ranheim Paper & Board AS (Trondheim)",
-  "sok": "RANHEIM PAPER & BOARD AS",
-  "antall": 20,
-  "enhet": "stillinger",
-  "omfang": "Norge: fabrikken på Ranheim i Trondheim",
-  "status": "varslet",
-  "dato": "2026-11-03",
-  "sektor": "Industri (treforedling)",
-  "oppsummering": "Papirfabrikken på Ranheim varsler at om lag 20 stillinger skal bort, hovedsakelig administrative, men også noen operative. Selskapet viser til lavere etterspørsel, høye energi- og drivstoffkostnader og valutaeffekter. Produksjonen i 2027 skal ligge på samme nivå som i 2026.",
-  "kilder": [
-   "https://www.mn24.no/nyheter/n/4Oyv6V/fabrikken-i-trondheim-hadde-rekordinntekter-i-fjor-men-naa-kuttes-20-stillinger",
-   "https://www.nidaros.no/nedbemanner-med-20-stillinger-krevende-ar/s/80-113-42827",
-   "https://woodworkscluster.no/2026/11/krevende-tider-ranheim-paper-board-nedbemanner/"
-  ],
-  "orgnr": "915725015",
-  "brreg_navn": "RANHEIM PAPER & BOARD AS",
-  "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Ranheim%20Paper%20%26%20Board",
-  "kommentar": "om lag 20 stillinger; etter kuttet vil bedriften ha i underkant av 210 ansatte ifølge Nidaros"
- },
- {
-  "id": "vergence-2026-11",
-  "selskap": "Vergence (konsernet, Oslo)",
-  "sok": "VERGENCE AS",
-  "antall": null,
-  "enhet": "ansatte",
-  "omfang": "Konsernet Vergence; omfang ikke bekreftet av selskapet",
-  "status": "varslet",
-  "dato": "2026-11-02",
-  "sektor": "Teknologi / programvare",
-  "oppsummering": "Vergence-konsernet orienterte de ansatte om en omstilling på et allmøte 2. november og tilbyr frivillige sluttpakker. Gründeren bekrefter at konsernet skal bli færre ansatte og begrunner det med at egne AI-systemer skal automatisere flere oppgaver.",
-  "kilder": [
-   "https://www.finansavisen.no/teknologi/2026/11/04/8393137/vergence-gruender-amir-f.-habhab-massive-jobbkutt-etter-storstilt-feiring"
-  ],
-  "orgnr": "922540535",
-  "brreg_navn": "VERGENCE AS",
-  "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Vergence",
-  "kommentar": "Selskapet har ikke oppgitt antall. Finansavisen erfarer at planen er å gå fra nærmere 200 ansatte (på det meste i år) til rundt 50 i konsernet; dette er ikke bekreftet av selskapet."
- },
- {
-  "id": "kompella-kvaefjord-2026-11",
-  "selskap": "Kompella Mottaksdrift AS (Kvæfjord asylmottak)",
-  "sok": "KOMPELLA MOTTAKSDRIFT AS",
-  "antall": 15,
-  "enhet": "ansatte",
-  "omfang": "Norge: Kvæfjord asylmottak (Borkenes); hele mottaksdriften avvikles",
-  "status": "vedtatt",
-  "dato": "2026-11-02",
-  "sektor": "Offentlig virksomhet / asylmottak",
-  "oppsummering": "UDI har besluttet å legge ned asylmottaket i Kvæfjord, som drives av det kommunale selskapet Kompella Mottaksdrift AS. De ansatte fikk beskjed mandag 2. november om at arbeidsplassen forsvinner. Mottaket stenger ved utgangen av februar 2027. UDI begrunner nedleggelsen med at det har kommet færre asylsøkere til Norge enn tidligere forventet, og at mottakskapasiteten derfor må tilpasses det faktiske behovet. Rundt 150 personer bor på mottaket nå, og de skal flyttes til andre mottak.",
-  "kilder": [
-   "https://www.nrk.no/tromsogfinnmark/udi-har-besluttet-at-a-legge-ned-asylmottaket-i-kvaefjord-1.18073246",
-   "https://www.iharstad.no/holdt-beskjeden-for-seg-selv-gjennom-helga-15-mister-jobben/s/80-126-25907"
-  ],
-  "kommentar": "15 ansatte mister jobben ifølge iHarstad og NRK. Brreg oppgir 18 ansatte i Kompella Mottaksdrift AS. Mottaket stenger ved utgangen av februar 2027."
- },
- {
-  "id": "coop-tromso-lager-2026-11",
-  "selskap": "Coop Norge SA (lageret i Tromsø)",
-  "sok": "COOP NORGE SA",
-  "antall": 30,
-  "enhet": "årsverk",
-  "omfang": "Norge: lageret i Tromsø (66 årsverk i dag)",
-  "status": "varslet",
-  "dato": "2026-11-03",
-  "sektor": "Handel / logistikk",
-  "oppsummering": "Coop Norge varsler nedbemanning ved lageret i Tromsø, som i dag har 66 årsverk. Lageret skal flyttes og skaleres ned når utvidelsen av CLog på Gardermoen står klart i 2029; nytt lager skal bygges utenfor Tromsø. Kommer dagen etter beskjeden om nedleggelse av lageret i Bergen.",
-  "kilder": [
-   "https://handelswatch.no/nyheter/dagligvarer/article19795042.ece",
-   "https://www.nordlys.no/kutter-opptil-30-arsverk-i-tromso/s/80-34-36106",
-   "https://www.itromso.no/nyheter/n/KrolJG/flytter-2030-personer-mister-jobben"
-  ],
-  "orgnr": "936560288",
-  "brreg_navn": "COOP NORGE SA",
-  "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Coop%20Norge%20SA",
-  "kommentar": "20–30 årsverk ifølge Handelswatch/Nordlys; opptil 30 oppgitt som antall."
- },
- {
-  "id": "eramet-kvinesdal-2026-11",
-  "selskap": "Eramet Norway (Kvinesdal)",
-  "sok": "ERAMET NORWAY AS",
-  "antall": null,
-  "enhet": "ansatte",
-  "omfang": "Smelteverket i Kvinesdal (om lag 210 ansatte)",
-  "status": "permittering",
-  "dato": "2026-11-02",
-  "sektor": "Industri / smelteverk",
-  "oppsummering": "Ledelsen ved Eramet i Kvinesdal anbefaler å stanse én av tre smelteovner fra nyttår på grunn av lavere salg, dårligere priser og høye energikostnader. De om lag 210 ansatte er varslet om at mulige permitteringer skal drøftes, og permitteringer fra januar 2027 er sannsynlig.",
-  "kilder": [
-   "https://www.nrk.no/sorlandet/kan-bli-permittert-1.18071493",
-   "https://www.avisenagder.no/tillitsvalg-om-permitteringsfaren-vi-klamrer-oss-til-hapet-og-er-positive-til-the-bitter-end/s/80-99-21531"
-  ],
-  "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Eramet%20Norway",
-  "kommentar": "Antall berørte er ikke oppgitt; ca. 210 ansatte er varslet om drøfting av permitteringer."
- },
- {
-  "id": "veidekke-bane-2026-10",
-  "selskap": "Veidekke Bane (Veidekke ASA)",
-  "sok": "VEIDEKKE INDUSTRI AS",
-  "antall": null,
-  "enhet": "ansatte",
-  "omfang": "Veidekke Bane (jernbanefornyelse og -vedlikehold)",
-  "status": "permittering",
-  "dato": "2026-10-22",
-  "sektor": "Bygg og anlegg (jernbane)",
-  "oppsummering": "Veidekke Bane varsler permitteringer på grunn av mangel på oppdrag fra Bane Nor og lavere bevilgninger til jernbanefornyelse. Ifølge tillitsvalgt er om lag 10 prosent av de ansatte i Veidekke Bane permittert (Arbeidsmanden, 4. nov.).",
-  "kilder": [
-   "https://anlegg.bygg.no/jernbane-statsbudsjettet-veidekke/veidekke-bane-varsler-permitteringer-lover-kamp-pa-stortinget/2966295",
-   "https://www.frifagbevegelse.no/arbeidsmanden/krise-pa-jernbanen-250-permittert/2730118"
-  ],
-  "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Veidekke%20Bane",
-  "kommentar": "Antall ikke oppgitt; ca. 10 prosent av de ansatte er permittert ifølge tillitsvalgt. Ca. 250 ansatte hos jernbaneentreprenører samlet er permittert ifølge EBA (Arbeidsmanden)."
- },
- {
-  "id": "skuda-2026-11",
-  "selskap": "Skuespiller- og danseralliansen (SKUDA)",
-  "sok": "SKUESPILLER- OG DANSERALLIANSEN",
-  "antall": 20,
-  "enhet": "ansatte",
-  "omfang": "Norge; 20 av rundt 100 ansatte skuespillere og dansere",
-  "status": "varslet",
-  "dato": "2026-11-06",
-  "sektor": "Kultur / scenekunst",
-  "oppsummering": "SKUDA har varslet masseoppsigelse og startet drøftinger med de tillitsvalgte om oppsigelse av 20 av rundt 100 ansatte kunstnere. Bakgrunnen er regjeringens forslag til statsbudsjett for 2027, som ligger om lag 5,5 millioner kroner under det SKUDA trenger for å videreføre dagens stab. Oppsigelsene kan unngås dersom budsjettforhandlingene sikrer videre drift på dagens nivå.",
-  "kilder": [
-   "https://skuda.no/nyheter?catid=17&id=370%3Askuespiller-og-danseralliansen-har-meldt-inn-masseoppsigelser&view=article",
-   "https://www.dagsavisen.no/debatt/regjeringen-sager-over-greinen-skuespillere-og-dansere-sitter-pa/10624671"
-  ],
-  "kommentar": "Betinget av statsbudsjettet for 2027; SKUDA skriver at det kan komme ytterligere oppsigelser neste år. Kildene er selskapets egen melding og et debattinnlegg fra fagforeningene."
- },
- {
-  "id": "antirasistisk-senter-2026-11",
-  "selskap": "Antirasistisk Senter (Oslo)",
-  "sok": "ANTIRASISTISK SENTER",
-  "antall": 5,
-  "enhet": "årsverk",
-  "omfang": "Norge; minst 5 av 17 årsverk",
-  "status": "varslet",
-  "dato": "2026-11-09",
-  "sektor": "Frivillig sektor / organisasjon",
-  "oppsummering": "Antirasistisk Senter varsler at minst fem av dagens 17 årsverk kan forsvinne dersom regjeringens forslag om å kutte tre millioner kroner i støtten blir stående. Organisasjonen må også redusere aktiviteter og tilbud. Kuttforslaget er ikke vedtatt og kan endres i budsjettforhandlingene.",
-  "kilder": [
-   "https://inyheter.no/09/11/2026/regjeringen-vil-kutte-stotten-til-antirasistisk-senter-varsler-oppsigelser/"
-  ],
-  "kommentar": "Minst fem årsverk, betinget av statsbudsjettet for 2027 (iNyheter, med henvisning til Dagsavisen)."
- },
- {
-  "id": "livsglede-for-eldre-2026-11",
-  "selskap": "Livsglede for Eldre (Kristiansand)",
-  "sok": null,
-  "antall": 11,
-  "enhet": "ansatte",
-  "omfang": "Kristiansand; organisasjonen trues med nedleggelse",
-  "status": "varslet",
-  "dato": "2026-11-06",
-  "sektor": "Omsorg / frivillig sektor",
-  "oppsummering": "Livsglede for Eldre i Kristiansand, etablert for 21 år siden, trues med nedleggelse, og 11 ansatte kan miste jobben, ifølge Fædrelandsvennen.",
-  "kilder": [
-   "https://www.fvn.no/nyheter/lokalt/n/d7yKw1/kan-bli-lagt-ned-vi-trengs-fortsatt"
-  ],
-  "kommentar": "Kilden er bak betalingsmur; opplysningene er hentet fra åpen ingress/forhåndsvisning. Årsak og tidspunkt er ikke verifisert."
- },
- {
-  "id": "finnmarkssykehuset-kirkenes-rehab-2026-11",
-  "selskap": "Finnmarkssykehuset (Kirkenes sykehus)",
-  "sok": null,
-  "antall": 14,
-  "enhet": "stillinger",
-  "omfang": "Rehabiliteringsavdelingen ved Kirkenes sykehus; del av omstilling for å spare over 40 mill. kr i 2026",
-  "status": "varslet",
-  "dato": "2026-11-04",
-  "sektor": "Helse",
-  "oppsummering": "Finnmarkssykehuset planlegger å kutte 14 stillinger ved rehabiliteringsavdelingen ved Kirkenes sykehus. Sør-Varanger kommune er bekymret, mens sykehuset mener tilbudet ikke svekkes.",
-  "kilder": [
-   "https://www.sva.no/kommunen-frykter-sykehuskutt-klinikksjefen-hevder-tilbudet-ikke-skal-reduseres/s/80-145-13457"
-  ],
-  "kommentar": "Planlagt kutt, ikke endelig vedtatt. Tidligere i 2026 ble også åtte sengeplasser kuttet ved Kirkenes sykehus (NRK)."
  }
 ]
