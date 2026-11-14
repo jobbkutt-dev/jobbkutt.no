@@ -1,6 +1,6 @@
 {
- "oppdatert": "2026-11-13T11:52",
- "filter": "antallAnsatte >= 10, dato >= 2026-05-17",
+ "oppdatert": "2026-11-14T12:06",
+ "filter": "antallAnsatte >= 10, dato >= 2026-05-18",
  "enheter": [
   {
    "orgnr": "914213088",
@@ -374,8 +374,7 @@
    "bransje": "Oppføring av bygninger",
    "naeringskode": "41.000",
    "kommune": "TRONDHEIM",
-   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/983830196",
-   "kommentar": "Nettavisen, som viser til Nidaros, skriver at om lag 130 mister jobben: https://www.nettavisen.no/okonomi/entreprenor-konkurs-130-mister-jobben/s/80-95-212465"
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/983830196"
   },
   {
    "orgnr": "929208390",
