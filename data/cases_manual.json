@@ -438,21 +438,23 @@
   "id": "isfjord-norway-2026-10",
   "selskap": "Isfjord Norway AS (Orkanger)",
   "sok": "ISFJORD NORWAY AS",
-  "antall": 93,
+  "antall": 300,
   "enhet": "ansatte",
-  "omfang": "Norge: fiskeforedlingsanlegget på Orkanger (Orkland); 93 ansatte samt alle innleide",
-  "status": "permittering",
-  "dato": "2026-10-24",
+  "omfang": "Norge: fiskeforedlingsanlegget på Orkanger (Orkland); rundt 300 ansatte (oppbud)",
+  "status": "vedtatt",
+  "dato": "2026-11-13",
   "sektor": "Sjømat / fiskeforedling",
-  "oppsummering": "Fiskeforedlingsbedriften Isfjord Norway på Orkanger har sendt permitteringsvarsel til 93 ansatte og til alle innleide, som utgjør om lag tre fjerdedeler av bemanningen i produksjonen. Bakgrunnen er en krevende økonomisk situasjon for selskapet. Bedriften permitterte også mellom 30 og 50 ansatte i starten av 2026 på grunn av høye råstoffpriser og svake marginer.",
+  "oppsummering": "Fiskeforedlingsbedriften Isfjord Norway på Orkanger har meldt oppbud etter langvarige økonomiske problemer, og rundt 300 ansatte mister jobben. Beskjeden kom på et allmøte torsdag 12. november. Bedriften hadde tidligere sendt permitteringsvarsel til 93 ansatte (24.10.26) og permittert 30–50 i starten av 2026. Selskapet håper fortsatt å finne nye eiere som kan videreføre deler av driften.",
   "kilder": [
    "https://www.avisa-st.no/nyheter/n/Jr93eJ/93-ansatte-og-alle-innleide-har-faatt-permitteringsvarsel",
-   "https://ilaks.no/det-er-ingen-hemmelighet-at-det-er-en-vanskelig-situasjon/"
+   "https://ilaks.no/det-er-ingen-hemmelighet-at-det-er-en-vanskelig-situasjon/",
+   "https://www.kyst.no/foredling-isfjord-norway-konkurs/300-mister-jobben-veldig-vondt/2210634",
+   "https://www.nesnanett.com/index.cfm?action=main.article&id=69843"
   ],
   "orgnr": "981647459",
   "brreg_navn": "ISFJORD NORWAY AS",
   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Isfjord%20Norway",
-  "kommentar": "Permitteringsvarsel til 93 ansatte; i tillegg får alle innleide varsel (antall ikke oppgitt). Om lag 75 prosent av bemanningen i produksjonen. Tallene er hentet fra ingress/tittel hos Avisa Sør-Trøndelag (betalingsmur)."
+  "kommentar": "Rundt 300 ansatte mister jobben ved oppbud (Kyst.no/FriFagbevegelse 13.11.26; Adresseavisen). Tidligere permitteringsvarsel til 93 ansatte (24.10.26) inngår i dette. Det er håp om nye eiere som kan videreføre deler av driften."
  },
  {
   "id": "danske-bank-2026-10",
