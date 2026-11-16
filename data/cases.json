@@ -1,6 +1,67 @@
 {
- "oppdatert": "2026-11-16T08:53",
+ "oppdatert": "2026-11-16T14:52",
  "saker": [
+  {
+   "id": "strix-2026-11",
+   "selskap": "Strix (Fremantle)",
+   "sok": null,
+   "antall": 10,
+   "enhet": "årsverk",
+   "omfang": "Reduksjon av fast ansatte stab med anslagsvis 10 årsverk (av 67 fast ansatte)",
+   "status": "varslet",
+   "dato": "2026-11-16",
+   "sektor": "Media",
+   "oppsummering": "Produksjonsselskapet Strix, som blant annet lager TV 2-programmer som «Farmen», er i en prosess for å redusere den faste staben med rundt ti årsverk. Selskapet vil tilpasse faste kostnader til forventet produksjonsvolum og håper å løse det gjennom frivillige fratredelsesordninger.",
+   "kilder": [
+    "https://www.kampanje.com/premium/farmen-produsent-ma-nedbemanne/1042244"
+   ],
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Strix%20Television%20AS",
+   "kommentar": "Anslag oppgitt av daglig leder; selskapet håper på frivillige løsninger.",
+   "orgnr": null,
+   "brreg_navn": null
+  },
+  {
+   "id": "stella-polaris-2026-11",
+   "selskap": "Stella Polaris AS (Kårvikhamn)",
+   "sok": "STELLA POLARIS",
+   "antall": 17,
+   "enhet": "ansatte",
+   "omfang": "Kårvikhamn (Kvæfjord): 17 ansatte permittert i høst på grunn av råstoffmangel; produksjonen er redusert med 20–30 prosent i 2026",
+   "status": "permittering",
+   "dato": "2026-11-15",
+   "sektor": "Fiskeri",
+   "oppsummering": "Rekefabrikken Stella Polaris AS har permittert 17 ansatte på grunn av mangel på rekerråstoff. Selskapet har investert 270 millioner kroner for å øke kapasiteten med 30 prosent, men produksjonen er i stedet redusert med 20–30 prosent i 2026. Daglig leder Arnfinn Semmingsen omtaler situasjonen som svært dramatisk.",
+   "kilder": [
+    "https://www.nordlys.no/satset-stort-na-er-17-ansatte-permitterte/s/80-34-42183",
+    "https://www.folkebladet.no/nyheter/n/gklxpL/har-permittert-17-aarsverk-ved-hjoernesteinsbedriften-svaert-dramatisk"
+   ],
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Stella%20Polaris%20AS",
+   "kommentar": "Folkebladet omtaler det som 17 årsverk i ingressen/tittelen og 17 ansatte i bildeteksten; Nordlys skriver 17 ansatte permittert.",
+   "orgnr": "920044735",
+   "brreg_navn": "STELLA POLARIS AS"
+  },
+  {
+   "id": "isfjord-norway-2026-10",
+   "selskap": "Isfjord Norway AS (Orkanger)",
+   "sok": "ISFJORD NORWAY AS",
+   "antall": 300,
+   "enhet": "ansatte",
+   "omfang": "Norge: fiskeforedlingsanlegget på Orkanger (Orkland); rundt 300 ansatte (oppbud)",
+   "status": "vedtatt",
+   "dato": "2026-11-13",
+   "sektor": "Sjømat / fiskeforedling",
+   "oppsummering": "Fiskeforedlingsbedriften Isfjord Norway på Orkanger har meldt oppbud etter langvarige økonomiske problemer, og rundt 300 ansatte mister jobben. Beskjeden kom på et allmøte torsdag 12. november. Bedriften hadde tidligere sendt permitteringsvarsel til 93 ansatte (24.10.26) og permittert 30–50 i starten av 2026. Selskapet håper fortsatt å finne nye eiere som kan videreføre deler av driften.",
+   "kilder": [
+    "https://www.avisa-st.no/nyheter/n/Jr93eJ/93-ansatte-og-alle-innleide-har-faatt-permitteringsvarsel",
+    "https://ilaks.no/det-er-ingen-hemmelighet-at-det-er-en-vanskelig-situasjon/",
+    "https://www.kyst.no/foredling-isfjord-norway-konkurs/300-mister-jobben-veldig-vondt/2210634",
+    "https://www.nesnanett.com/index.cfm?action=main.article&id=69843"
+   ],
+   "orgnr": "981647459",
+   "brreg_navn": "ISFJORD NORWAY AS",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Isfjord%20Norway%20AS",
+   "kommentar": "Rundt 300 ansatte mister jobben ved oppbud (Kyst.no/FriFagbevegelse 13.11.26; Adresseavisen). Tidligere permitteringsvarsel til 93 ansatte (24.10.26) inngår i dette. Det er håp om nye eiere som kan videreføre deler av driften."
+  },
   {
    "id": "sus-stavanger-2026-11",
    "selskap": "Stavanger universitetssjukehus (Helse Stavanger HF)",
@@ -35,7 +96,7 @@
    "orgnr": "996330990",
    "brreg_navn": "BAKERMESTER KLAUSEN AS",
    "kommentar": "Saken er bak betalingsmur; overskrift og ingress bekreftet via søkeresultat. Selskapet har rundt 90 ansatte ifølge egen nettside.",
-   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Bakermester%20Klausen"
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Bakermester%20Klausen%20AS"
   },
   {
    "id": "antirasistisk-senter-2026-11",
@@ -448,28 +509,6 @@
    "brreg_navn": "VEGLAGET AUGESTAD - GRIND - RYSSING - RAMBASETE SA",
    "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=RamBase",
    "kommentar": "Ikke tallfestet av selskapet: «cirka en tredjedel av våre ansatte». Tips til Haugesunds Avis om 50 årsverk er ikke bekreftet og er ikke regnet med i antallet."
-  },
-  {
-   "id": "isfjord-norway-2026-10",
-   "selskap": "Isfjord Norway AS (Orkanger)",
-   "sok": "ISFJORD NORWAY AS",
-   "antall": 300,
-   "enhet": "ansatte",
-   "omfang": "Norge: fiskeforedlingsanlegget på Orkanger (Orkland); rundt 300 ansatte (oppbud)",
-   "status": "vedtatt",
-   "dato": "2026-11-13",
-   "sektor": "Sjømat / fiskeforedling",
-   "oppsummering": "Fiskeforedlingsbedriften Isfjord Norway på Orkanger har meldt oppbud etter langvarige økonomiske problemer, og rundt 300 ansatte mister jobben. Beskjeden kom på et allmøte torsdag 12. november. Bedriften hadde tidligere sendt permitteringsvarsel til 93 ansatte (24.10.26) og permittert 30–50 i starten av 2026. Selskapet håper fortsatt å finne nye eiere som kan videreføre deler av driften.",
-   "kilder": [
-    "https://www.avisa-st.no/nyheter/n/Jr93eJ/93-ansatte-og-alle-innleide-har-faatt-permitteringsvarsel",
-    "https://ilaks.no/det-er-ingen-hemmelighet-at-det-er-en-vanskelig-situasjon/",
-    "https://www.kyst.no/foredling-isfjord-norway-konkurs/300-mister-jobben-veldig-vondt/2210634",
-    "https://www.nesnanett.com/index.cfm?action=main.article&id=69843"
-   ],
-   "orgnr": "981647459",
-   "brreg_navn": "ISFJORD NORWAY AS",
-   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Isfjord%20Norway%20AS",
-   "kommentar": "Rundt 300 ansatte mister jobben ved oppbud (Kyst.no/FriFagbevegelse 13.11.26; Adresseavisen). Tidligere permitteringsvarsel til 93 ansatte (24.10.26) inngår i dette. Det er håp om nye eiere som kan videreføre deler av driften."
   },
   {
    "id": "danske-bank-2026-10",
@@ -1600,24 +1639,6 @@
    "brreg_navn": "AKER SOLUTIONS ASA",
    "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Aker%20Solutions%20ASA",
    "kommentar": "Norge og internasjonalt; ca. 300 ved verftet i Verdal."
-  },
-  {
-   "id": "stella-polaris-2026-11",
-   "selskap": "Stella Polaris AS (Kårvikhamn)",
-   "sok": "STELLA POLARIS",
-   "antall": 17,
-   "enhet": "ansatte",
-   "omfang": "Kårvikhamn (Kvæfjord): 17 ansatte permittert i høst på grunn av råstoffmangel; produksjonen er redusert med 20–30 prosent i 2026",
-   "status": "permittering",
-   "dato": "2026-11-15",
-   "sektor": "Fiskeri",
-   "oppsummering": "Rekefabrikken Stella Polaris AS har permittert 17 ansatte på grunn av mangel på rekerråstoff. Selskapet har investert 270 millioner kroner for å øke kapasiteten med 30 prosent, men produksjonen er i stedet redusert med 20–30 prosent i 2026. Daglig leder Arnfinn Semmingsen omtaler situasjonen som svært dramatisk.",
-   "kilder": [
-    "https://www.nordlys.no/satset-stort-na-er-17-ansatte-permitterte/s/80-34-42183",
-    "https://www.folkebladet.no/nyheter/n/gklxpL/har-permittert-17-aarsverk-ved-hjoernesteinsbedriften-svaert-dramatisk"
-   ],
-   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Stella%20Polaris",
-   "kommentar": "Folkebladet omtaler det som 17 årsverk i ingressen/tittelen og 17 ansatte i bildeteksten; Nordlys skriver 17 ansatte permittert."
   }
  ]
 }
