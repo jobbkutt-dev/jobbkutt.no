@@ -1,5 +1,5 @@
 {
- "oppdatert": "2026-11-15T11:50",
+ "oppdatert": "2026-11-16T08:53",
  "saker": [
   {
    "id": "sus-stavanger-2026-11",
@@ -1600,6 +1600,24 @@
    "brreg_navn": "AKER SOLUTIONS ASA",
    "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Aker%20Solutions%20ASA",
    "kommentar": "Norge og internasjonalt; ca. 300 ved verftet i Verdal."
+  },
+  {
+   "id": "stella-polaris-2026-11",
+   "selskap": "Stella Polaris AS (Kårvikhamn)",
+   "sok": "STELLA POLARIS",
+   "antall": 17,
+   "enhet": "ansatte",
+   "omfang": "Kårvikhamn (Kvæfjord): 17 ansatte permittert i høst på grunn av råstoffmangel; produksjonen er redusert med 20–30 prosent i 2026",
+   "status": "permittering",
+   "dato": "2026-11-15",
+   "sektor": "Fiskeri",
+   "oppsummering": "Rekefabrikken Stella Polaris AS har permittert 17 ansatte på grunn av mangel på rekerråstoff. Selskapet har investert 270 millioner kroner for å øke kapasiteten med 30 prosent, men produksjonen er i stedet redusert med 20–30 prosent i 2026. Daglig leder Arnfinn Semmingsen omtaler situasjonen som svært dramatisk.",
+   "kilder": [
+    "https://www.nordlys.no/satset-stort-na-er-17-ansatte-permitterte/s/80-34-42183",
+    "https://www.folkebladet.no/nyheter/n/gklxpL/har-permittert-17-aarsverk-ved-hjoernesteinsbedriften-svaert-dramatisk"
+   ],
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Stella%20Polaris",
+   "kommentar": "Folkebladet omtaler det som 17 årsverk i ingressen/tittelen og 17 ansatte i bildeteksten; Nordlys skriver 17 ansatte permittert."
   }
  ]
 }
