@@ -1,40 +1,26 @@
 {
- "oppdatert": "2026-11-12T12:00",
+ "oppdatert": "2026-11-17T08:52",
  "kandidater": [
   {
-   "kilde": "VG",
-   "tittel": "8000 pasientreiser rammes når SAS kutter ruter i nord",
-   "ingress": "Helse nord advarer om alvorlige konsekvenser for pasienttransport når SAS legger ned direkterutene…",
-   "url": "https://www.vg.no/nyheter/i/Ebo3ml/8000-pasientreiser-rammes-naar-sas-kutter-ruter-i-nord?utm_medium=rss",
-   "dato": "2026-11-11"
-  },
-  {
-   "kilde": "E24",
-   "tittel": "Legger ned rute",
-   "ingress": "Kan fortsatt fly via Oslo, sier selskapet. Det kan bli en fryktelig lang reise.",
-   "url": "https://e24.no/naeringsliv/i/vkmMpm/legger-ned-rute?utm_medium=rss",
-   "dato": "2026-11-10"
+   "kilde": "NRK",
+   "tittel": "Betaler nær en halv milliard i renter: – Hvem vil være om bord på et synkende skip?",
+   "ingress": "Det kriserammede sykehuset i Stavanger må betale 485 millioner kroner i renter til staten hvert år. Forslag om kutt i bemanning ryster nå de ansatte.",
+   "url": "https://www.nrk.no/rogaland/okonomisk-krise-ved-sus_-betaler-naer-en-halv-milliard-i-renter-i-aret-1.18080123",
+   "dato": "2026-11-16"
   },
   {
    "kilde": "NRK",
-   "tittel": "Ledelsen ved SUS vil kutte 250 årsverk",
-   "ingress": "Ledelsen ved Stavanger universitetssjukehus vil kutte minst 250 årsverk for å berge økonomien i 2027. Sykepleierforbundet kaller kuttforslaget uforståelig.",
-   "url": "https://www.nrk.no/rogaland/ledelsen-anbefaler-styret-a-kutte-250-arsverk-ved-stavanger-universitetssjukehus-1.18079540",
-   "dato": "2026-11-11"
+   "tittel": "Alvorlig syke rammes av SAS-kutt: – En ekstrabelastning de absolutt ikke trenger",
+   "ingress": "SAS spår krevende måneder, og kutter direkteruta mellom Trondheim, Bodø og Tromsø. Både Kreftforeningen og Helse Nord ber politikerne om hjelp.",
+   "url": "https://www.nrk.no/nordland/helse-nord-og-kreftforeningen-er-svaert-bekymret-nar-sas-kutter-direkteruta-mellom-bodo-og-tromso-1.18080290",
+   "dato": "2026-11-12"
   },
   {
-   "kilde": "NRK",
-   "tittel": "SAS kutter i nord: – 8000 pasientreiser blir rammet",
-   "ingress": "Fra desember forsvinner SAS-direkterutene mellom Trondheim og Nord-Norge. Helse- og omsorgsdepartementet var ikke kjent med rutekuttene.",
-   "url": "https://www.nrk.no/nordland/sas-kutter-i-nord_-_-8000-pasientreiser-blir-rammet-1.18079041",
-   "dato": "2026-11-11"
-  },
-  {
-   "kilde": "NRK",
-   "tittel": "Sykehus må kutte: Punger ut så topp­­sjefene kan pendle til jobb",
-   "ingress": "Mens sykehuset i Finnmark kutter stillinger og sengeplasser for å spare penger, får toppsjefene gratis flypendling, bolig og hotellopphold.",
-   "url": "https://www.nrk.no/tromsogfinnmark/finnmarkssykehuset-kutter-i-pasienttilbud-_-betalte-over-1_5-millioner-for-toppledernes-pendling-1.18033459",
-   "dato": "2026-11-11"
+   "kilde": "NRK Norge",
+   "tittel": "Protest mot postkutt: – Uten Posten så dør Norge",
+   "ingress": "Postbud i Tromsø demonstrerte mandag mot kutt som kan koste tusenvis jobben. De håper en ny tjeneste kan hindre masseoppsigelser.",
+   "url": "https://www.nrk.no/tromsogfinnmark/postbud-i-tromso-protesterer-mot-kraftige-kutt-1.18082976",
+   "dato": "2026-11-16"
   }
  ]
 }

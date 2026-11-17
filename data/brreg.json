@@ -1,7 +1,40 @@
 {
- "oppdatert": "2026-11-16T14:51",
- "filter": "antallAnsatte >= 10, dato >= 2026-05-20",
+ "oppdatert": "2026-11-17T08:52",
+ "filter": "antallAnsatte >= 10, dato >= 2026-05-21",
  "enheter": [
+  {
+   "orgnr": "981647459",
+   "navn": "ISFJORD NORWAY AS",
+   "type": "konkurs",
+   "dato": "2026-11-16",
+   "antallAnsatte": 247,
+   "bransje": "Frysing og videre bearbeiding av fisk, skalldyr og bløtdyr",
+   "naeringskode": "10.203",
+   "kommune": "ORKLAND",
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/981647459"
+  },
+  {
+   "orgnr": "914788269",
+   "navn": "LILLEHAMMER PIZZERIA OG RISTAURANTE AS",
+   "type": "konkurs",
+   "dato": "2026-11-16",
+   "antallAnsatte": 18,
+   "bransje": "Drift av restauranter",
+   "naeringskode": "56.110",
+   "kommune": "LILLEHAMMER",
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/914788269"
+  },
+  {
+   "orgnr": "917899118",
+   "navn": "TEAM ARMERING AS",
+   "type": "konkurs",
+   "dato": "2026-11-16",
+   "antallAnsatte": 10,
+   "bransje": "Annen spesialisert bygge- og anleggsvirksomhet ikke nevnt annet sted",
+   "naeringskode": "43.990",
+   "kommune": "BAMBLE",
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/917899118"
+  },
   {
    "orgnr": "932919575",
    "navn": "ELITE MOTORS AS",
