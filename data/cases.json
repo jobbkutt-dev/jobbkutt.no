@@ -1,5 +1,5 @@
 {
- "oppdatert": "2026-11-16T14:52",
+ "oppdatert": "2026-11-18T08:47",
  "saker": [
   {
    "id": "strix-2026-11",
@@ -291,6 +291,27 @@
    "kommentar": "Antall berørte er ikke oppgitt; ca. 210 ansatte er varslet om drøfting av permitteringer.",
    "orgnr": "980518647",
    "brreg_navn": "ERAMET NORWAY AS"
+  },
+  {
+   "id": "moller-bil-ganddal-2026-11",
+   "selskap": "Møller Bil Ganddal (Sandnes)",
+   "sok": null,
+   "antall": 46,
+   "enhet": "ansatte",
+   "omfang": "Bilforhandleren på Ganddal legges ned etter over 50 år, og virksomheten samles på Forus; 46 ansatte berøres",
+   "status": "vedtatt",
+   "dato": "2026-11-02",
+   "sektor": "Varehandel / bil",
+   "oppsummering": "Møller Bil stenger forhandleravdelingen på Ganddal i Sandnes etter over 50 års drift og samler virksomheten på Forus. Daglig leder peker på krevende tider i bilbransjen. Skadeavdelingen på Ganddal fortsetter, og de 46 ansatte får individuelle samtaler om muligheter i de gjenværende lokasjonene.",
+   "kilder": [
+    "https://www.sandnesposten.no/stenger-pa-ganddal-etter-over-50-ar-krevende-tider-i-bransjen/s/80-105-4855",
+    "https://www.sandnesposten.no/ikke-alle-ansatte-blir-med-videre-det-er-det-verste-av-to-vondter/s/80-105-5392",
+    "https://www.aftenbladet.no/lokalt/i/BMgBwl/toeff-beskjed-vaert-en-forferdelig-dag"
+   ],
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=M%C3%B8ller%20Bil%20Ganddal",
+   "kommentar": "46 ansatte berøres; ikke avklart hvor mange som mister jobben, siden noen kan få plass ved gjenværende lokasjoner. Sakene er bak betalingsmur; detaljer bekreftet via overskrifter/ingress og søkeresultat.",
+   "orgnr": null,
+   "brreg_navn": null
   },
   {
    "id": "godthaab-2026-10",

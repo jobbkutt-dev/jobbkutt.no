@@ -1,5 +1,42 @@
 [
  {
+  "id": "strix-2026-11",
+  "selskap": "Strix (Fremantle)",
+  "sok": null,
+  "antall": 10,
+  "enhet": "årsverk",
+  "omfang": "Reduksjon av fast ansatte stab med anslagsvis 10 årsverk (av 67 fast ansatte)",
+  "status": "varslet",
+  "dato": "2026-11-16",
+  "sektor": "Media",
+  "oppsummering": "Produksjonsselskapet Strix, som blant annet lager TV 2-programmer som «Farmen», er i en prosess for å redusere den faste staben med rundt ti årsverk. Selskapet vil tilpasse faste kostnader til forventet produksjonsvolum og håper å løse det gjennom frivillige fratredelsesordninger.",
+  "kilder": [
+   "https://www.kampanje.com/premium/farmen-produsent-ma-nedbemanne/1042244"
+  ],
+  "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Strix%20Television",
+  "kommentar": "Anslag oppgitt av daglig leder; selskapet håper på frivillige løsninger.",
+  "orgnr": null,
+  "brreg_navn": null
+ },
+ {
+  "id": "stella-polaris-2026-11",
+  "selskap": "Stella Polaris AS (Kårvikhamn)",
+  "sok": "STELLA POLARIS",
+  "antall": 17,
+  "enhet": "ansatte",
+  "omfang": "Kårvikhamn (Kvæfjord): 17 ansatte permittert i høst på grunn av råstoffmangel; produksjonen er redusert med 20–30 prosent i 2026",
+  "status": "permittering",
+  "dato": "2026-11-15",
+  "sektor": "Fiskeri",
+  "oppsummering": "Rekefabrikken Stella Polaris AS har permittert 17 ansatte på grunn av mangel på rekerråstoff. Selskapet har investert 270 millioner kroner for å øke kapasiteten med 30 prosent, men produksjonen er i stedet redusert med 20–30 prosent i 2026. Daglig leder Arnfinn Semmingsen omtaler situasjonen som svært dramatisk.",
+  "kilder": [
+   "https://www.nordlys.no/satset-stort-na-er-17-ansatte-permitterte/s/80-34-42183",
+   "https://www.folkebladet.no/nyheter/n/gklxpL/har-permittert-17-aarsverk-ved-hjoernesteinsbedriften-svaert-dramatisk"
+  ],
+  "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Stella%20Polaris",
+  "kommentar": "Folkebladet omtaler det som 17 årsverk i ingressen/tittelen og 17 ansatte i bildeteksten; Nordlys skriver 17 ansatte permittert."
+ },
+ {
   "id": "sus-stavanger-2026-11",
   "selskap": "Stavanger universitetssjukehus (Helse Stavanger HF)",
   "sok": null,
@@ -1583,5 +1620,26 @@
   "brreg_navn": "AKER SOLUTIONS ASA",
   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Aker%20Solutions%20ASA",
   "kommentar": "Norge og internasjonalt; ca. 300 ved verftet i Verdal."
+ },
+ {
+  "id": "moller-bil-ganddal-2026-11",
+  "selskap": "Møller Bil Ganddal (Sandnes)",
+  "sok": null,
+  "antall": 46,
+  "enhet": "ansatte",
+  "omfang": "Bilforhandleren på Ganddal legges ned etter over 50 år, og virksomheten samles på Forus; 46 ansatte berøres",
+  "status": "vedtatt",
+  "dato": "2026-11-02",
+  "sektor": "Varehandel / bil",
+  "oppsummering": "Møller Bil stenger forhandleravdelingen på Ganddal i Sandnes etter over 50 års drift og samler virksomheten på Forus. Daglig leder peker på krevende tider i bilbransjen. Skadeavdelingen på Ganddal fortsetter, og de 46 ansatte får individuelle samtaler om muligheter i de gjenværende lokasjonene.",
+  "kilder": [
+   "https://www.sandnesposten.no/stenger-pa-ganddal-etter-over-50-ar-krevende-tider-i-bransjen/s/80-105-4855",
+   "https://www.sandnesposten.no/ikke-alle-ansatte-blir-med-videre-det-er-det-verste-av-to-vondter/s/80-105-5392",
+   "https://www.aftenbladet.no/lokalt/i/BMgBwl/toeff-beskjed-vaert-en-forferdelig-dag"
+  ],
+  "nav_stillinger": null,
+  "kommentar": "46 ansatte berøres; ikke avklart hvor mange som mister jobben, siden noen kan få plass ved gjenværende lokasjoner. Sakene er bak betalingsmur; detaljer bekreftet via overskrifter/ingress og søkeresultat.",
+  "orgnr": null,
+  "brreg_navn": null
  }
 ]
