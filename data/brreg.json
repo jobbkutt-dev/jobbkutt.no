@@ -1,7 +1,29 @@
 {
- "oppdatert": "2026-11-18T14:50",
- "filter": "antallAnsatte >= 10, dato >= 2026-05-22",
+ "oppdatert": "2026-11-19T08:53",
+ "filter": "antallAnsatte >= 10, dato >= 2026-05-23",
  "enheter": [
+  {
+   "orgnr": "913871979",
+   "navn": "FAGERHAUG MASKIN AS",
+   "type": "konkurs",
+   "dato": "2026-11-18",
+   "antallAnsatte": 15,
+   "bransje": "Grunnarbeid",
+   "naeringskode": "43.120",
+   "kommune": "EVENES",
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/913871979"
+  },
+  {
+   "orgnr": "921072422",
+   "navn": "KSO HUSMALER AS",
+   "type": "konkurs",
+   "dato": "2026-11-18",
+   "antallAnsatte": 11,
+   "bransje": "Maler- og glassarbeid",
+   "naeringskode": "43.340",
+   "kommune": "HOLE",
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/921072422"
+  },
   {
    "orgnr": "981647459",
    "navn": "ISFJORD NORWAY AS",
