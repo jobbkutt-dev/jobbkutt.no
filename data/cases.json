@@ -1,5 +1,5 @@
 {
- "oppdatert": "2026-11-18T08:47",
+ "oppdatert": "2026-11-19T11:50",
  "saker": [
   {
    "id": "strix-2026-11",
@@ -153,6 +153,25 @@
    ],
    "kommentar": "Kilden er bak betalingsmur; opplysningene er hentet fra åpen ingress/forhåndsvisning. Årsak og tidspunkt er ikke verifisert.",
    "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Livsglede%20for%20Eldre"
+  },
+  {
+   "id": "tromso-kommune-2026-11",
+   "selskap": "Tromsø kommune",
+   "sok": null,
+   "antall": 200,
+   "enhet": "årsverk",
+   "omfang": "Kommuneledelsen foreslår å redusere bemanningen med 200 årsverk innen 2028 i handlingsprogram 2027–2030",
+   "status": "varslet",
+   "dato": "2026-11-06",
+   "sektor": "Offentlig / kommune",
+   "oppsummering": "Kommuneledelsen i Robek-kommunen Tromsø la 6. november fram forslag til handlingsprogram for 2027–2030 med store kutt i velferd, bemanning og skole, blant annet 256 millioner kroner mindre til velferd, arbeid og inkludering i 2027. Bemanningen foreslås redusert med 200 årsverk innen 2028. Forslaget er på høring, og politikerne behandler det 16. desember.",
+   "kilder": [
+    "https://www.nrk.no/tromsogfinnmark/varsler-nye-store-kutt-i-robek-kommunen-tromso-1.18075439"
+   ],
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Troms%C3%B8%20kommune",
+   "kommentar": "Forslag fra kommuneledelsen, ikke endelig vedtatt; politisk behandling 16.12.2026. Ikke avklart om det blir oppsigelser eller nedgang gjennom naturlig avgang.",
+   "orgnr": null,
+   "brreg_navn": null
   },
   {
    "id": "finnmarkssykehuset-kirkenes-rehab-2026-11",
