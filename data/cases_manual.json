@@ -1660,5 +1660,22 @@
   "kommentar": "Forslag fra kommuneledelsen, ikke endelig vedtatt; politisk behandling 16.12.2026. Ikke avklart om det blir oppsigelser eller nedgang gjennom naturlig avgang.",
   "orgnr": null,
   "brreg_navn": null
+ },
+ {
+  "id": "sorlandet-sykehus-2026-11",
+  "selskap": "Sørlandet sykehus HF",
+  "sok": null,
+  "antall": 70,
+  "enhet": "årsverk",
+  "omfang": "Forberedte innsparinger tilsvarende 70 årsverk i 2027",
+  "status": "varslet",
+  "dato": "2026-11-16",
+  "sektor": "Helse",
+  "oppsummering": "Administrerende direktør Hilde Myhren forbereder tiltak som tilsvarer 70 årsverk neste år etter at årsresultatet ser ut til å bli svakere enn budsjettert, blant annet på grunn av ekstraordinære pensjonskostnader på 65 millioner kroner og høyere lønns- og prisvekst enn ventet. Sykehuset må kutte minst 75 millioner kroner i 2027.",
+  "kilder": [
+   "https://www.nrk.no/sorlandet/ma-kutte-minst-75-millioner-neste-ar-1.18082477",
+   "https://apress.no/sorlandet-sykehus-varsler-nye-kutt/"
+  ],
+  "kommentar": "Tiltak under forberedelse (fra styresakspapirer 30.10.2026, omtalt av Fædrelandsvennen); ikke vedtatt, og ikke avklart hvor mange stillinger eller oppsigelser det blir."
  }
 ]

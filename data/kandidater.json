@@ -1,25 +1,32 @@
 {
- "oppdatert": "2026-11-17T08:52",
+ "oppdatert": "2026-11-19T14:48",
  "kandidater": [
+  {
+   "kilde": "VG",
+   "tittel": "Strømmetjenesten SkyShowtime legger ned",
+   "ingress": "Strømmetjenesten SkyShowtime legges ned i hele Europa i slutten av 2027.",
+   "url": "https://www.vg.no/rampelys/i/Qro34V/stroemmetjenesten-skyshowtime-legger-ned?utm_medium=rss",
+   "dato": "2026-11-19"
+  },
+  {
+   "kilde": "E24",
+   "tittel": "DNB utfordrer med nytt «billigfond»",
+   "ingress": "DNB lokker med halv pris på sitt nye indeksfond. Men hvorfor kutter de ikke prisen på fondet de allerede har?  NHH-professor peker på en mulig forklaring.",
+   "url": "https://e24.no/privatoekonomi/i/dJOJwo/dnb-lanserer-et-nytt-indeksfond-til-halv-pris?utm_medium=rss",
+   "dato": "2026-11-18"
+  },
+  {
+   "kilde": "E24",
+   "tittel": "Selger seg ut av lakseoppdretter på grunn av dyrevelferd",
+   "ingress": "Triodos kutter Bakkafrost på grunn av fiskevelferdshensyn. Det norske Folketrygdfondet er fortsatt…",
+   "url": "https://e24.no/hav-og-sjoemat/i/JnoJKX/selger-seg-ut-av-lakseoppdretter-paa-grunn-av-dyrevelferd?utm_medium=rss",
+   "dato": "2026-11-18"
+  },
   {
    "kilde": "NRK",
    "tittel": "Betaler nær en halv milliard i renter: – Hvem vil være om bord på et synkende skip?",
    "ingress": "Det kriserammede sykehuset i Stavanger må betale 485 millioner kroner i renter til staten hvert år. Forslag om kutt i bemanning ryster nå de ansatte.",
    "url": "https://www.nrk.no/rogaland/okonomisk-krise-ved-sus_-betaler-naer-en-halv-milliard-i-renter-i-aret-1.18080123",
-   "dato": "2026-11-16"
-  },
-  {
-   "kilde": "NRK",
-   "tittel": "Alvorlig syke rammes av SAS-kutt: – En ekstrabelastning de absolutt ikke trenger",
-   "ingress": "SAS spår krevende måneder, og kutter direkteruta mellom Trondheim, Bodø og Tromsø. Både Kreftforeningen og Helse Nord ber politikerne om hjelp.",
-   "url": "https://www.nrk.no/nordland/helse-nord-og-kreftforeningen-er-svaert-bekymret-nar-sas-kutter-direkteruta-mellom-bodo-og-tromso-1.18080290",
-   "dato": "2026-11-12"
-  },
-  {
-   "kilde": "NRK Norge",
-   "tittel": "Protest mot postkutt: – Uten Posten så dør Norge",
-   "ingress": "Postbud i Tromsø demonstrerte mandag mot kutt som kan koste tusenvis jobben. De håper en ny tjeneste kan hindre masseoppsigelser.",
-   "url": "https://www.nrk.no/tromsogfinnmark/postbud-i-tromso-protesterer-mot-kraftige-kutt-1.18082976",
    "dato": "2026-11-16"
   }
  ]
