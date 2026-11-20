@@ -138,6 +138,27 @@
   "kommentar": "Planlagt kutt, ikke endelig vedtatt. Tidligere i 2026 ble også åtte sengeplasser kuttet ved Kirkenes sykehus (NRK)."
  },
  {
+  "id": "coop-trondheim-lager-2026-11",
+  "selskap": "Coop Norge SA (lageret i Trondheim)",
+  "sok": "COOP NORGE SA",
+  "antall": 40,
+  "enhet": "årsverk",
+  "omfang": "Norge: lageret i Trondheim",
+  "status": "vedtatt",
+  "dato": "2026-11-04",
+  "sektor": "Handel / logistikk",
+  "oppsummering": "Coop Norge har besluttet å nedskalere lageret i Trondheim og kutte mellom 30 og 40 årsverk, i forbindelse med utvidelsen av Coop Logistikksenter på Gardermoen. De berørte ansatte ble informert om beslutningen i et allmøte.",
+  "kilder": [
+   "https://www.mn24.no/nyheter/n/Gr4bgx/kutter-opptil-30-aarsverk-i-trondheim",
+   "https://www.nidaros.no/fjerner-opptil-40-arsverk-i-trondheim/s/80-113-43370",
+   "https://handelswatch.no/nyheter/dagligvarer/article19800772.ece"
+  ],
+  "orgnr": "936560288",
+  "brreg_navn": "COOP NORGE SA",
+  "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Coop%20Norge%20SA",
+  "kommentar": "Mellom 30 og 40 årsverk ifølge Nidaros, som viser til MN24 og en pressemelding fra Coop Norge; opptil 40 oppgitt som antall. Nidaros rettet ingressen fra Coop Midt-Norge til Coop Norge. Ikke avklart om det blir oppsigelser eller naturlig avgang."
+ },
+ {
   "id": "ranheim-paper-board-2026-11",
   "selskap": "Ranheim Paper & Board AS (Trondheim)",
   "sok": "RANHEIM PAPER & BOARD AS",
