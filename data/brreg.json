@@ -1,7 +1,18 @@
 {
- "oppdatert": "2026-11-19T14:47",
- "filter": "antallAnsatte >= 10, dato >= 2026-05-23",
+ "oppdatert": "2026-11-20T08:51",
+ "filter": "antallAnsatte >= 10, dato >= 2026-05-24",
  "enheter": [
+  {
+   "orgnr": "985201269",
+   "navn": "WALLE & KARLSEN CONSULTING AS",
+   "type": "konkurs",
+   "dato": "2026-11-19",
+   "antallAnsatte": 26,
+   "bransje": "Annen teknisk konsulentvirksomhet",
+   "naeringskode": "71.129",
+   "kommune": "TØNSBERG",
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/985201269"
+  },
   {
    "orgnr": "913871979",
    "navn": "FAGERHAUG MASKIN AS",
@@ -23,6 +34,17 @@
    "naeringskode": "43.340",
    "kommune": "HOLE",
    "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/921072422"
+  },
+  {
+   "orgnr": "924989467",
+   "navn": "AK NORD AS",
+   "type": "konkurs",
+   "dato": "2026-11-17",
+   "antallAnsatte": 13,
+   "bransje": "Oppføring av bygninger",
+   "naeringskode": "41.000",
+   "kommune": "FREDRIKSTAD",
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/924989467"
   },
   {
    "orgnr": "981647459",
@@ -860,17 +882,6 @@
    "naeringskode": "56.110",
    "kommune": "NARVIK",
    "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/930338605"
-  },
-  {
-   "orgnr": "985201269",
-   "navn": "WALLE & KARLSEN CONSULTING AS",
-   "type": "avvikling",
-   "dato": "2026-10-09",
-   "antallAnsatte": 26,
-   "bransje": "Annen teknisk konsulentvirksomhet",
-   "naeringskode": "71.129",
-   "kommune": "TØNSBERG",
-   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/985201269"
   },
   {
    "orgnr": "825111352",
