@@ -1,5 +1,5 @@
 {
- "oppdatert": "2026-11-20T08:51",
+ "oppdatert": "2026-11-20T14:46",
  "filter": "antallAnsatte >= 10, dato >= 2026-05-24",
  "enheter": [
   {
@@ -22,7 +22,8 @@
    "bransje": "Grunnarbeid",
    "naeringskode": "43.120",
    "kommune": "EVENES",
-   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/913871979"
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/913871979",
+   "kommentar": "Ti ansatte ved konkursåpningen ifølge Byggeindustrien/Harstad Tidende (18.11.26); Brreg oppgir 15."
   },
   {
    "orgnr": "921072422",
