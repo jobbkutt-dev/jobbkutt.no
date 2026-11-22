@@ -1,7 +1,7 @@
 :root{--bg:#f6f7f9;--fg:#1b1f24;--mut:#5d6672;--acc:#c8102e;--card:#fff;--bd:#e3e6ea}
 *{box-sizing:border-box}body{margin:0;font:15px/1.5 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;background:var(--bg);color:var(--fg)}
-.wrap{max-width:1150px;margin:0 auto;padding:0 20px}header{background:#fff;color:var(--fg);padding:32px 0 0;overflow:visible}header h1{margin:0 0 10px}header h1 a.brand{display:block;width:fit-content}header h1 a.brand img{height:88px;width:auto;display:block}header p{color:var(--mut);margin:6px 0 10px}
-nav{display:flex;gap:4px;flex-wrap:wrap}nav a{color:#4b5563;text-decoration:none;padding:10px 14px;border-radius:8px 8px 0 0}nav a:hover{color:var(--fg)}nav a.on{background:var(--bg);color:var(--fg);font-weight:600}
+.wrap{max-width:1150px;margin:0 auto;padding:0 20px}header{background:#111827;color:#fff;padding:28px 0 0;overflow:visible}header h1{margin:0 0 12px}header h1 a.brand{display:block;width:fit-content;line-height:0}header h1 a.brand img{height:68px;width:auto;display:block}header p{color:#c9ced6;margin:8px 0 10px}
+nav{display:flex;gap:4px;flex-wrap:wrap}nav a{color:#d1d5db;text-decoration:none;padding:10px 14px;border-radius:8px 8px 0 0}nav a:hover{color:#fff}nav a.on{background:var(--bg);color:var(--fg);font-weight:600}
 .tag{font-size:11px;background:var(--acc);color:#fff;padding:2px 7px;border-radius:99px;vertical-align:middle;letter-spacing:.05em}
 .tab{display:none;padding:24px 0}.tab.on{display:block}
 .cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:14px}.card,.panel{background:var(--card);border:1px solid var(--bd);border-radius:12px;padding:18px}
@@ -16,7 +16,7 @@ form label{display:block;margin-bottom:10px}form input,form textarea{display:blo
 footer{color:var(--mut);font-size:12px;padding:20px}
 .kind{font-size:11px;text-transform:uppercase;letter-spacing:.03em;padding:1px 6px;border-radius:4px;font-weight:700;background:#e5e7eb;color:#374151}.kind.nb{background:#dbeafe;color:#1e40af}.kind.konkurs{background:#fde2e4;color:#9b1c24}
 .tab{scroll-margin-top:100vh}
-@media(max-width:700px){html,body{overflow-x:hidden}.wrap{padding:0 14px}header{padding-top:20px}header h1 a.brand img{height:56px}header p{font-size:14px}
+@media(max-width:700px){html,body{overflow-x:hidden}.wrap{padding:0 14px}header{padding-top:20px}header h1 a.brand img{height:50px}header p{font-size:14px}
 nav{flex-wrap:nowrap;overflow-x:auto;-webkit-overflow-scrolling:touch;scrollbar-width:none;margin:0 -14px;padding:0 14px}nav::-webkit-scrollbar{display:none}nav a{white-space:nowrap;padding:10px 12px;flex:0 0 auto}
 .cards{grid-template-columns:repeat(2,1fr);gap:10px}.card{padding:14px}.card .n{font-size:24px}.bar span:first-child{width:110px;flex:0 0 110px}
 #q,#bq{min-width:0;flex:1 1 100%}.filters select{flex:1 1 calc(50% - 5px);min-width:0}
@@ -26,4 +26,4 @@ table{display:block;overflow-x:auto;-webkit-overflow-scrolling:touch;font-size:1
 
 .kat{cursor:help;border-bottom:1px dotted currentColor}
 .bar[title]{cursor:help}
-header p.fresh{font-size:13px;color:#7a8490;margin:-2px 0 16px}header p.fresh:empty{display:none}#om h3{font-size:15px;margin:16px 0 6px}
+header p.fresh{font-size:13px;color:#9ca3af;margin:-2px 0 16px}header p.fresh:empty{display:none}#om h3{font-size:15px;margin:16px 0 6px}
