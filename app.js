@@ -1,0 +1,50 @@
+// Kategorier: grove grupper utledes ved visning; detaljert verdi beholdes i data og vises ved hover (title).
+const KAT=[[/^Industri|gruve|støperi/i,'Industri'],[/Olje|Energi|kraft/i,'Olje, gass og energi'],[/^Bygg/i,'Bygg og anlegg'],[/Varehandel/i,'Varehandel'],[/Bank|Finans|forsikring/i,'Bank og finans'],[/Rådgivning/i,'Rådgivning'],[/Teknologi|Media|Telekom/i,'Teknologi, media og telekom'],[/Offentlig|Helse|Frivillig/i,'Offentlig, helse og frivillig'],[/Luftfart|Samferdsel|Transport/i,'Transport og luftfart'],[/Sjømat|akvakultur|fisk/i,'Sjømat og havbruk'],[/Avfall|miljø/i,'Avfall og miljø']];
+const BKAT=[[/restaurant|barer|catering|servering|hotell/i,'Servering og overnatting'],[/idrett|utflukt/i,'Idrett og fritid'],[/frisering|vaskeri|rengjøring/i,'Personlig tjenesteyting'],[/handel/i,'Varehandel'],[/bygning|grunnarbeid|installasjon|anlegg|rørlegger|maler/i,'Bygg og anlegg'],[/transport|post- og bud|lasting/i,'Transport og logistikk'],[/eiendom/i,'Eiendom'],[/undervisning|barnehage|helse/i,'Undervisning og helse'],[/produksjon|industri|skip/i,'Industri'],[/utgivelse/i,'Media'],[/konsulent|forskning/i,'Konsulent og FoU']];
+const katOf=(r,v,fb)=>{v=v||'';for(const[re,k]of r)if(re.test(v))return k;return fb(v)};
+const kat=v=>katOf(KAT,v,x=>x.split(/ \/ | \(/)[0]||'Annet');
+const bkat=v=>katOf(BKAT,v,x=>x&&x!=='Uoppgitt'?'Annet':'Uoppgitt');
+const tip=(k,v)=>`<span class="kat" title="${esc(v||k)}">${esc(k)}</span>`;
+const dd=d=>{const m=/^(\d{4})-(\d{2})-(\d{2})/.exec(d||'');return m?`${m[3]}.${m[2]}.${m[1].slice(2)}`:(d||'')};
+const $=s=>document.querySelector(s), fmt=n=>n==null?'–':n.toLocaleString('nb-NO'), ant=c=>c.antall==null?'–':fmt(c.antall)+(c.enhet?' '+c.enhet:''), host=u=>{try{return new URL(u).hostname.replace('www.','')}catch(e){return ''}};
+const esc=v=>String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'})[c]);
+const httpsUrl=u=>{const s=String(u??'').trim();if(!/^https:\/\//i.test(s))return '#';try{return new URL(s).protocol==='https:'?s:'#'}catch(e){return '#'}};
+const cls=v=>{const s=String(v??'');return /^[a-z0-9æøå-]+$/.test(s)?s:''};
+const tabs=()=>{const t=(location.hash||'#oversikt').slice(1);document.querySelectorAll('.tab').forEach(s=>s.classList.toggle('on',s.id===t));document.querySelectorAll('nav a').forEach(a=>a.classList.toggle('on',a.dataset.tab===t))};
+addEventListener('hashchange',tabs);tabs();
+function sortable(tbl,rows,render){let k='dato',dir=-1;tbl.querySelectorAll('th[data-k]').forEach(th=>th.onclick=()=>{dir=k===th.dataset.k?-dir:1;k=th.dataset.k;go()});
+ const go=()=>render(rows().sort((a,b)=>{const x=a[k]??'',y=b[k]??'';return k==='dato'&&x===y?String(a.selskap||a.navn||'').localeCompare(String(b.selskap||b.navn||''),'nb'):(typeof x==='number'&&typeof y==='number'?x-y:String(x).localeCompare(String(y),'nb'))*dir}));return go}
+Promise.all([fetch('data/cases.json',{cache:'no-cache'}).then(r=>r.json()),fetch('data/brreg.json',{cache:'no-cache'}).then(r=>r.json())]).then(([C,B])=>{
+ const S=C.saker, E=B.enheter, minB=E.map(e=>e.dato||'').filter(Boolean).sort()[0]||'', sum=f=>S.filter(f).reduce((a,c)=>a+(c.antall||0),0);
+ $('#cards').innerHTML=[[S.length,(()=>{const y=[...new Set(S.map(c=>(c.dato||'').slice(0,4)).filter(Boolean))].sort();return y.length===1?`registrerte saker i ${y[0]}`:`registrerte saker ${y[0]}–${y[y.length-1]}`})()],[fmt(sum(c=>c.status!=='permittering')),'berørte i varslede/vedtatte kutt*'],[fmt(sum(c=>c.status==='permittering')),'permitterte (i sakene)'],[E.filter(e=>e.type==='konkurs').length,`konkurser, minst 10 ansatte, siden ${dd(minB)} (Brreg)`],[fmt(E.reduce((a,e)=>a+(e.antallAnsatte||0),0)),'reg. ansatte i konkurs/avvikling']].map(([n,l])=>`<div class="card"><div class="n">${esc(n)}</div><div class="l">${esc(l)}</div></div>`).join('');
+ const lbl={konkurs:'Konkurs',avvikling:'Avvikling',tvangsavvikling:'Tvangsavvikling'};
+ $('#latest').innerHTML=[...S.map(c=>({d:c.dato||'',h:`<li><span class="kind nb">Nedbemanning</span> <b>${esc(c.selskap)}</b> – ${esc(ant(c))} <span class="st ${cls(c.status)}">${esc(c.status)}</span><br><small>${esc(dd(c.dato))} · ${tip(kat(c.sektor),c.sektor)}</small></li>`})),...E.filter(e=>e.dato).map(e=>({d:e.dato,h:`<li><span class="kind ${cls(e.type)}">${esc(lbl[e.type]||e.type)}</span> <b><a href="${esc(httpsUrl(e.kilde))}" target="_blank" rel="noopener">${esc(e.navn)}</a></b> – ${esc(fmt(e.antallAnsatte))} reg. ansatte<br><small>${esc(dd(e.dato))} · ${e.bransje?tip(bkat(e.bransje),e.bransje):''}${e.kommune?' · '+esc(e.kommune):''}</small></li>`}))].sort((a,b)=>b.d.localeCompare(a.d)).slice(0,10).map(x=>x.h).join('');
+ const sec={},secD={};S.forEach(c=>{const k=kat(c.sektor);sec[k]=(sec[k]||0)+(c.antall||0);(secD[k]=secD[k]||new Set).add(c.sektor)});const mx=Math.max(...Object.values(sec));
+ $('#sectors').innerHTML=Object.entries(sec).sort((a,b)=>b[1]-a[1]).map(([s,n])=>`<div class="bar" title="${esc([...secD[s]].sort().join('\n'))}"><span>${esc(s)}</span><i style="width:${n/mx*55}%"></i>${esc(fmt(n))}</div>`).join('');
+ [...new Set(S.map(c=>kat(c.sektor)))].sort((a,b)=>a.localeCompare(b,'nb')).forEach(s=>{const o=new Option(s);o.title=[...new Set(S.filter(c=>kat(c.sektor)===s).map(c=>c.sektor))].sort().join('\n');$('#fsektor').add(o)});
+ const years=(L,sel)=>[...new Set(L.map(x=>(x.dato||'').slice(0,4)).filter(Boolean))].sort().reverse().forEach(y=>$(sel).add(new Option(y,y)));years(S,'#fyear');years(E,'#byear');
+ const ym=(x,ys,ms)=>{const d=x.dato||'',y=$(ys).value,m=$(ms).value;return(!y||d.slice(0,4)===y)&&(!m||d.slice(5,7)===m)};
+ const go=sortable($('#tbl'),()=>S.filter(c=>(!$('#fstatus').value||c.status===$('#fstatus').value)&&(!$('#fsektor').value||kat(c.sektor)===$('#fsektor').value)&&ym(c,'#fyear','#fmonth')&&JSON.stringify(c).toLowerCase().includes($('#q').value.toLowerCase())),
+  rs=>$('#tbl tbody').innerHTML=rs.map(c=>`<tr><td>${esc(dd(c.dato))}</td><td><b>${esc(c.selskap)}</b>${c.orgnr?`<br><small>org.nr <a href="https://virksomhet.brreg.no/nb/oppslag/enheter/${encodeURIComponent(c.orgnr)}">${esc(c.orgnr)}</a></small>`:''}<div class="sum">${esc(c.oppsummering)}</div></td><td class="ant">${esc(ant(c))}</td><td class="kom">${esc(c.kommentar||'–')}</td><td><span class="st ${cls(c.status)}">${esc(c.status)}</span></td><td>${tip(kat(c.sektor),c.sektor)}</td><td class="src">${(c.kilder||c.sources||[]).map(u=>`<a href="${esc(httpsUrl(u))}" target="_blank" rel="noopener">${esc(host(httpsUrl(u)))}</a>`).join('')}</td></tr>`).join(''));
+ ['#q','#fstatus','#fsektor','#fyear','#fmonth'].forEach(s=>$(s).oninput=go);go();
+ $('#brreginfo').textContent=`Automatisk hentet fra Enhetsregisteret ${dd(B.oppdatert)} kl. ${(B.oppdatert||'').slice(11,16)} · bare virksomheter med minst 10 registrerte ansatte · eldste oppføring ${dd(minB)} · ${E.length} enheter`;
+ const bf=$('#bfra');if(bf&&minB)bf.textContent=dd(minB);
+ const bgo=sortable($('#btbl'),()=>E.filter(e=>(!$('#btype').value||e.type===$('#btype').value)&&ym(e,'#byear','#bmonth')&&JSON.stringify(e).toLowerCase().includes($('#bq').value.toLowerCase())),
+  rs=>$('#btbl tbody').innerHTML=rs.map(e=>`<tr><td>${e.dato?esc(dd(e.dato)):'–'}</td><td><a href="${esc(httpsUrl(e.kilde))}" target="_blank" rel="noopener">${esc(e.navn)}</a><br><small>${esc(e.orgnr)}</small></td><td>${esc(fmt(e.antallAnsatte))}</td><td><span class="st ${cls(e.type)}">${esc(e.type)}</span></td><td>${e.bransje?tip(bkat(e.bransje),e.bransje):''}</td><td>${esc(e.kommune||'')}</td></tr>`).join(''));
+ ['#bq','#btype','#byear','#bmonth'].forEach(s=>$(s).oninput=bgo);bgo();
+ $('#foot').textContent=`*Tall i kildene er stillinger, årsverk eller ansatte og er summert som indikasjon. Aker BP er regnet med øvre anslag fra mediene («opptil 1 000»).`;
+});
+$('#tipsform').onsubmit=e=>{e.preventDefault();const f=new FormData(e.target),body=`Selskap: ${f.get('selskap')}\nKilde: ${f.get('url')}\nAntall berørte: ${f.get('antall')||'–'}\nKommentar: ${f.get('kommentar')||''}`;location.href=`mailto:kontakt@jobbkutt.no?subject=${encodeURIComponent('Tips: '+f.get('selskap'))}&body=${encodeURIComponent(body)}`;$('#tipsmsg').textContent='Takk! E-postprogrammet ditt åpnes med tipset ferdig utfylt – trykk send der. Du kan også skrive direkte til kontakt@jobbkutt.no.'};
+
+function fmtSjekket(t){
+ if(!t)return '';
+ const d=new Date(t);
+ if(/(Z|[+-]\d{2}:?\d{2})$/.test(t)&&!isNaN(d)){
+  const p=Object.fromEntries(new Intl.DateTimeFormat('nb-NO',{timeZone:'Europe/Oslo',year:'2-digit',month:'2-digit',day:'2-digit',hour:'2-digit',minute:'2-digit',hourCycle:'h23'}).formatToParts(d).map(x=>[x.type,x.value]));
+  return `Sist sjekket ${p.day}.${p.month}.${p.year} kl. ${p.hour}:${p.minute}`;
+ }
+ const m=/^(\d{4})-(\d{2})-(\d{2})T(\d{2}):(\d{2})/.exec(t);
+ return m?`Sist sjekket ${m[3]}.${m[2]}.${m[1].slice(2)} kl. ${m[4]}:${m[5]}`:'';
+}
+fetch('data/status.json',{cache:'no-cache'}).then(r=>r.ok?r.json():null).then(S=>{const t=S&&fmtSjekket(S.sist_sjekket);if(!t)return;const top=document.getElementById('sjekket-top');if(top)top.textContent=t;const f=document.getElementById('foot');if(!f)return;let e=document.getElementById('sjekket');if(!e){e=document.createElement('div');e.id='sjekket';e.className='note';f.parentNode.insertBefore(e,f)}e.textContent=t}).catch(()=>{});
+fetch('data/rettelser.json',{cache:'no-cache'}).then(r=>r.ok?r.json():{rettelser:[]}).then(R=>{const L=(Array.isArray(R)?R:R.rettelser)||[],ul=document.getElementById('rettelser');if(!ul)return;ul.innerHTML=L.length?[...L].sort((a,b)=>String(b.dato).localeCompare(String(a.dato))).map(x=>`<li><b>${esc(dd(x.dato))}</b> – ${esc(x.tekst)}</li>`).join(''):'<li class="note">Ingen rettelser publisert så langt.</li>'}).catch(()=>{const ul=document.getElementById('rettelser');if(ul)ul.innerHTML='<li class="note">Ingen rettelser publisert så langt.</li>'});
