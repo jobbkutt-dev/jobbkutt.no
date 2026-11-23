@@ -1,5 +1,5 @@
 {
- "oppdatert": "2026-11-23T08:48",
+ "oppdatert": "2026-11-23T14:55:32+01:00",
  "saker": [
   {
    "id": "borve-borchsenius-2026-11",
@@ -435,6 +435,27 @@
    "kommentar": "46 ansatte berøres; ikke avklart hvor mange som mister jobben, siden noen kan få plass ved gjenværende lokasjoner. Sakene er bak betalingsmur; detaljer bekreftet via overskrifter/ingress og søkeresultat.",
    "orgnr": null,
    "brreg_navn": null
+  },
+  {
+   "id": "balder-bulk-2026-11",
+   "selskap": "Balder Bulk AS",
+   "sok": "BALDER BULK AS",
+   "antall": 151,
+   "enhet": "ansatte",
+   "omfang": "Kløfta og Rudshøgda; konkurs etter oppbud, drift videreføres foreløpig",
+   "status": "vedtatt",
+   "dato": "2026-11-02",
+   "sektor": "Transport og logistikk",
+   "oppsummering": "Tørrbulktransportøren Balder Bulk ble tatt under konkursbehandling 2. november etter oppbud, med tapte kundekontrakter, strammere bankkreditt og høye drivstoffkostnader som årsaker. Bostyrer opplyste at ingen var sagt opp ennå fordi deler av transporten er samfunnskritisk. Senere har en kjøper overtatt deler av boet og 62 av de ansatte har fått jobben tilbake.",
+   "kilder": [
+    "https://e24.no/naeringsliv/i/kv5ojB/transportgigant-konkurs-300-000-kroner-dagen-i-diesel",
+    "https://www.at.no/transport/bostyrer-flere-vil-kjope-konkursrammede-balder-bulk/1354113",
+    "https://www.at.no/transport/litra-kjoper-tilbake-sitt-fra-balder-bulk-boet/1364815"
+   ],
+   "kommentar": "Antall fra Brreg (151 ansatte). Bostyrer oppga 176 ansatte til E24, Anlegg & Transport oppgir 154 (E24 02.11.26: https://e24.no/naeringsliv/i/kv5ojB/transportgigant-konkurs-300-000-kroner-dagen-i-diesel). 62 fikk jobben tilbake etter at deler av boet ble kjøpt (Anlegg & Transport 20.11.26).",
+   "orgnr": "915644686",
+   "brreg_navn": "BALDER BULK AS",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Balder%20Bulk%20AS"
   },
   {
    "id": "godthaab-2026-10",
