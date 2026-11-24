@@ -1,6 +1,26 @@
 {
- "oppdatert": "2026-11-23T14:55:32+01:00",
+ "oppdatert": "2026-11-24T08:54:50+01:00",
  "saker": [
+  {
+   "id": "endur-maritime-2026-11",
+   "selskap": "Endúr Maritime AS",
+   "sok": "ENDÚR MARITIME AS",
+   "antall": 60,
+   "enhet": "ansatte",
+   "omfang": "Laksevåg, Bergen; oppbud begjært, alle ansatte mister jobben",
+   "status": "vedtatt",
+   "dato": "2026-11-23",
+   "sektor": "Skipsverft og maritim industri",
+   "oppsummering": "Skipsverftet i Bergen har begjært oppbud etter lang tids negativ kontantstrøm og tapte forsvarsrelaterte oppdrag. Alle 60 ansatte mister jobben, og konsernet har ikke tilsvarende arbeidsoppgaver å tilby dem andre steder.",
+   "kilder": [
+    "https://www.nrk.no/artikkel/skipsverft-med-60-ansatte-gar-konkurs-1533804",
+    "https://www.nettavisen.no/okonomi/skipsverft-melder-oppbud-60-ansatte-mister-jobben/s/80-95-275525"
+   ],
+   "kommentar": "Antall 60 ansatte (NRK 23.11.26, Nettavisen 23.11.26), samsvarer med Brreg. Konkursåpning ikke registrert i Brreg ennå; oppbud begjært.",
+   "orgnr": "993452084",
+   "brreg_navn": "ENDÚR MARITIME AS",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=End%C3%BAr%20Maritime%20AS"
+  },
   {
    "id": "borve-borchsenius-2026-11",
    "selskap": "Børve Borchsenius Arkitekter AS",
@@ -57,6 +77,25 @@
    "brreg_navn": "FAGERHAUG MASKIN AS",
    "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Fagerhaug%20Maskin%20AS",
    "kommentar": "Antall fra Brreg (15). Anlegg & Transport oppgir ti ansatte (18.11.26)."
+  },
+  {
+   "id": "noroff-2026-11",
+   "selskap": "Noroff Fagskole (campus Oslo og Bergen)",
+   "sok": "NOROFF FAGSKOLE AS",
+   "antall": 30,
+   "enhet": "stillinger",
+   "omfang": "Oslo og Bergen; campusene fases ut (Oslo sommeren 2027, Bergen innen 2028)",
+   "status": "varslet",
+   "dato": "2026-11-17",
+   "sektor": "Utdanning",
+   "oppsummering": "Privatskolen fases ut fysisk undervisning ved campusene i Oslo og Bergen fordi ni av ti fagskolestudenter allerede studerer på nett. Rundt 30 stillinger berøres, men ifølge administrerende direktør er det ikke tatt beslutning om oppsigelser, og omplassering vurderes først.",
+   "kilder": [
+    "https://www.vg.no/nyheter/i/oMp3oW/alle-campus-legges-ned-hos-noroff"
+   ],
+   "kommentar": "Antall: rundt 30 stillinger berørt (VG 17.11.26); oppsigelser ikke avgjort. Brreg viser 88 ansatte i Noroff Fagskole AS totalt, ikke antall berørt.",
+   "orgnr": "989527479",
+   "brreg_navn": "NOROFF FAGSKOLE AS",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Noroff%20Fagskole"
   },
   {
    "id": "strix-2026-11",
@@ -255,6 +294,44 @@
    "brreg_navn": "TROMSØ KOMMUNE"
   },
   {
+   "id": "opplysningen-1881-2026-11",
+   "selskap": "Opplysningen 1881 (Namsos)",
+   "sok": "OPPLYSNINGEN 1881 AS",
+   "antall": 18,
+   "enhet": "ansatte",
+   "omfang": "Namsos; avdelingen legges ned fra juni 2027",
+   "status": "vedtatt",
+   "dato": "2026-11-06",
+   "sektor": "Informasjon og kundesenter",
+   "oppsummering": "Eierne har vedtatt å legge ned callsenteret i Namsos fra juni 2027 etter at trafikken er halvert de siste to–tre årene. 18 ansatte mister jobben, men er tilbudt å fortsette i avdelingen på Otta. Tillitsvalgte frykter tap av pensjon.",
+   "kilder": [
+    "https://www.frifagbevegelse.no/nettverk/opplysningen-1881-i-namsos-legges-ned/2732310"
+   ],
+   "kommentar": "Antall: 18 i Namsos-avdelingen (FriFagbevegelse 09.11.26; vedtaket ble meldt av Namdalsavisa fredag 06.11.26). Brreg viser 54 ansatte i Opplysningen 1881 AS totalt, ikke antall berørt.",
+   "orgnr": "995955326",
+   "brreg_navn": "OPPLYSNINGEN 1881 AS",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Opplysningen%201881"
+  },
+  {
+   "id": "slatlem-trondheim-2026-11",
+   "selskap": "Slatlem Trondheim AS",
+   "sok": "SLATLEM TRONDHEIM AS",
+   "antall": 15,
+   "enhet": "ansatte",
+   "omfang": "Trondheim; konkurs åpnet 5. november, driften lagt ned",
+   "status": "vedtatt",
+   "dato": "2026-11-05",
+   "sektor": "Bilhandel",
+   "oppsummering": "Bilforhandleren i Trondheim, som er del av Slatlem-konsernet, er slått konkurs etter et stort underskudd i fjor. Driften er lagt ned, og ifølge bostyrer mister 15 ansatte jobben fordi ingen har meldt interesse for å overta driften.",
+   "kilder": [
+    "https://e24.no/naeringsliv/i/2VLR64/to-bilforhandlere-har-gaatt-konkurs"
+   ],
+   "kommentar": "Antall: 15 ansatte ifølge bostyrer (E24 07.11.26). Konkursen ble åpnet torsdag 05.11.26 ifølge E24.",
+   "orgnr": "968787551",
+   "brreg_navn": "SLATLEM TRONDHEIM AS",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Slatlem%20Trondheim%20AS"
+  },
+  {
    "id": "finnmarkssykehuset-kirkenes-rehab-2026-11",
    "selskap": "Finnmarkssykehuset (Kirkenes sykehus)",
    "sok": null,
@@ -293,6 +370,25 @@
    "brreg_navn": "COOP NORGE SA",
    "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Coop%20Norge%20SA",
    "kommentar": "Mellom 30 og 40 årsverk ifølge Nidaros, som viser til MN24 og en pressemelding fra Coop Norge; opptil 40 oppgitt som antall. Nidaros rettet ingressen fra Coop Midt-Norge til Coop Norge. Ikke avklart om det blir oppsigelser eller naturlig avgang."
+  },
+  {
+   "id": "elverum-auto-2026-11",
+   "selskap": "Elverum Auto AS",
+   "sok": "ELVERUM AUTO AS",
+   "antall": 15,
+   "enhet": "ansatte",
+   "omfang": "Elverum; konkurs åpnet 4. november, driften stoppet",
+   "status": "vedtatt",
+   "dato": "2026-11-04",
+   "sektor": "Bilhandel",
+   "oppsummering": "Bilforhandleren i Slatlem-konsernet er slått konkurs etter underskudd i fjor, og driften er stoppet. Bostyrer opplyser at 15 ansatte mister jobben.",
+   "kilder": [
+    "https://e24.no/naeringsliv/i/2VLR64/to-bilforhandlere-har-gaatt-konkurs"
+   ],
+   "kommentar": "Antall: 15 ansatte ifølge bostyrer (E24 07.11.26).",
+   "orgnr": "827501182",
+   "brreg_navn": "ELVERUM AUTO AS",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Elverum%20Auto%20AS"
   },
   {
    "id": "ranheim-paper-board-2026-11",
@@ -456,6 +552,25 @@
    "orgnr": "915644686",
    "brreg_navn": "BALDER BULK AS",
    "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Balder%20Bulk%20AS"
+  },
+  {
+   "id": "ruta-entreprenor-2026-11",
+   "selskap": "Ruta Entreprenør AS",
+   "sok": "RUTA ENTREPRENØR AS",
+   "antall": 130,
+   "enhet": "ansatte",
+   "omfang": "Trondheim; konkurs åpnet 2. november",
+   "status": "vedtatt",
+   "dato": "2026-11-02",
+   "sektor": "Bygg og anlegg",
+   "oppsummering": "Entreprenøren i Trondheim er slått konkurs etter at forsøket på rekonstruksjon mislyktes, blant annet på grunn av et skatte- og avgiftskrav på rundt 30 millioner kroner. Rundt 130 ansatte mister jobben.",
+   "kilder": [
+    "https://www.nettavisen.no/okonomi/entreprenor-konkurs-130-mister-jobben/s/80-95-212465"
+   ],
+   "kommentar": "Antall: rundt 130 ansatte oppgitt av selskapet (Nettavisen 02.11.26, gjengitt fra Nidaros).",
+   "orgnr": "983830196",
+   "brreg_navn": "RUTA ENTREPRENØR AS",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Ruta%20Entrepren%C3%B8r%20AS"
   },
   {
    "id": "godthaab-2026-10",

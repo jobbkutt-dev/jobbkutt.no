@@ -1,7 +1,29 @@
 {
- "oppdatert": "2026-11-23T14:54",
- "filter": "antallAnsatte >= 10, dato >= 2026-05-27",
+ "oppdatert": "2026-11-24T08:53",
+ "filter": "antallAnsatte >= 10, dato >= 2026-05-28",
  "enheter": [
+  {
+   "orgnr": "919790369",
+   "navn": "123 TRANSPORT AS",
+   "type": "konkurs",
+   "dato": "2026-11-23",
+   "antallAnsatte": 24,
+   "bransje": "Logistikktjenester",
+   "naeringskode": "52.250",
+   "kommune": "BERGEN",
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/919790369"
+  },
+  {
+   "orgnr": "997898222",
+   "navn": "BYGG OG MURPARTNER BERGEN AS",
+   "type": "konkurs",
+   "dato": "2026-11-23",
+   "antallAnsatte": 13,
+   "bransje": "Utleie og leasing av andre maskiner og annet utstyr og materiell ikke nevnt annet sted",
+   "naeringskode": "77.390",
+   "kommune": "BERGEN",
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/997898222"
+  },
   {
    "orgnr": "927057549",
    "navn": "FRISK RENHOLD BERGEN AS",
@@ -1138,17 +1160,6 @@
    "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/932690306"
   },
   {
-   "orgnr": "933874850",
-   "navn": "EXPLORE HARSTAD AS",
-   "type": "tvangsavvikling",
-   "dato": "2026-09-30",
-   "antallAnsatte": 33,
-   "bransje": "Aktiviteter utført av utflukts- og eventarrangører",
-   "naeringskode": "79.121",
-   "kommune": "HARSTAD",
-   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/933874850"
-  },
-  {
    "orgnr": "931252208",
    "navn": "SALT & PEPPER GARNTANGEN AS",
    "type": "tvangsavvikling",
@@ -1158,6 +1169,17 @@
    "naeringskode": "56.110",
    "kommune": "HOLE",
    "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/931252208"
+  },
+  {
+   "orgnr": "933874850",
+   "navn": "EXPLORE HARSTAD AS",
+   "type": "tvangsavvikling",
+   "dato": "2026-09-30",
+   "antallAnsatte": 33,
+   "bransje": "Aktiviteter utført av utflukts- og eventarrangører",
+   "naeringskode": "79.121",
+   "kommune": "HARSTAD",
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/933874850"
   },
   {
    "orgnr": "929083164",
