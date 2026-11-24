@@ -1,6 +1,44 @@
 {
- "oppdatert": "2026-11-24T08:54:50+01:00",
+ "oppdatert": "2026-11-24T14:54:36+01:00",
  "saker": [
+  {
+   "id": "moller-mobility-group-2026-11",
+   "selskap": "Møller Mobility Group AS",
+   "sok": "MØLLER MOBILITY GROUP AS",
+   "antall": 52,
+   "enhet": "ansatte",
+   "omfang": "Hovedkontor og logistikkfunksjoner i Norge; inntil 100 stillinger (10–15 % av arbeidsstokken)",
+   "status": "varslet",
+   "dato": "2026-11-24",
+   "sektor": "Bilhandel / import",
+   "oppsummering": "Norges største bilkonsern planlegger å kutte opp mot 100 stillinger på hovedkontoret og i logistikkfunksjoner i Norge, ifølge BilNytt.no gjengitt av TV 2. Konsernet opplyser at det pågår samtaler med medarbeiderne som kan bli berørt. Bakgrunnen er lavere salgsvolum og hard konkurranse. Også forhandlernettet kan få flere kutt.",
+   "kilder": [
+    "https://www.tv2.no/broom/norges-storste-ma-kutte-dramatisk/19462326/"
+   ],
+   "kommentar": "Antall fra Brreg (52 ansatte i morselskapet). Nyhetene (TV 2, 24.11.26, via BilNytt.no): opp mot 100 ansatte i hovedkontor og logistikk i Norge, ca. 10–15 % av arbeidsstokken.",
+   "orgnr": "984599730",
+   "brreg_navn": "MØLLER MOBILITY GROUP AS",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=M%C3%B8ller%20Mobility%20Group%20AS"
+  },
+  {
+   "id": "nordisk-bergteknik-2026-11",
+   "selskap": "Nordisk Bergteknik (norske selskaper)",
+   "sok": "NORDISK BERGTEKNIK AS",
+   "antall": 40,
+   "enhet": "stillinger",
+   "omfang": "Norge; hardest rammet er fjellsikring, i tillegg færre driftssentre og maskiner",
+   "status": "varslet",
+   "dato": "2026-11-24",
+   "sektor": "Anlegg / fjellsprengning",
+   "oppsummering": "Konsernet iverksetter et kostnads- og effektiviseringsprogram i Norge som ventes å berøre rundt 40 stillinger, mest innen fjellsikring, samtidig som antall driftssentre og maskiner reduseres. Dette fremgår av en børsmelding fra konsernet, omtalt av Anlegg&Transport. Besparelsen ventes å bli ca. 50 millioner svenske kroner årlig fra januar 2027.",
+   "kilder": [
+    "https://www.at.no/anlegg/tung-nedbemanning-for-nordisk-bergteknik-i-norge/1367250"
+   ],
+   "kommentar": "Ca. 40 stillinger ifølge Anlegg&Transport (24.11.26); Brreg har ikke ansattall for morselskapet.",
+   "orgnr": "926828673",
+   "brreg_navn": "NORDISK BERGTEKNIK AS",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Nordisk%20Bergteknik"
+  },
   {
    "id": "endur-maritime-2026-11",
    "selskap": "Endúr Maritime AS",
