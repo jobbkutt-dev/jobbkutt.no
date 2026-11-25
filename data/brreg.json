@@ -1,7 +1,29 @@
 {
- "oppdatert": "2026-11-24T14:52",
- "filter": "antallAnsatte >= 10, dato >= 2026-05-28",
+ "oppdatert": "2026-11-25T07:49",
+ "filter": "antallAnsatte >= 10, dato >= 2026-05-29",
  "enheter": [
+  {
+   "orgnr": "932941589",
+   "navn": "CORCOVADO AS",
+   "type": "konkurs",
+   "dato": "2026-11-24",
+   "antallAnsatte": 10,
+   "bransje": "Drift av restauranter",
+   "naeringskode": "56.110",
+   "kommune": "OSLO",
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/932941589"
+  },
+  {
+   "orgnr": "993452084",
+   "navn": "ENDÚR MARITIME AS",
+   "type": "konkurs",
+   "dato": "2026-11-24",
+   "antallAnsatte": 60,
+   "bransje": "Produksjon av kjøle- og ventilasjonsanlegg, unntatt til husholdningsbruk",
+   "naeringskode": "28.250",
+   "kommune": "BERGEN",
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/993452084"
+  },
   {
    "orgnr": "919790369",
    "navn": "123 TRANSPORT AS",

@@ -1,5 +1,5 @@
 {
- "oppdatert": "2026-11-24T14:54:36+01:00",
+ "oppdatert": "2026-11-25T08:50:28+01:00",
  "saker": [
   {
    "id": "moller-mobility-group-2026-11",
@@ -115,6 +115,26 @@
    "brreg_navn": "FAGERHAUG MASKIN AS",
    "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Fagerhaug%20Maskin%20AS",
    "kommentar": "Antall fra Brreg (15). Anlegg & Transport oppgir ti ansatte (18.11.26)."
+  },
+  {
+   "id": "slipehuset-2026-11",
+   "selskap": "Slipehuset AS (Steinkjer)",
+   "sok": "SLIPEHUSET AS",
+   "antall": 2,
+   "enhet": "ansatte",
+   "omfang": "Steinkjer: 2 av 5 ansatte permittert",
+   "status": "permittering",
+   "dato": "2026-11-18",
+   "sektor": "Industri / tjenester",
+   "oppsummering": "Slipehuset AS i Steinkjer, som sliper kniver og saks, har permittert to av fem ansatte etter at storkunden Isfjord Norway AS i Orkanger gikk konkurs. Selskapet sto for sliping av 750–1000 kniver i uka for fiskeforedlingsbedriften. Daglig leder tror bedriften skal komme tilbake og har fått nye kunder, men de dekker ikke hele bortfallet.",
+   "kilder": [
+    "https://www.steinkjer24.no/nyheter/n/vkQ9V5/steinkjerbedrift-permitterer-ansatte-etter-konkurs",
+    "https://www.t-a.no/martine-rammet-av-storkonkurs-matte-permittere/s/80-116-51723"
+   ],
+   "orgnr": "998894654",
+   "brreg_navn": "SLIPEHUSET AS",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Slipehuset%20AS",
+   "kommentar": "Indirekte rammet av konkursen hos Isfjord Norway AS. Brreg oppgir 5 ansatte."
   },
   {
    "id": "noroff-2026-11",
