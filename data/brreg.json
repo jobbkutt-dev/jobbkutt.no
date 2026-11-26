@@ -1,7 +1,18 @@
 {
- "oppdatert": "2026-11-25T07:49",
- "filter": "antallAnsatte >= 10, dato >= 2026-05-29",
+ "oppdatert": "2026-11-26T07:53",
+ "filter": "antallAnsatte >= 10, dato >= 2026-05-30",
  "enheter": [
+  {
+   "orgnr": "935793874",
+   "navn": "KOIWA RAMEN AS",
+   "type": "konkurs",
+   "dato": "2026-11-25",
+   "antallAnsatte": 11,
+   "bransje": "Drift av restauranter",
+   "naeringskode": "56.110",
+   "kommune": "SULA",
+   "kilde": "https://virksomhet.brreg.no/nb/oppslag/enheter/935793874"
+  },
   {
    "orgnr": "932941589",
    "navn": "CORCOVADO AS",
