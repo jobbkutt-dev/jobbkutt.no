@@ -1,6 +1,27 @@
 {
- "oppdatert": "2026-11-25T08:50:28+01:00",
+ "oppdatert": "2026-11-27T08:47:55+01:00",
  "saker": [
+  {
+   "id": "aider-2026-11",
+   "selskap": "Aider (regnskapskonsern)",
+   "sok": "AIDER AS",
+   "antall": 40,
+   "enhet": "ansatte",
+   "omfang": "Permittering av 40 medarbeidere i ulike forretningsområder/kontorer i Norge; ifølge DN rammer det omtrent hvert tredje kontor",
+   "status": "permittering",
+   "dato": "2026-11-26",
+   "sektor": "Regnskap / rådgivning",
+   "oppsummering": "Regnskapskonsernet Aider har permittert 40 medarbeidere, ifølge Dagens Næringsliv gjengitt av Nettavisen. Administrerende direktør begrunner det med lokale markedsforhold ved de berørte kontorene. Konsernets kvartalsrapport for Q3 2026 bekrefter midlertidige permitteringer av 40 ansatte i Norge, i tillegg til at stramt rekrutteringsregime har gitt en nedgang på 150 årsverk. Styreleder sier det ikke finnes noen overordnet plan om nedbemanning ved kontorene.",
+   "kilder": [
+    "https://www.nettavisen.no/nyheter/aider-permitterer-40-ansatte/s/80-95-285053",
+    "https://www.dn.no/marked/aider/dn-gaselle-2026/vekstkomet-moter-mettede-lokalmarkeder-har-permittert-40-medarbeidere/2-1-2079990",
+    "https://aider.no/hubfs/Rapporter/2026%20Q3%20financial%20report%20final%2011112026.pdf"
+   ],
+   "orgnr": "922633452",
+   "orgnr_merknad": "Orgnr for AIDER AS (driftsselskap, 1360 ansatte i Brreg); konsernets øvrige selskaper kan også være berørt.",
+   "kommentar": "Antall (40) er permitterte ifølge Aiders Q3-rapport og DN/Nettavisen; Brreg-tallet (1360) er alle ansatte i AIDER AS, ikke berørte. Tidligere varslet opptil 60 permitteringer (Økonomi24, aug. 2026).",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Aider"
+  },
   {
    "id": "moller-mobility-group-2026-11",
    "selskap": "Møller Mobility Group AS",
