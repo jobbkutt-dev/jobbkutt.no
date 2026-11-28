@@ -1,5 +1,5 @@
 {
- "oppdatert": "2026-11-27T14:47",
+ "oppdatert": "2026-11-28T11:47:56+01:00",
  "saker": [
   {
    "id": "aider-2026-11",
@@ -21,6 +21,26 @@
    "orgnr_merknad": "Orgnr for AIDER AS (driftsselskap, 1360 ansatte i Brreg); konsernets øvrige selskaper kan også være berørt.",
    "kommentar": "Antall (40) er permitterte ifølge Aiders Q3-rapport og DN/Nettavisen; Brreg-tallet (1360) er alle ansatte i AIDER AS, ikke berørte. Tidligere varslet opptil 60 permitteringer (Økonomi24, aug. 2026).",
    "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Aider"
+  },
+  {
+   "id": "vipps-mobilepay-2026-11",
+   "selskap": "Vipps MobilePay AS",
+   "sok": "VIPPS MOBILEPAY AS",
+   "antall": 335,
+   "enhet": "ansatte",
+   "omfang": "Kundehåndtering (kundeservice, merchant services og forebygging av økonomisk kriminalitet); drøyt 20 av ca. 600 ansatte i Norge, Danmark og Finland berøres",
+   "status": "varslet",
+   "dato": "2026-11-26",
+   "sektor": "Finans / betaling",
+   "oppsummering": "Vipps har fortalt ansatte i kundehåndtering at bemanningen justeres. Kommunikasjonssjefen sier drøyt 20 av rundt 600 ansatte på tvers av Norge, Danmark og Finland berøres, og begrunner det med færre henvendelser, automatisering og KI. Noen har fått tilbud om nye oppgaver eller deltid, og selskapet rekrutterer samtidig i andre team.",
+   "kilder": [
+    "https://www.kampanje.com/premium/vipps-nedbemanner-peker-pa-ki-og-automatisering/1045166",
+    "https://www.kode24.no/artikkel/vipps-nedbemanner-pa-grunn-av-ki/279724"
+   ],
+   "kommentar": "Antall fra Brreg (335 ansatte i Vipps MobilePay AS). Nyhetene (Kampanje 26.11.26, kode24 27.11.26): drøyt 20 berørte av ca. 600 ansatte i tre land; fordeling per land ikke oppgitt.",
+   "orgnr": "918713867",
+   "brreg_navn": "VIPPS MOBILEPAY AS",
+   "nav_stillinger": "https://arbeidsplassen.nav.no/stillinger?q=Vipps%20MobilePay%20AS"
   },
   {
    "id": "moller-mobility-group-2026-11",
